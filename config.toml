@@ -1,7 +1,7 @@
-baseURL = "https://example.com/"
+baseURL = "https://coders.school/hugo"
 languageCode = "en"                                      # website language
-defaultContentLanguage = "en"                            # [en, zh, ...] determines which i18n file to use
-title = "Kurs C++"                                       # website title
+defaultContentLanguage = "pl"                            # [en, zh, ...] determines which i18n file to use
+title = " "                                              # website title
 theme = "LoveIt"                                         # theme
 enableGitInfo = false                                    # whether to use git commit log to generate lastmod record
 hasCJKLanguage = false                                   # whether to include chinese/japanese/korean
@@ -16,13 +16,25 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
                                                       #### Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
 pygmentsOptions = "linenos=table"
 pygmentsCodefences = true
-pygmentsUseClasses = true
+pygmentsUseClasses = false
 pygmentsCodefencesGuessSyntax = true
 
 [markup]
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineNoStart = 3
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+  [markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+
 
 [author]                                              #### Author Info
   name = "Coders School"
@@ -37,40 +49,58 @@ unsafe = true
 
 [menu]                                                #### Menu Info
   [[menu.main]]
-    identifier = "cpp-course"
-    name = "Kurs C++"
-    url = "cpp-course"
+    identifier = "materialy"
+    name = "Materiały do C++"
+    url = "resources"
     weight = 1
 
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "posts"
-    weight = 1
-
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "tags"
+    identifier = "kurs-cpp"
+    name = "Kurs stacjonarny"
+    url = "https://coders.school/kursy"
     weight = 2
 
   [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "categories"
+    identifier = "kurs-online"
+    name = "Kurs online"
+    url = "https://coders.school/kurs-online"
     weight = 3
 
   [[menu.main]]
-    identifier = "about"
-    name = "O autorze"
-    url = "about"
+    identifier = "poradnik"
+    name = "Poradnik"
+    url = "https://coders.school/poradnik"
     weight = 4
 
   [[menu.main]]
-    identifier = "help"
-    name = "Help"
-    url = "help"
-    weight = 4
+    identifier = "o-nas"
+    name = "O nas"
+    url = "https://coders.school/o-nas"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "faq"
+    name = "FAQ"
+    url = "https://coders.school/faq"
+    weight = 6
+
+  [[menu.main]]
+    identifier = "co-nas-wyroznia"
+    name = "Co nas wyróżnia"
+    url = "https://coders.school/co-nas-wyroznia"
+    weight = 7
+
+  [[menu.main]]
+    identifier = "sprawdz-sie"
+    name = "Sprawdź się"
+    url = "https://coders.school/sprawdz-sie"
+    weight = 8
+
+  [[menu.main]]
+    identifier = "kontakt"
+    name = "Kontakt"
+    url = "https://coders.school/o-nas#kontakt"
+    weight = 9
 
 [params]
   version = "5.x"                                        # LoveIt theme version
@@ -126,18 +156,18 @@ unsafe = true
     email = ""
 
   [params.social]                                        # Social Info in home page
-    GitHub = "xxxx"
-    Linkedin = "xxxx"
-    Twitter = "xxxx"
+    GitHub = "coders-school"
+    Linkedin = "lukaszziobron"
+    #Twitter = "xxxx"
     #Instagram = "xxxx"
-    #Email = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    Email = "lukasz@coders.school"
+    Facebook = "szkola.coders.school"
+    #Telegram = "xxxx"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
     #Youtubelegacy = "xxxx"
     #Youtubecustom = "xxxx"
-    #Youtubechannel = "xxxx"
+    Youtubechannel = "UCVazq4NfH8l4BW_qLEoJy-A"
     #Tumblr ="xxxx"
     #Quora = "xxxx"
     #Keybase = "xxxx"
@@ -191,16 +221,16 @@ unsafe = true
     Twitter = true
     Facebook = true
     Reddit = true
-    #Linkedin = true
+    Linkedin = true
     #Pinterest = true
-    #HackerNews = true
+    HackerNews = true
     #Mix = true
     #Tumblr = true
     #VKontakte = true
     #Weibo = true
 
   [params.publisher]                                     # Publisher Info just for SEO
-    name = "XXXX"
+    name = "Łukasz Ziobroń"
     [params.publisher.logo]
       url = "logo.png"
       width = 127
@@ -208,7 +238,7 @@ unsafe = true
 
   [params.logo]                                          # Website Log Info just for SEO
     url = "logo.png"
-    width = 127
+    width = 152
     height = 40
 
   [params.image]                                         # Website Image Info just for SEO
