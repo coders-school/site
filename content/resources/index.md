@@ -88,19 +88,18 @@ Tabela w trakcie opracowania
 
 ### Po polsku
 
-1. ♠ Mirosław Zelent - Kurs C++
-2. ♠ Mirosław Zelent - Kurs Obiektowy C++
-3. ♠ Tomasz Jasiński - Kurs C++ na YT
+1. Mirosław Zelent - [Kurs C++](https://miroslawzelent.pl/kurs-c++/)
+2. Mirosław Zelent - [Kurs Obiektowy C++](https://miroslawzelent.pl/kurs-obiektowy-c++/)
+3. Tomasz Jaśniewski - [KURS C++ od podstaw. Szkoła średnia, studia](https://www.youtube.com/watch?v=Z_DPVKlk2nA&list=PLKmH7u1gA9hpkNGJJFA5fB8MfPXWDQ1Fy)
 
 ### Po angielsku
 
-1. Bo Xian - STL
+1. [Bo Qian](https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ)
 
 ## Repozytoria
 
 ## Inne linki
 
-
 ---
 
-Chcesz dorzucić jakąś pozycję? [Zrób Pull Request](https://github.com/coders-school/site.git)
+Chcesz dorzucić jakąś pozycję? [Zrób Pull Request](https://github.com/coders-school/site/tree/master/content/resources)
