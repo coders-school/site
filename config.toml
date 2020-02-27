@@ -56,8 +56,8 @@ dateFormatToUse = "2006-01-02"
 
 # Author Info
 [author]                                              #### Author Info
-  name = "Coders School"
-  link = ""
+  name = "Łukasz Ziobroń"
+  link = "https://coders.school/o-nas/#trenerzy"
 
 # Sitemap Info
 [sitemap]
@@ -174,7 +174,7 @@ dateFormatToUse = "2006-01-02"
   linkToMarkdown = true
 
   # site verification code for Google/Bing/Yandex/Pinterest/Baidu
-  google_verification = ""
+  google_verification = "7awM6eOkKNNpFMKM4jPdfyNxJkjPNYgm3IqR_ML8loY"
   bing_verification = ""
   yandex_verification = ""
   pinterest_verification = ""
