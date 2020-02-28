@@ -108,22 +108,16 @@ dateFormatToUse = "2006-01-02"
     weight = 6
 
   [[menu.main]]
-    identifier = "co-nas-wyroznia"
-    name = "Co nas wyróżnia"
-    url = "https://coders.school/co-nas-wyroznia"
-    weight = 7
-
-  [[menu.main]]
     identifier = "sprawdz-sie"
     name = "Sprawdź się"
     url = "https://coders.school/sprawdz-sie"
-    weight = 8
+    weight = 7
 
   [[menu.main]]
     identifier = "kontakt"
     name = "Kontakt"
     url = "https://coders.school/o-nas#kontakt"
-    weight = 9
+    weight = 8
 
 
 [params]
