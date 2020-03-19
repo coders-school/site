@@ -105,6 +105,16 @@ Tabela w trakcie opracowania
 
 ## Inne linki
 
+1. [Programowanie w języku C++](https://infotraining.bitbucket.io/cpp-bs)
+2. [Nowoczesny C++](https://infotraining.bitbucket.io/cpp-modern)
+3. [Programowanie w C++11](https://infotraining.bitbucket.io/cpp-11)
+4. [Efektywne wykorzystanie biblioteki standardowej C++](https://infotraining.bitbucket.io/cpp-stl)
+5. [Programowanie w C++17](https://infotraining.bitbucket.io/cpp-17)
+6. [Zaawansowane programowanie w języku C++](https://infotraining.bitbucket.io/cpp-adv)
+7. [Test-Driven-Development w języku C++](https://infotraining.bitbucket.io/cpp-tdd)
+8. [Wzorce projektowe w języku C++](https://infotraining.bitbucket.io/cpp-dp)
+9. [Programowanie generyczne w języku C++](https://infotraining.bitbucket.io/cpp-templates)
+10. [Programowanie wielowątkowe w C++](https://infotraining.bitbucket.io/cpp-thd)
 ---
 
 Chcesz dorzucić jakąś pozycję? [Zrób Pull Request](https://github.com/coders-school/site/tree/master/content/resources)
