@@ -115,6 +115,9 @@ Tabela w trakcie opracowania
 8. [Wzorce projektowe w języku C++](https://infotraining.bitbucket.io/cpp-dp)
 9. [Programowanie generyczne w języku C++](https://infotraining.bitbucket.io/cpp-templates)
 10. [Programowanie wielowątkowe w C++](https://infotraining.bitbucket.io/cpp-thd)
+
 ---
 
 Chcesz dorzucić jakąś pozycję? [Zrób Pull Request](https://github.com/coders-school/site/tree/master/content/resources)
+
+Podziękowania dla [dotychczasowych kontrybutorów](https://github.com/coders-school/site/graphs/contributors)
