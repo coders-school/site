@@ -1,10 +1,10 @@
 baseURL = "https://coders.school/hugo"
 # website language
-languageCode = "en"
+languageCode = "pl"
 # [en, zh, ...] determines which i18n file to use
 defaultContentLanguage = "pl"
 # website title
-title = " "
+title = "Coders School - Szkoła prawdziwego C++"
 # theme
 theme = "LoveIt"
 # whether to use git commit log to generate lastmod record
@@ -72,51 +72,51 @@ dateFormatToUse = "2006-01-02"
 # Menu Info
 [menu]                                                #### Menu Info
   [[menu.main]]
-    identifier = "materialy"
-    name = "Materiały do C++"
-    url = "resources"
+    identifier = "kurs-cpp"
+    name = "Kurs C++ stacjonarny"
+    url = "https://coders.school/kursy/"
     weight = 1
 
   [[menu.main]]
-    identifier = "kurs-cpp"
-    name = "Kurs stacjonarny"
-    url = "https://coders.school/kursy"
+    identifier = "kurs-online"
+    name = "Kurs C++ online"
+    url = "https://coders.school/kurs-online/"
     weight = 2
 
   [[menu.main]]
-    identifier = "kurs-online"
-    name = "Kurs online"
-    url = "https://coders.school/kurs-online"
+    identifier = "sprawdz-sie"
+    name = "Test C++"
+    url = "https://coders.school/sprawdz-sie/"
     weight = 3
+
+  [[menu.main]]
+    identifier = "materialy"
+    name = "Książki"
+    url = "resources"
+    weight = 4
 
   [[menu.main]]
     identifier = "poradnik"
     name = "Poradnik"
-    url = "https://coders.school/poradnik"
-    weight = 4
+    url = "https://coders.school/poradnik/"
+    weight = 5
 
   [[menu.main]]
     identifier = "o-nas"
     name = "O nas"
-    url = "https://coders.school/o-nas"
-    weight = 5
+    url = "https://coders.school/o-nas/"
+    weight = 6
 
   [[menu.main]]
     identifier = "faq"
     name = "FAQ"
-    url = "https://coders.school/faq"
-    weight = 6
-
-  [[menu.main]]
-    identifier = "sprawdz-sie"
-    name = "Sprawdź się"
-    url = "https://coders.school/sprawdz-sie"
+    url = "https://coders.school/faq/"
     weight = 7
 
   [[menu.main]]
     identifier = "kontakt"
     name = "Kontakt"
-    url = "https://coders.school/o-nas#kontakt"
+    url = "https://coders.school/o-nas#kontakt/"
     weight = 8
 
 

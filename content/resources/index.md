@@ -1,7 +1,7 @@
 +++
 title = "Materiały do nauki C++"
 date = "2020-02-25T14:34:14+01:00"
-draft = true
+draft = false
 description = "Materiały do nauki C++, książki o c++, kursy online c++, pdf c++. Różne poziomy: dla początkujących, dla zaawansowanych, dla ekspertów."
 keywords = ["książki c++", "książka c++", "książki do c++", "książka do c++", "ksiażki o c++ dla początkujących", "książki o c++ dla zaawansowanych", "książki o c++ pdf", "ksiażka o c++ dla początkujących", "książka o c++ dla zaawansowanych", "książka o c++", "c++ książki", "c++ książka", "jakie książki do c++", "jakie książki polecacie do c++", "z czego uczyć się c++", "c++ jakie książki", "książka do nauki c++", "książki do nauki c++", "książki programowanie c++", "książka programowanie c++", "c++ polecane książki"]
 toc = true
