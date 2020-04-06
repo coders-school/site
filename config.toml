@@ -34,7 +34,7 @@ dateFormatToUse = "2006-01-02"
     lineNos = true
     lineNumbersInTable = true
     noClasses = false
-    style = "monokai"
+    style = "github"
     tabWidth = 4
   # Goldmark is from Hugo 0.60 the default library used for Markdown
   [markup.goldmark]
@@ -67,7 +67,7 @@ dateFormatToUse = "2006-01-02"
 
 # Permalinks Info (https://gohugo.io/content-management/urls/#permalinks)
 [Permalinks]
-  posts = ":year/:month/:filename"
+  posts = ":filename"
 
 # Menu Info
 [menu]                                                #### Menu Info
@@ -212,7 +212,7 @@ dateFormatToUse = "2006-01-02"
     #Instagram = "xxxx"
     Email = "lukasz@coders.school"
     Facebook = "szkola.coders.school"
-    Telegram = "xxxx"
+    #Telegram = "xxxx"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
     #Youtubelegacy = "xxxx"
