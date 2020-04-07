@@ -116,7 +116,7 @@ dateFormatToUse = "2006-01-02"
   [[menu.main]]
     identifier = "kontakt"
     name = "Kontakt"
-    url = "o-nas#kontakt/"
+    url = "o-nas/#kontakt"
     weight = 8
 
 
