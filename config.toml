@@ -57,7 +57,7 @@ dateFormatToUse = "2006-01-02"
 # Author Info
 [author]                                              #### Author Info
   name = "Łukasz Ziobroń"
-  link = "https://coders.school/o-nas/#trenerzy"
+  link = "o-nas/#trenerzy"
 
 # Sitemap Info
 [sitemap]
@@ -74,49 +74,49 @@ dateFormatToUse = "2006-01-02"
   [[menu.main]]
     identifier = "kurs-cpp"
     name = "Kurs C++ stacjonarny"
-    url = "https://coders.school/kursy/"
+    url = "kursy/"
     weight = 1
 
   [[menu.main]]
     identifier = "kurs-online"
     name = "Kurs C++ online"
-    url = "https://coders.school/kurs-online/"
+    url = "kurs-online/"
     weight = 2
 
   [[menu.main]]
     identifier = "sprawdz-sie"
     name = "Test C++"
-    url = "https://coders.school/sprawdz-sie/"
+    url = "sprawdz-sie/"
     weight = 3
-
-  [[menu.main]]
-    identifier = "materialy"
-    name = "Książki"
-    url = "resources"
-    weight = 4
 
   [[menu.main]]
     identifier = "poradnik"
     name = "Poradnik"
-    url = "https://coders.school/poradnik/"
+    url = "poradnik/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "materialy"
+    name = "Książki"
+    url = "resources/"
     weight = 5
 
   [[menu.main]]
     identifier = "o-nas"
     name = "O nas"
-    url = "https://coders.school/o-nas/"
+    url = "o-nas/"
     weight = 6
 
   [[menu.main]]
     identifier = "faq"
     name = "FAQ"
-    url = "https://coders.school/faq/"
+    url = "faq/"
     weight = 7
 
   [[menu.main]]
     identifier = "kontakt"
     name = "Kontakt"
-    url = "https://coders.school/o-nas#kontakt/"
+    url = "o-nas#kontakt/"
     weight = 8
 
 
