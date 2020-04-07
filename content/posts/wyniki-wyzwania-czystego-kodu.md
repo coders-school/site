@@ -3,7 +3,7 @@ title: "Wyniki wyzwania czystego kodu"
 date: 2020-04-02T22:40:05+02:00
 lastmod: 2020-04-02T22:40:05+02:00
 draft: false
-description: ""
+description: "Omówienie wyników wyzwania czystego kodu - artykuł i wideo. Zobacz zwycięskie rozwiązania."
 show_in_homepage: true
 show_description: false
 license: ''
@@ -101,9 +101,7 @@ Zastrzeżenie - nie było rozwiązania, które by w 100% nie miało żadnego z p
 
 ## Hall of Fame
 
-### Zwycięskie rozwiązanie
-
-#### Nagroda: 100% zniżki na kurs C++ online
+### Zwycięskie rozwiązanie - 100% zniżki na kurs C++ online
 
 #### Autor: Krzysztof Szytko
 
@@ -133,7 +131,7 @@ std::string decrypt(std::string m, std::string key) {
 }
 ```
 
-#### Moje komentarze
+{{< admonition type=note title="Moje komentarze" details=false >}}
 
 * 0 pętli
 * Można było użyć `' '` zamiast `32`. Trochę trudniej napisać znak DEL :D
@@ -141,9 +139,9 @@ std::string decrypt(std::string m, std::string key) {
 * Agrument `std::string m` mógł się nazywać `std::string message`
 * `vKey` mogło być od razu typu `std::string`. Nie trzeba by było kopiować zawartości vectora do stringa.
 
-### Wyróżnione rozwiązania
+{{< /admonition >}}
 
-#### Nagroda: 50% zniżki na kurs C++ online
+### Wyróżnione rozwiązania - 50% zniżki na kurs C++ online
 
 #### Marcin Duś
 
@@ -173,7 +171,7 @@ std::vector<int> generateKey() {
 }
 ```
 
-##### Moje komentarze
+{{< admonition type=note title="Moje komentarze" details=false >}}
 
 * Rozwiązanie bardzo podobne do zwycięskiego
 * 0 pętli
@@ -182,6 +180,8 @@ std::vector<int> generateKey() {
 * Optymalizacja - argumenty można było przyjąć przez `const &`, a zwracać zmienną lokalną, aby zadziałało RVO
 * Optymalizacja - lambdy mogą przechwytywać przez referencję
 * Zamiast pary `allowedChars` można było użyć odpowiednio nazwanych stałych `constexpr`
+
+{{< /admonition >}}
 
 #### Grzegorz Choiński
 
@@ -221,7 +221,7 @@ std::string decrypt(std::string cypher, std::vector<char> key) {
 }
 ```
 
-##### Moje komentarze
+{{< admonition type=note title="Moje komentarze" details=false >}}
 
 * Rozwiązanie bardzo podobne do zwycięskiego
 * 0 pętli
@@ -229,6 +229,8 @@ std::string decrypt(std::string cypher, std::vector<char> key) {
 * Niepotrzebna kalka nazwy `key = key` na liście przechwytującej
 * Optymalizacja - lambdy mogą przechwytywać przez referencję
 * Optymalizacja - argumenty można było przyjąć przez `const &`, a zwracać zmienną lokalną, aby zadziałało RVO
+
+{{< /admonition >}}
 
 #### Wojciech Razik
 
@@ -283,13 +285,16 @@ KeyType generateKey() {
 }
 ```
 
-##### Moje komentarze
+{{< admonition type=note title="Moje komentarze" details=false >}}
 
 * Ładne zastosowanie C++20
 * 0 pętli
 * `make_array()` pomimo działania w czasie kompilacji, nie jest tak czytelne jak `std::iota`. Szablonowa lambda z szablonem wariadycznym powoduje, że trzeba się chwilę zagłębić w ten kod, aby go zrozumieć
 * `generateLookup()` jest wywoływane każdorazowo przy wywołaniu `encrypt()` lub `decypt()`, pomimo iż jego wynik działania za każdym razem będzie ten sam, gdy używamy tego samego klucza
+* Można użyć `std::back_inserter(lookup_table)` zamiast `std::inserter(lookup_table, lookup_table.end())`
 * Parametry są przekazywane przez `const &`, chociaż nie wszędzie.
+
+{{< /admonition >}}
 
 #### Andrzej Rafalski
 
@@ -321,12 +326,14 @@ std::string decrypt(std::string cypher, const std::vector<char> &key){
 }
 ```
 
-##### Moje komentarze
+{{< admonition type=note title="Moje komentarze" details=false >}}
 
 * Użyte `rand()` zamiast gotowego generatora liczb losowych
 * Użyte `std::random_shuffle`, które jest usunięte w C++17
 * Magiczne wartości 32 i 95 w kodzie
 * Parametry można przekazywać przez `const &`
+
+{{< /admonition >}}
 
 #### Karol Dudzic
 
@@ -384,16 +391,16 @@ std::string decrypt(const std::string& cypher, const std::string& key)
 }
 ```
 
-##### Moje komentarze
+{{< admonition type=note title="Moje komentarze" details=false >}}
 
 * 1 pętla `std::for_each`
 * Można użyć `std::front_inserter(result)` zamiast `std::inserter(result, result.begin())`
 * Argumenty przekazywane przez `const &`
 * Zwracanie zmiennych lokalnych -> RVO
 
-### Pozostali finaliści
+{{< /admonition >}}
 
-#### Nagroda: 10% zniżki na kurs C++ online
+### Pozostali finaliści - 10% zniżki na kurs C++ online
 
 * Wiktor B.
 * Mint B.
@@ -428,10 +435,8 @@ std::string decrypt(const std::string& cypher, const std::string& key)
 
 ## Testy jednostkowe
 
-[Zobacz to bezpośrednio na GitHub Gist](https://gist.github.com/ziobron/9e6c862abf2a97bbe66ef6ab8c51e591)
+{{< gist ziobron 9e6c862abf2a97bbe66ef6ab8c51e591 >}}
 
-<script src="https://gist.github.com/ziobron/9e6c862abf2a97bbe66ef6ab8c51e591.js"></script>
-
-Ślicznie dziękuję wszystkim wam za udział w wyzwaniu. Głównym zwycięzcom gratuluję :)
+Ślicznie dziękuję wszystkim wam za udział w wyzwaniu. Wszystkim zwycięzcom gratuluję :)
 
 PS. W kwietniu szykuje się kolejne wyzwanie. Jeśli nie chcesz go przegapić, to zapisz się na [newsletter](https://coders.school/#newsletter)
