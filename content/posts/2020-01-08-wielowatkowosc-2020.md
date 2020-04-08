@@ -1,10 +1,8 @@
 ---
 title: Wielowątkowość w C++ w lutym i marcu 2020
 author: Łukasz Ziobroń
-type: post
 date: 2020-01-08T13:47:02+00:00
 url: /post/wielowatkowosc-2020/
-featured_image: /wp-content/uploads/2020/01/highres_479206888.jpeg.png
 categories:
   - Post
 tags:
@@ -12,15 +10,19 @@ tags:
   - mini kurs
   - wielowątkowość
   - wrocław
+summary: "Już niedługo w Coders School odbędzie się kurs wielowątkowość w języku C++. Znajdziesz tu informacje o terminach spotkań, tematyce, trenerze, przygotowaniu, kosztach oraz zapisach."
 
-draft: false
-show_in_homepage: true
-show_description: false
+featuredImage: "../../images/featured-wielowatkowosc-2020.png"
+featuredImagePreview: ""
 
-comment: true
 toc: true
 autoCollapseToc: true
 math: false
+lightgallery: true
+linkToMarkdown: true
+share:
+  enable: true
+comment: true
 
 ---
 Wszystkiego dobrego w Nowym Roku 🙂 Już niedługo w Coders School odbędzie się kurs wielowątkowość w języku C++. Oto detale:
