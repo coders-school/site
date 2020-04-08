@@ -6,9 +6,10 @@ draft: false
 description: "Omówienie wyników wyzwania czystego kodu - artykuł i wideo. Zobacz zwycięskie rozwiązania."
 show_in_homepage: true
 show_description: false
+url: /post/wyniki-wyzwania-czystego-kodu/
 license: ''
 
-tags: ["wyzwanie", "challenge", "czysty kod"]
+tags: ["wyzwanie", "challenge", "czysty kod", "c++", "online"]
 categories: []
 
 featured_image: ''
