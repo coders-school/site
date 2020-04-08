@@ -1,26 +1,29 @@
 ---
-title: Podsumowanie roku 2019
-author: Łukasz Ziobroń
-type: post
+title: "Podsumowanie roku 2019"
+author: "Łukasz Ziobroń"
 date: 2020-02-02T15:24:15+00:00
-url: /post/podsumowanie-roku-2019/
-featured_image: /wp-content/uploads/2020/02/Coders-School.png
-categories:
-  - Post
-tags:
-  - podsumowanie
+url: "/post/podsumowanie-roku-2019/"
+featuredImage: "../../images/featured-podsumowanie-roku-2019.png"
+featuredImagePreview: ""
+categories: ["Post"]
+tags: ["podsumowanie"]
 
 draft: false
 show_in_homepage: true
 show_description: false
 
-comment: true
 toc: true
 autoCollapseToc: true
 math: false
-
+lightgallery: true
+linkToMarkdown: true
+share:
+  enable: true
+comment: true
 ---
 Minął już szał na podsumowania poprzedniego roku, bo minął już pierwszy miesiąc nowego roku. Aby nie wpaść do mainstreamu postanowiłem się wyróżnić i tak samo jak w poprzednim roku publikuję podsumowanie poprzedniego dopiero teraz 🙂
+
+<!--more-->
 
 ## Jak zmieniła się sytuacja?
 

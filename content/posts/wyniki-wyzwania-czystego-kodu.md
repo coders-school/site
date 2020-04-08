@@ -4,21 +4,27 @@ date: 2020-04-02T22:40:05+02:00
 lastmod: 2020-04-02T22:40:05+02:00
 draft: false
 description: "Omówienie wyników wyzwania czystego kodu - artykuł i wideo. Zobacz zwycięskie rozwiązania."
+summary: "Dzisiaj 2 kwietnia i tak jak obiecałem publikuję wyniki wyzwania czystego kodu, w którym można było wygrać zniżki na kurs C++ online. Wyzwanie polegało na implementacji szyfru podstawieniowego, a cała trudność polegała na tym, że użycie pętli było karane. Należało używać algorytmów STL."
 show_in_homepage: true
 show_description: false
 url: /post/wyniki-wyzwania-czystego-kodu/
 license: ''
 
 tags: ["wyzwanie", "challenge", "czysty kod", "c++", "online"]
-categories: []
+categories: ["Post"]
+hiddenFromHomePage: false
 
-featured_image: ''
-featured_image_preview: ''
+featuredImage: "../../images/featured-wyniki-wyzwania-czystego-kodu.png"
+featuredImagePreview: ""
 
-comment: true
 toc: true
 autoCollapseToc: true
 math: false
+lightgallery: true
+linkToMarkdown: true
+share:
+  enable: true
+comment: true
 ---
 
 Dzisiaj 2 kwietnia i tak jak obiecałem publikuję wyniki wyzwania czystego kodu.
