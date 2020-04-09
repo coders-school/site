@@ -6,7 +6,9 @@ draft: true
 author: ""
 authorLink: ""
 description: ""
+summary: ""
 license: ""
+url: ""
 
 tags: []
 categories: []
