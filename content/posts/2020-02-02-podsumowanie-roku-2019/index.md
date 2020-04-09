@@ -2,15 +2,15 @@
 title: "Podsumowanie roku 2019"
 author: "Łukasz Ziobroń"
 date: 2020-02-02T15:24:15+00:00
+draft: false
 url: "/post/podsumowanie-roku-2019/"
-featuredImage: "../../images/featured-podsumowanie-roku-2019.png"
-featuredImagePreview: ""
+
 categories: ["Post"]
 tags: ["podsumowanie"]
+hiddenFromHomePage: false
 
-draft: false
-show_in_homepage: true
-show_description: false
+featuredImage: "featured.png"
+featuredImagePreview: "post/podsumowanie-roku-2019/featured.png"
 
 toc: true
 autoCollapseToc: true

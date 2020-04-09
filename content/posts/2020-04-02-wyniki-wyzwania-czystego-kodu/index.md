@@ -14,8 +14,8 @@ tags: ["wyzwanie", "challenge", "czysty kod", "c++", "online"]
 categories: ["Post"]
 hiddenFromHomePage: false
 
-featuredImage: "../../images/featured-wyniki-wyzwania-czystego-kodu.png"
-featuredImagePreview: ""
+featuredImage: "featured.png"
+featuredImagePreview: "post/wyniki-wyzwania-czystego-kodu/featured.png"
 
 toc: true
 autoCollapseToc: true
