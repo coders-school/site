@@ -14,8 +14,8 @@ tags: []
 categories: []
 hiddenFromHomePage: false
 
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "featured.jpg"
+featuredImagePreview: "{{ .url }}{{ .featuredImage }}"
 
 toc: false
 autoCollapseToc: true
