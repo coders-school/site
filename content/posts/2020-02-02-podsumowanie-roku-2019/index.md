@@ -1,11 +1,11 @@
 ---
 title: "Podsumowanie roku 2019"
-author: "Łukasz Ziobroń"
 date: 2020-02-02T15:24:15+00:00
+author: "Łukasz Ziobroń"
 draft: false
 url: "/post/podsumowanie-roku-2019/"
 
-categories: ["Post"]
+categories: ["Post", "Raport"]
 tags: ["podsumowanie"]
 hiddenFromHomePage: false
 
@@ -38,7 +38,7 @@ Od listopada uwielbiam poniedziałki 🙂 Nie, żebym jakoś ich nie lubił wcze
 W [poprzednim wpisie](https://coders.school/post/podsumowanie-roku-2018/) opisałem swoje założenia na 2019 rok. Były one takie:
 
 * **Zrobić co najmniej 1 mini kurs w wersji online.** To się niestety nie udało.
-* **Skupić się bardziej na <a style="color: #cf802a;" href="https://coders.school/mini-kursy-cpp/">mini kursach</a> zamiast na <a style="color: #cf802a;" href="https://coders.school/kurs-cpp/">pełnym kursie C++</a>**. Też się nie udało. Co więcej nie zamierzam się w ogóle teraz skupiać na mini kursach. Bardzo mało ludzi poszukuje takich szkoleń samych z siebie. Raczej firmy zamawiają takie szkolenie. W tym roku w planach mam tylko zrealizowanie mini kursu z Wielowątkowości.
+* **Skupić się bardziej na <a href="/mini-kursy-cpp/">mini kursach</a> zamiast na <a href="/kurs-cpp/">pełnym kursie C++</a>**. Też się nie udało. Co więcej nie zamierzam się w ogóle teraz skupiać na mini kursach. Bardzo mało ludzi poszukuje takich szkoleń samych z siebie. Raczej firmy zamawiają takie szkolenie. W tym roku w planach mam tylko zrealizowanie mini kursu z Wielowątkowości.
 * **Dochód 36 000 zł**. Rok temu napisałem coś takiego: „Dopiero po kilku miesiącach pracy uświadomiłem sobie, że przychód nie jest żadnym wyznacznikiem tego, jak firma prosperuje. Ważniejszy jest dochód, czyli przychód &#8211; koszty”. A teraz znów zamierzam używać tylko przychodu 🙂 Przy JDG czasami ciężko jest rozgraniczyć co jest faktycznym kosztem firmy, a co wydatkiem częściowo prywatnym. Przy tej formie działalności takiego rozgraniczenia nie ma, więc mogę powiedzieć, że zarazem osiągnąłem postawiony sobie cel, jak również go nie osiągnąłem. Ale przychód w roku 2019 był większy niż w 2018, więc idzie w dobrą stronę 🙂
 
 A poniżej podsumowanie 2019 roku w liczbach.
@@ -64,7 +64,7 @@ W tym roku natomiast nie robię żadnych założeń 🙂 Po uwolnieniu się od e
 
 ## Plany na najbliższe 3 miesiące (ze statusem)
 
-* [x] Zrealizować drugą edycję kursu <a style="color: #cf802a;" href="https://coders.school/post/wielowatkowosc-2020/">Wielowątkowość w C++</a> (16.02, 23.02, 01.03, 08.03)
+* [x] Zrealizować drugą edycję kursu <a href="/post/wielowatkowosc-2020/">Wielowątkowość w C++</a> (16.02, 23.02, 01.03, 08.03)
 * [ ] Oworzyć weekendowe warsztaty z C++ dla początkujących (NOWOŚĆ!) (kwiecień) (UPDATE: Koronawirus zepsuł ten punkt ;)
 * [x] Rozpocząć blogowanie i Youtubowanie na temat C++. Będę dzielił się wiedzą za darmo 🙂
 

@@ -1,34 +1,38 @@
 ---
-title: 3 edycja kursu C++ zakończona
-author: Łukasz Ziobroń
-type: post
+title: "3 edycja kursu C++ zakończona"
 date: 2019-04-05T15:13:11+00:00
-url: /post/3-edycja-kursu-cpp-zakonczona/
-featured_image: /wp-content/uploads/2019/04/3_edycja_absolwenci.jpg
-categories:
-  - Post
-tags:
-  - c++
-  - kurs
-  - wrocław
-  - programowanie
-
 draft: false
-show_in_homepage: true
-show_description: false
+author: "Łukasz Ziobroń"
+authorLink: ""
+description: ""
+summary: ""
+license: ""
+url: "/post/3-edycja-kursu-cpp-zakonczona/"
 
-comment: true
+tags: ["c++", "kurs", "wrocław", "programowanie"]
+categories: ["Post", "Stacjonarny kurs C++"]
+hiddenFromHomePage: false
+
+featuredImage: "featured.jpg"
+featuredImagePreview: "/post/3-edycja-kursu-cpp-zakonczona/featured.jpg"
+
 toc: true
 autoCollapseToc: true
 math: false
+lightgallery: true
+linkToMarkdown: true
+share:
+  enable: true
+comment: true
 ---
-## 3 edycja kursu C++ zakończona
-
-<a href="https://coders.school/wp-content/uploads/2019/04/3_edycja_absolwenci.jpg" data-elementor-open-lightbox="yes"><br /> <img src="https://coders.school/wp-content/uploads/elementor/thumbs/3_edycja_absolwenci-o5xedamtly1gv2pks9t2onw71g8ymoi3hyog9l2zse.jpg" title="Absolwenci 3 edycji kursu C++" alt="Absolwenci 3 edycji kursu C++" /> </a>
 
 Kolejna edycja kursu C++ już za nami. Kolejni absolwenci podnieśli swój poziom umiejętności programowania w języku C++ 🙂
 
-Od początku stycznia do końca marca 2019 uczyliśmy się wspólnie profesjonalnego programowania w języku C++. Spędziliśmy wspólnie w jednym pomieszczeniu 53 godziny (oraz kilka dodatkowych godzin na integracji przy pizzy i piwie). Kodziliśmy często do późnych godzin nocnych. Dyskusje on-line na naszym grupowym Discordzie trwały do późna. A teraz możemy spokojnie odpocząć 🙂
+Od początku stycznia do końca marca 2019 uczyliśmy się wspólnie profesjonalnego programowania w języku C++. 
+
+<!--more-->
+
+Spędziliśmy wspólnie w jednym pomieszczeniu 53 godziny (oraz kilka dodatkowych godzin na integracji przy pizzy i piwie). Kodziliśmy często do późnych godzin nocnych. Dyskusje on-line na naszym grupowym Discordzie trwały do późna. A teraz możemy spokojnie odpocząć 🙂
 
 Kurs ukończyło 9 osób.
 
@@ -67,8 +71,6 @@ Tematyka kursu nie zmieniła się znacząco od poprzednich edycji. Znalazła si�
 Informacje odnośnie organizacji kolejnego kursu pojawią się na początku maja. Zachęcam do śledzenia strony Coders School (na której właśnie jesteś) lub [naszego Facebooka][1].
   
 Jeśli nie chcesz, aby informacja o zapisach Ci umknęła, polecam zostawić e-mail w [newsletterze][2].
-
-## Aktualności
 
  [1]: https://www.facebook.com/szkola.coders.school/
  [2]: #newsletter

@@ -1,30 +1,35 @@
 ---
-title: Ostatnia edycja kursu C++
-author: Łukasz Ziobroń
-type: post
+title: "Ostatnia edycja kursu C++"
 date: 2019-06-07T15:22:29+00:00
-url: /post/ostatnia-edycja-kursu-cpp/
-featured_image: /wp-content/uploads/2017/06/front.jpg
-categories:
-  - Post
-tags:
-  - c++
-  - kurs
-  - programowanie
-  - wrocław
-
+lastmod: 2020-04-10T12:27:13+00:00
 draft: false
-show_in_homepage: true
-show_description: false
+author: "Łukasz Ziobroń"
+authorLink: ""
+description: ""
+summary: ""
+license: ""
+url: "/post/ostatnia-edycja-kursu-cpp/"
 
-comment: true
+tags: ["c++", "kurs", "programowanie", "wrocław"]
+categories: ["Post", "Stacjonarny Kurs C++"]
+hiddenFromHomePage: false
+
+featuredImage: "featured.jpg"
+featuredImagePreview: "/post/ostatnia-edycja-kursu-cpp/featured.jpg"
+
 toc: true
 autoCollapseToc: true
 math: false
-
+lightgallery: true
+linkToMarkdown: true
+share:
+  enable: true
+comment: true
 ---
 Organizuję **ostatnią edycję kursu C++** w Coders School. W przyszłości raczej nie planuję już organizować kolejnej edycji stacjonarnej we Wrocławiu, więc jeśli interesuje Cię ten kurs, to może być dla Ciebie ostatnia okazja.
-  
+
+<!--more-->
+
 Poniżej znajdziesz mnóstwo informacji odnośnie kursu. Gdyby te informacje nie były wystarczające to odsyłam Cię jeszcze na [stronę kursu][1] oraz do [FAQ][2].
 
 ## Harmonogram kursu C++
@@ -36,7 +41,7 @@ Ostatnia edycja kursu C++ będzie trwała przez 3 miesiące &#8211; lipiec, sier
 
 Czasy trwania zajęć są różne. Pierwsze 3 zajęcia będą wspólne dla obu grup. Odbędą się one w pierwsze 3 soboty lipca (6, 13 i 20 lipca) i trwać będą po 5 godzin. Pozostałe zajęcia będą trwać zazwyczaj po 3,5 godziny.
 
-<a href="https://coders.school/wp-content/uploads/2019/06/harmonogram_4_edycja.pdf" role="button"><br /> Zobacz dokładny harmonogram zajęć<br /> </a>
+<a class="button" href="harmonogram_4_edycja.pdf" role="button">Zobacz dokładny harmonogram zajęć</a>
 
 ## Tematyka zajęć
 
@@ -64,7 +69,7 @@ W tej edycji jest kilka wariantów cenowych kursu C++. Oto one:
 
 Aby mieć zarezerwowane miejsce musisz dokonać wpłaty zaliczki. Zaliczkę w wysokości 600 zł możesz wpłacić póki co tylko przelewem on-line. Dane do przelewu dostaniesz na email po wypełnieniu formularza zgłoszeniowego.
 
-<a href="https://coders.school/kurs-cpp/#zainteresowanie" role="button"><br /> Kliknij, aby przejść do formularza zgłoszeniowego<br /> </a>
+<a class="button" href="/kurs-cpp/#zainteresowanie" role="button">Kliknij, aby przejść do formularza zgłoszeniowego</a>
 
 ## Faktura za płatność
 
@@ -98,7 +103,7 @@ Jeśli wolisz naukę z trenerem to możesz przyjść na zajęcia do drugiej grup
 
 Wypełnij formularz zgłoszenia zainteresowania i wpłać zaliczkę. Im szybciej tym lepiej, liczba miejsc jest ograniczona.
 
-<a href="https://coders.school/kurs-cpp/#zainteresowanie" role="button"><br /> Kliknij, aby przejść do formularza zgłoszeniowego<br /> </a>
+<a class="button" href="/kurs-cpp/#zainteresowanie" role="button">Kliknij, aby przejść do formularza zgłoszeniowego</a>
 
 ## Co dalej?
 

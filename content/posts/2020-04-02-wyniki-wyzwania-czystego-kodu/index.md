@@ -11,7 +11,7 @@ url: /post/wyniki-wyzwania-czystego-kodu/
 license: ''
 
 tags: ["wyzwanie", "challenge", "czysty kod", "c++", "online"]
-categories: ["Post"]
+categories: ["Post", "Wyzwanie"]
 hiddenFromHomePage: false
 
 featuredImage: "featured.png"

@@ -1,37 +1,39 @@
 ---
-title: Wielowątkowość w C++ – podsumowanie mini kursu
-author: Łukasz Ziobroń
-type: post
+title: "Wielowątkowość w C++ 2019 – podsumowanie mini kursu"
 date: 2019-05-22T09:31:12+00:00
-excerpt: 'Jesteśmy już po pierwszej edycji kursu Wielowątkowość w C++. Był to zupełnie nowy kurs, przygotowany od zera w głównej mierze przeze mnie, ale nie tylko. '
-url: /post/wielowatkowosc-w-cpp-podsumowanie-mini-kursu/
-featured_image: /wp-content/uploads/2019/05/wątki.png
-categories:
-  - Post
-tags:
-  - c++
-  - mini kurs
-  - multithreading
-  - wielowątkowość
-  - wrocław
-  - podsumowanie
-
 draft: false
-show_in_homepage: true
-show_description: false
+author: "Łukasz Ziobroń"
+authorLink: ""
+description: ""
+summary: ""
+license: ""
+url: "/post/wielowatkowosc-w-cpp-podsumowanie-mini-kursu/"
 
-comment: true
+tags: ["c++", "mini kurs", "wielowątkowość", "wrocław", "podsumowanie"]
+categories: ["Post", "Wielowątkowość"]
+
+featuredImage: "featured.png"
+featuredImagePreview: "/post/wielowatkowosc-w-cpp-podsumowanie-mini-kursu/featured.png"
+
 toc: true
 autoCollapseToc: true
 math: false
+lightgallery: true
+linkToMarkdown: true
+share:
+  enable: true
+comment: true
 ---
-**Jesteśmy już po pierwszej edycji kursu Wielowątkowość w C++. Był to zupełnie nowy kurs, przygotowany od zera w głównej mierze przeze mnie, ale nie tylko. **
+
+Jesteśmy już po pierwszej edycji kursu Wielowątkowość w C++. Był to zupełnie nowy kurs, przygotowany od zera w głównej mierze przeze mnie, ale nie tylko.
+
+<!--more-->
 
 W premierowej edycji mini kursu z [Wielowątkowości w C++][1] wzięło udział 12 osób. Większość z nich stanowili już dotychczasowi kursanci, który ukończyli [Kurs C++][2] lub mini kurs z STLa i postanowili jeszcze bardziej rozwinąć swoje umiejętności.
 
 W ciągu [4 spotkań][3] omówiliśmy i przećwiczyliśmy mnóstwo zagadnień. Pokryliśmy praktycznie całą część biblioteki standardowej związanej z wielowątkowością w standardzie C++17. 
 
-<a data-elementor-open-lightbox="yes" href="https://coders.school/wp-content/uploads/2019/05/wielowątkowość.jpg"><br /> <img src="https://coders.school/wp-content/uploads/elementor/thumbs/wielowątkowość-o86sfyln7nuw3v943qgluhanqlm60fdgoonnncvruk.jpg" title="Część uczestników mini kursu wielowątkowość w C++" alt="Część uczestników mini kursu wielowątkowość w C++" /> </a>
+<img src="absolwenci.jpg" title="Część uczestników mini kursu wielowątkowość w C++" alt="Część uczestników mini kursu wielowątkowość w C++" />
 
 ## Tematyka mini kursu Wielowątkowość w C++
 
@@ -53,7 +55,7 @@ Standardowo dużo pracy miało miejsce poza spotkaniami. Do zaimplementowania by
 
 Jakiś czas temu zgłosił się do mnie Ihor, który chciał dołączyć do Coders School jako trener. Przeprowadził on lekcję o std::promise i std::future, która została bardzo dobrze odebrana przez uczestników. Ponadto Ihor przeglądał rozwiązania kursantów i sugerował im poprawki oraz czuwał nad jakością moich materiałów szkoleniowych i zgłaszał nieścisłości lub błędy, które udało mu się wychwycić, za co bardzo mu dziękuję 🙂 Zapewne będziemy wspólnie prowadzić [4 edycję Kursu C++][2], która odbędzie się w te wakacje.
 
-<a data-elementor-open-lightbox="yes" href="https://coders.school/wp-content/uploads/2019/05/zadanie.png"><br /> <img src="https://coders.school/wp-content/uploads/elementor/thumbs/zadanie-o86vgyxsalejiwp2v8gt9qvcmr6e4oee2buqr4cpms.png" title="zadanie scoped_thread" alt="zadanie scoped_thread" /> </a>
+<img src="zadanie.png" title="zadanie scoped_thread" alt="zadanie scoped_thread" />
 
 ## Kolejna edycja dopiero za rok
 

@@ -1,30 +1,34 @@
 ---
-title: Edycja letnia 2019 kursu C++ zakończona
-author: Łukasz Ziobroń
-type: post
+title: "Edycja letnia 2019 kursu C++ zakończona"
+lastmod: 2020-04-10T12:19:20+00:00
 date: 2019-10-15T14:06:20+00:00
-url: /post/edycja-letnia-2019-kursu-cpp-zakonczona/
-featured_image: /wp-content/uploads/2019/10/4_edycja_finito.jpg
-categories:
-  - Post
-tags:
-  - c++
-  - programowanie
-  - kurs
-  - wrocław
-  - podsumowanie
-
 draft: false
-show_in_homepage: true
-show_description: false
+author: "Łukasz Ziobroń"
+authorLink: ""
+description: ""
+summary: ""
+license: ""
+url: "/post/edycja-letnia-2019-kursu-cpp-zakonczona/"
 
-comment: true
+tags: ["c++", "programowanie", "kurs", "wrocław", "podsumowanie"]
+categories: ["Post","Stacjonarny Kurs C++"]
+hiddenFromHomePage: false
+
+featuredImage: "featured.jpg"
+featuredImagePreview: "post/edycja-letnia-2019-kursu-cpp-zakonczona/featured.jpg"
+
 toc: true
 autoCollapseToc: true
 math: false
-
+lightgallery: true
+linkToMarkdown: true
+share:
+  enable: true
+comment: true
 ---
 Na początku października zakończyła się czwarta edycja kursu C++ w Coders School. Uczestniczyły w niej osoby, które mają teraz niesamowicie mocną wiedzę techniczną potwierdzoną przez realizowane wspólnie projekty, zadania domowe i testy.
+
+<!--more-->
 
 Absolwenci zyskali nie tylko wiedzę, ale przede wszystkim praktyczne umiejętności z zakresu inżynierii oprogramowania, które są uniwersalne dla każdego języka obiektowego. Zyskali też coś poza umiejętnościami technicznymi &#8211; ciekawe znajomości. W związku z tym utworzył nam się zintegrowany zespół programistów, którzy znają się, wspólnie kodują, a wieczorami chodzą razem na pizzę i piwo 🙂 W sam raz na outsourcing do jakiegoś projektu 😉
 
@@ -56,7 +60,7 @@ Przy zakończeniu trzeciej edycji kursu C++ opisywałem, jakie będą plany na c
 
 Bardzo mnie cieszy, że nigdy jeszcze nie było żadnej negatywnej opinii o kursie. Pojawiają się oczywiście ciągle propozycje usprawnień, za które jestem niesamowcie wdzięczny, bo to one pozwalają rozwijać kurs tak, aby był jeszcze lepszy. Kurs w obecnej formie jest już jednak dość dobrze dopracowany. Gdybym miał się podzielić informacjami zwrotnymi, które dostałem od kursantów to potrzebaby było na nie bardzo dużo miejsca. Zamieszczę jednak zrzut ekranu z jednego pytania ankietowego na temat ogólnej oceny kursu. 3 oznacza, że kurs był zgodny z oczekiwaniami. Ocena 5 oznacza, że kurs znacznie przewyższył oczekiwania kursantów. 40 osób które odpowiedziało na to pytanie to uczestnicy wszystkich edycji tego kursu, nie tylko obecnej.
 
-<img width="525" height="224" src="https://coders.school/wp-content/uploads/2019/10/ocena_kursu.png" alt="Ocena ogólna kursu powyżej oczekiwań" srcset="https://coders.school/wp-content/uploads/2019/10/ocena_kursu.png 948w, https://coders.school/wp-content/uploads/2019/10/ocena_kursu-300x128.png 300w, https://coders.school/wp-content/uploads/2019/10/ocena_kursu-768x327.png 768w, https://coders.school/wp-content/uploads/2019/10/ocena_kursu-600x256.png 600w" sizes="100vw" />
+<img width="525" height="224" src="ocena_kursu.png" alt="Ocena ogólna kursu powyżej oczekiwań" />
 
 ## Kolejna edycja?
 
