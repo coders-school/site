@@ -32,10 +32,10 @@ Serdecznie zapraszam na zapisy na nową edycję kursu programowania C++ we Wro
 
 <!--more-->
 
-<pre>Czy wiesz że...
-Ponad 50% studentów informatyki nawet nie słyszało o systemie kontroli wersji,
-takim jak Git?
-Nikt nie zatrudni programisty, który nie zna tego narzędzia.</pre>
+{{< admonition question >}}
+Ponad 50% studentów informatyki nawet nie słyszało o systemie kontroli wersji, takim jak Git?
+Nikt nie zatrudni programisty, który nie zna tego narzędzia.
+{{< /admonition >}}
 
 ## Program i harmonogram kursu
 

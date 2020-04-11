@@ -32,8 +32,6 @@ Dwie grupy kursantów właśnie ukończyły kurs programowania w języku C++ w C
 
 <!--more-->
 
-![Grupa wieczorowa](featured.jpg)
-
 Letnia edycja kursu programowania C++ rozpoczęła się w lipcu, a zakończyła właśnie teraz, wraz z końcem października. O rozpoczęciu kursu informowałem [tutaj][1]. Przez 4 miesiące wspólnie uczyliśmy się o szczegółach działania i używania języka C++ takich jak:
 
 * obiektowość w C++

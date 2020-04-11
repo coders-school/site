@@ -15,8 +15,8 @@ tags: ["c++", "git", "kurs", "wrocław"]
 categories: ["Post", "Stacjonarny kurs C++"]
 hiddenFromHomePage: false
 
-featuredImage: "featured.png"
-featuredImagePreview: "/post/kurs-c-dla-przyszlych-programistow/featured.png"
+featuredImage: ""
+featuredImagePreview: ""
 
 toc: true
 autoCollapseToc: true
@@ -27,6 +27,8 @@ share:
   enable: true
 comment: true
 ---
+
+![Coders School](ninja.png)
 
 ## Organizacja
 

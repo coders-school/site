@@ -15,8 +15,8 @@ tags: ["Post", "Kurs stacjonarny Java"]
 categories: ["java", "kurs", "programowanie", "wrocław"]
 hiddenFromHomePage: false
 
-featuredImage: "featured.jpg"
-featuredImagePreview: "/post/kurs-programowania-java-dla-przyszlych-programistow/featured.jpg"
+featuredImage: ""
+featuredImagePreview: ""
 
 toc: false
 autoCollapseToc: true
@@ -27,6 +27,8 @@ share:
   enable: true
 comment: true
 ---
+
+![Coders School](ninja.png)
 
 ## Organizacja
 

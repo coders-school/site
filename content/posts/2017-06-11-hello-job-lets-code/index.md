@@ -28,5 +28,4 @@ share:
 comment: true
 ---
 
-![Front](front.jpg)
 ![Back](back.jpg)

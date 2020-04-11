@@ -54,8 +54,6 @@ Uczymy się na przykładzie języka C++, a więc zgłębiamy także rzeczy specy
 
 Zakończeniem kursu jest przygotowanie uczestników do rozmów rekrutacyjnych poprzez omówienie, czego mają się spodziewać i jak się dobrze przygotować do takich rozmów.
 
-![Udogodnienia w Nokia Garage](garage2.jpg)
-
 ## Dwie grupy
 
 Ta edycja kursu C++ obejmuje aż 2 grupy – wieczorową oraz weekendową. Spotykamy się odpowiednio w środy w godzinach 16:30-20:00 lub co drugą niedziele w godzinach 10:00-15:00. Każde z zajęć mają odmienną formę. Na niektórych z nich robimy programowanie w parach, na innych programowanie w większych grupach, na jeszcze innych tzw. Coding Dojo. Robimy też spotkania Scrumowe takie jak daily, retrospektywy czy review. Słowem - wszystko czego absolwenci uczelni lub osoby uczące się samodzielnie nie wiedzą jeszcze o pracy programisty, a na pewno będzie im to potrzebne w przyszłej pracy.
@@ -66,7 +64,7 @@ Ta edycja kursu C++ obejmuje aż 2 grupy – wieczorową oraz weekendową. Spoty
 
 Jedne z pierwszych lekcji tej edycji odbyły się w [Nokia Garage][2]. Jest to miejsce, które sprzyja kreatywnej pracy i zostało zaprojektowane w szczególny sposób. Do wpisu wrzuciłem kilka zdjęć z Nokia Garage. Było tam kilka ciekawostek technologicznych, z których najbardziej użyteczną dla nas była możliwość bezprzewodowego wyświetlania obrazu na kilku telewizorach i projektorach jednocześnie. Bardzo ciekawe były tez smart-tablice, które wyglądały jak zwykłe flipcharty, ale po zeskanowaniu widniejącego na nich kodu QR, uczestnicy mogli na ekranach smartfonów śledzić to co jest obecnie pisane na tablicy. Plusem tego miejsca była jego wszechstronność – każdy mógł pracować w dowolnej pozycji – stojącej przy wysokim stole, albo nawet leżącej na niskich pufach.
 
-![Grupa wieczorowa kursu C++ w Nokia Garage](garage4.jpg)
+![Grupa wieczorowa kursu C++ w Nokia Garage](garage3.jpg)
 
 Nokia Garage jest miejscem, które wspiera rozwój rozwiązań z zakresu: IoT, 5G, Machine Learning, Artificial Intelligence, VR i AR. Jeśli masz pomysł, który chcesz rozwijać i jest związany z powyższymi technologiami, to możesz skontaktować się z [Garage Band’em][3]. I uwaga: wcale nie musisz być pracownikiem Nokii.
 
