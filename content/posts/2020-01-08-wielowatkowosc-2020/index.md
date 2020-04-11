@@ -81,7 +81,7 @@ Cały kurs Wielowątkowość w C++ kosztuje 1099 zł. Kolejne edycje wielowątko
 
 Zapisy na kurs przyjmuję poprzez formularz, który pojawi się po kliknięciu poniższego przycisku. Po zapisaniu się otrzymasz email ze szczegółami organizacyjnymi oraz z informacją o płatności.
 
-<a role="button">Kliknij tutaj, aby otworzyć formularz zapisowy</a>
+{{< button "#" "Kliknij tutaj, aby otworzyć formularz zapisowy (nieaktywne)" >}}
 
 &nbsp;
 

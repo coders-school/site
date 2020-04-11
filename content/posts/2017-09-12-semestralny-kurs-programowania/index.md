@@ -56,4 +56,4 @@ Jeśli osiągniesz dobre wyniki na kursie to zostaniesz polecony bezpośrednio d
 
 Gdyby kurs nie spełnił Twoich oczekiwań, zwrócimy Ci pieniądze. Ale pamiętaj, że kupujesz nie samą wiedzę i materiały. Kupujesz także wymianę doświadczeń, projekty które zostaną w Twoim CV, polecenia do pracy, ulepszenie swojego CV i doradztwo zawodowe, a w najlepszym przypadku szansę na lepsze zarobki. Gwarantujemy, że cena jaką zapłacisz za kurs na pewno zwróci Ci się bardzo szybko.
 
-<a class="button" href="#">Zapisz się (nieaktywne)</a>  <a class="button" href="https://coders.school/sprawdz-sie">Sprawdź się</a>
+{{< button "#" "Zapisz się (nieaktywne)" >}} {{< button "/sprawdz-sie" "Sprawdź się" >}}

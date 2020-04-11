@@ -41,7 +41,7 @@ Ostatnia edycja kursu C++ będzie trwała przez 3 miesiące &#8211; lipiec, sier
 
 Czasy trwania zajęć są różne. Pierwsze 3 zajęcia będą wspólne dla obu grup. Odbędą się one w pierwsze 3 soboty lipca (6, 13 i 20 lipca) i trwać będą po 5 godzin. Pozostałe zajęcia będą trwać zazwyczaj po 3,5 godziny.
 
-<a class="button" href="harmonogram_4_edycja.pdf" role="button">Zobacz dokładny harmonogram zajęć</a>
+{{< button "harmonogram_4_edycja.pdf" "Zobacz dokładny harmonogram zajęć" >}}
 
 ## Tematyka zajęć
 
@@ -69,7 +69,7 @@ W tej edycji jest kilka wariantów cenowych kursu C++. Oto one:
 
 Aby mieć zarezerwowane miejsce musisz dokonać wpłaty zaliczki. Zaliczkę w wysokości 600 zł możesz wpłacić póki co tylko przelewem on-line. Dane do przelewu dostaniesz na email po wypełnieniu formularza zgłoszeniowego.
 
-<a class="button" href="/kurs-cpp/#zainteresowanie" role="button">Kliknij, aby przejść do formularza zgłoszeniowego</a>
+{{< button "/kurs-cpp/#zainteresowanie" "Kliknij, aby przejść do formularza zgłoszeniowego" >}}
 
 ## Faktura za płatność
 
@@ -103,7 +103,7 @@ Jeśli wolisz naukę z trenerem to możesz przyjść na zajęcia do drugiej grup
 
 Wypełnij formularz zgłoszenia zainteresowania i wpłać zaliczkę. Im szybciej tym lepiej, liczba miejsc jest ograniczona.
 
-<a class="button" href="/kurs-cpp/#zainteresowanie" role="button">Kliknij, aby przejść do formularza zgłoszeniowego</a>
+{{< button "/kurs-cpp/#zainteresowanie" "Kliknij, aby przejść do formularza zgłoszeniowego" >}}
 
 ## Co dalej?
 

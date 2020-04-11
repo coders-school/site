@@ -55,8 +55,6 @@ Spotkania odbywają się na terenie Wrocławia. Możemy umówić się w kawiarni
 
 Z darmowych konsultacji można skorzystać tylko raz.
 
-<div class="wp-block-button aligncenter is-style-squared">
-  <a class="wp-block-button__link" href="https://coders.school/?elementor_library=ankieta-darmowe-konsultacje-z-c">Zgłoś się na darmowe konsultacje</a>
-</div>
+{{< button "https://coders.school/?elementor_library=ankieta-darmowe-konsultacje-z-c" "Zgłoś się na darmowe konsultacje" >}}
 
  [1]: https://coders.school/?elementor_library=ankieta-darmowe-konsultacje-z-c
