@@ -56,8 +56,5 @@ Jak widać na powyższej rozpisce zajęcia grupowe będą odbywać się w trybie
 
 Gdyby kurs nie spełnił Twoich oczekiwań, zwrócimy Ci pieniądze. Ale pamiętaj, że kupujesz nie samą wiedzę i materiały. Kupujesz także wymianę doświadczeń, projekty które zostaną w Twoim CV, polecenia do pracy, ulepszenie swojego CV i doradztwo zawodowe, a w najlepszym przypadku szansę na lepsze zarobki. Gwarantujemy, że cena jaką zapłacisz za kurs na pewno zwróci Ci się bardzo szybko.
 
-<div class="buttons">
-  <a class="btn btn-primary custom-button" href="#">Zapisz się (nieaktywne)</a>
-
-  <a class="btn btn-primary custom-button" href="https://coders.school/sprawdz-sie">Sprawdź się</a>
-</div>
+<a class="button" href="#">Zapisz się (nieaktywne)</a>
+<a class="button" href="/sprawdz-sie">Sprawdź się</a>

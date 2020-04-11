@@ -73,7 +73,7 @@ Opcjonalnie po zakończeniu kursu można zdecydować się na Symulacje rozmów k
 
 Po kursie istnieje możliwość polecenia najlepszych uczestników do pracy w dobrych projektach.
 
-Jeśli interesują Cię tylko niektóre wybrane lekcje z [naszej oferty][2], również zapraszamy do kontaktu.
+Jeśli interesują Cię tylko niektóre wybrane lekcje z naszej oferty, również zapraszamy do kontaktu.
 
 ## Wymagania
 
@@ -88,6 +88,3 @@ Zgłoszenia na kurs przyjmujemy na 3 sposoby:
 * napisz maila na <lukasz@coders.school>
 * zadzwoń pod 787 362 825
 * wypełnij formularz zgłoszeniowy na stronie
-
- [1]: https://coders.school/wp-content/uploads/2018/03/c17_lands.png
- [2]: https://coders.school/oferta/

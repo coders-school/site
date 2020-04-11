@@ -84,5 +84,5 @@ Przeczytaj [kim jesteśmy][2], [jak uczymy i co nas wyróżnia][2] lub jakie [k
 
 Najszybciej zapiszesz się pisząc maila na lukasz@coders.school lub dzwoniąc / pisząc SMS pod numer 787 362 825. Możesz też skorzystać z formularzy kontaktowych dostępnych na tej stronie.
 
- [1]: https://coders.school/post/kurs-programowania-c-2018-wroclaw/lukasz_ziobron.jpg
+ [1]: lukasz_ziobron.jpg
  [2]: https://coders.school/o-nas/

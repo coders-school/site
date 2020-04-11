@@ -50,7 +50,6 @@ Pierwsze informacje o kursie opisywaliśmy [tutaj][1].
 * rozpoczęcie kursu 8 stycznia 2019
 * koniec kursu 19 marca 2019
 
-Poniżej możesz pobrać szczegółowe harmonogramy w formacie PDF.
 
 * * *
 
@@ -91,7 +90,6 @@ Poniżej możesz pobrać szczegółowe harmonogramy w formacie PDF.
 
 Zastrzegamy możliwość zmiany harmonogramów.
 
-Jeśli chcesz zostać kompetentnym i wszechstronnym programistą lepszym niż absolwenci uczelni technicznych to zapraszamy do nas 🙂 Pomożemy Ci zabłysnąć na rozmowie o pracę. Zapisy przyjmujemy za pomocą [tego formularza][2].</p>
+Jeśli chcesz zostać kompetentnym i wszechstronnym programistą lepszym niż absolwenci uczelni technicznych to zapraszamy do nas 🙂 Pomożemy Ci zabłysnąć na rozmowie o pracę. Zapisy przyjmujemy poprzez formularz dostępny na naszej stronie.
 
  [1]: https://coders.school/post/kurs-c-dla-przyszlych-programistow/
- [2]: https://coders.school/zglos-zainteresowanie/

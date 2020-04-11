@@ -65,4 +65,4 @@ Absolwenci kursu są w większości chętni do podjęcia pracy od zaraz. Jeśli 
 
  [1]: https://coders.school/post/wystartowala-edycja-wakacyjna-kursu-c/
  [2]: https://github.com/csGroupProjectcs/Bowling
- [3]: https://coders.school/kontakt/
+ [3]: /o-nas/#kontakt

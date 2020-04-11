@@ -72,6 +72,6 @@ Nokia Garage jest miejscem, które wspiera rozwój rozwiązań z zakresu: IoT, 5
 
 ![Nietypowy układ biurek w Nokia Garage](garage4.jpg)
 
- [1]: https://coders.school/post/kurs-programowania-cpp/
+ [1]: /post/kurs-programowania-cpp/
  [2]: http://nokiagarage.pl/
  [3]: http://nokiagarage.pl/join-us/

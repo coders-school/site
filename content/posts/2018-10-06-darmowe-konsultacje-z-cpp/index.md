@@ -30,7 +30,7 @@ comment: true
 
 ## Dlaczego oferujemy darmowe konsultacje?
 
-Odpowiadając na potrzeby, z którymi zgłaszają się do nas osoby pragnące zostać programistami C++. Wiele z tych osób chciałoby mieć możliwość zapytania przede wszystkim o to, czego powinni się uczyć oraz czy "dobre praktyki", które są wykładane na uczelniach faktycznie mają zastosowanie w prawdziwych projektach. Coraz więcej osób chcących zostać programistami jest świadoma tego, że wiele informacji, które są dostępne za darmo w internecie często jest ze sobą sprzecznych. Poprzez ich ogrom cieżko jest wybrać właściwą ścieżkę. My pracujemy w prawdziwych projektach i potrafimy wskazać, czego warto się uczyć i w którą stronę podążać.
+Odpowiadamy na potrzeby, z którymi zgłaszają się do nas osoby pragnące zostać programistami C++. Wiele z tych osób chciałoby mieć możliwość zapytania przede wszystkim o to, czego powinni się uczyć oraz czy "dobre praktyki", które są wykładane na uczelniach faktycznie mają zastosowanie w prawdziwych projektach. Coraz więcej osób chcących zostać programistami jest świadoma tego, że wiele informacji, które są dostępne za darmo w internecie często jest ze sobą sprzecznych. Poprzez ich ogrom cieżko jest wybrać właściwą ścieżkę. My pracujemy w prawdziwych projektach i potrafimy wskazać, czego warto się uczyć i w którą stronę podążać.
 Pragnąc odpowiedzieć na te potrzeby wychodzimy z inicjatywą i oferujemy darmowe konsultacje z języka C++ 🙂
 
 ## Jak się zgłosić?

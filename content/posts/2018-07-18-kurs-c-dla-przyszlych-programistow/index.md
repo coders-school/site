@@ -12,7 +12,7 @@ show_description: false
 url: /post/kurs-c-dla-przyszlych-programistow/
 
 tags: ["c++", "git", "kurs", "wrocław"]
-categories: ["Post"]
+categories: ["Post", "Stacjonarny kurs C++"]
 hiddenFromHomePage: false
 
 featuredImage: "featured.png"

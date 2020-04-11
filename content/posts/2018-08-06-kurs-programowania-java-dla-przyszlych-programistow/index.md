@@ -11,7 +11,7 @@ show_in_homepage: true
 show_description: false
 url: /post/kurs-programowania-java-dla-przyszlych-programistow/
 
-tags: ["Post", "Kurs stacjonary Java"]
+tags: ["Post", "Kurs stacjonarny Java"]
 categories: ["java", "kurs", "programowanie", "wrocław"]
 hiddenFromHomePage: false
 
@@ -84,6 +84,5 @@ Zgłoszenia na kurs przyjmujemy na 3 sposoby:
 * zadzwoń pod 721 158 313
 * wypełnij formularz zgłoszeniowy
 
- [1]: https://coders.school/wp-content/uploads/2018/07/pixel-ninja-logo-square.png
  [2]: https://coders.school/oferta/
  [3]: https://kobietydokodu.pl/kurs-javy/

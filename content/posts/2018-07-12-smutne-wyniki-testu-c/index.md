@@ -30,9 +30,9 @@ comment: true
 
 Postanowiłem, że przedstawię wam wyniki testu C++, który jest od dłuższego czasu dostępny na [Coders School][1]. Niestety wyniki te są dla mnie zatrważające. Przygotowując ten test niecały rok temu, stwierdziłem że umieszczę w nim pytania praktyczne i przekrojowe. Takie pytania, które sam zadałbym na rozmowie rekrutacyjnej, gdybym miał zatrudnić do pracy osobę świeżo po studiach. W teście jest tylko 8 pytań i tylko jedna poprawna odpowiedź na każde pytanie. Miałem nadzieję, że rozkład punktów będzie rozkładem Gaussa i najwięcej będzie wyników w okolicach 50%. Ale rzeczywistość jest inna.
 
-Poniżej prezentuję rozkład wyników testu C++ na dzień dzisiejszy, czyli 12 lipca 2018. [Tu][2] znajduje się bezpośredni link do obrazka.
+Poniżej prezentuję rozkład wyników testu C++ na dzień dzisiejszy, czyli 12 lipca 2018.
 
-![Wyniki testu C++](test.png)
+![Wyniki testu C++](test.png)[2]
 
 **Jest niepokojąco dużo wyników rzędu 1 lub 2 punkty**. Mediana wyników wynosi 2, a średnia 2,9 punkta. W teście wzięło udział póki co 136 osób.
 
