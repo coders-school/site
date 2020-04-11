@@ -15,7 +15,7 @@ categories: []
 hiddenFromHomePage: false
 
 featuredImage: "featured.jpg"
-featuredImagePreview: "{{ .url }}{{ .featuredImage }}"
+featuredImagePreview: ""
 
 toc: false
 autoCollapseToc: true
