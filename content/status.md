@@ -20,7 +20,7 @@ autoCollapseToc: true
 math: false
 ---
 
-Rzeczy oznaczone **pogrubieniem** to te, nad którymi aktualnie pracuję. Listę tworzę od 2020 roku.
+Rzeczy oznaczone **pogrubieniem** to te, nad którymi aktualnie pracujemy. Listę tworzę od 2020 roku.
 
 * [ ] Kurs C++ online
   * [x] Opracowanie materiałów
@@ -41,8 +41,8 @@ Rzeczy oznaczone **pogrubieniem** to te, nad którymi aktualnie pracuję. Listę
   * [ ] Sprzedaż
 * [ ] Migracja strony na silnik Hugo
   * [x] Dostosowanie szablonu strony
-  * [ ] **Migracja postów**
-  * [ ] Migracja artykułów
+  * [x] Migracja postów
+  * [ ] **Migracja artykułów**
 * [x] Wielowątkowość w C++ - kurs stacjonarny
 
 Chcesz w czymś pomóc? [Daj mi znać](/o-nas/#kontakt) :)
