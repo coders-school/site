@@ -84,7 +84,7 @@ enableEmoji = true
         weight = 8
       [languages.pl.params]
         # site description
-        description = "Szkoła prawdziwego i nowoczesnego C++"
+        description = "Szkoła prawdziwego i nowoczesnego C++. Oferujemy kurs C++ online, kurs C++ stacjonarny, wielowątkowość w C++. Poziomy od początkujących, przez zaawansowanych, aż do prawdziwych ekspertów-ninja."
         # site keywords
         keywords = ["kurs c++", "kurs c++ online", "kurs c++ wrocław", "nauka c++", "książki do nauki c++", "c++", "c++ dla początkujących", "c++ dla zaawansowanych", "c++ dla ekspertów"]
         # site default theme ("light", "dark", "auto")
@@ -213,18 +213,20 @@ enableEmoji = true
           # Disqus Comment Config (https://disqus.com/)
           [languages.pl.params.comment.disqus]
             # Disqus shortname to use Disqus in posts
-            shortname = "ukasz_z"
+            shortname = ""
           # Gitalk Comment Config (https://github.com/gitalk/gitalk)
           [languages.pl.params.comment.gitalk]
-            owner = ""
-            repo = ""
-            clientId = ""
-            clientSecret = ""
+            enable = true
+            owner = "coders-school"
+            admin = "ziobron"
+            repo = "memorable-comments"
+            clientId = "d4d4274a938fc71ee7ef"
+            clientSecret = "f9594ffe72f57e7ad1a5806cba81e57964280c73"
           # Valine Comment Config (https://github.com/xCss/Valine)
           [languages.pl.params.comment.valine]
-            enable = true
-            appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
-            appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
+            enable = false
+            appId = ""
+            appKey = ""
             placeholder = "Your comment ..."
             notify = false
             verify = true
@@ -273,7 +275,7 @@ enableEmoji = true
     icp = ""
     # license info (HTML format is allowed)
     # 许可协议信息 (允许使用 HTML 格式)
-    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    license= '<a rel="privacy internal" href="/polityka-prywatnosci/" target="_blank">Polityka prywatności</a>'
   # Page config
   # 文章页面配置
   [params.page]
