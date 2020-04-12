@@ -1,0 +1,21 @@
+---
+title: Polityka prywatności
+author: Łukasz Ziobroń
+type: page
+date: 2020-02-11T11:23:37+00:00
+
+---
+## Polityka prywatności
+
+            <h2>Administrator danych</h2>       
+        <ol><li style="list-style-type: none;"><ol><li>Administratorem danych osobowych jest Łukasz Ziobroń, ul. Tęczowa 83U/23, 53-601 Wrocław.</li><li>Dane będą przetwarzane na podstawie art. 6 ust. 1 lit. a RODO w celu przesyłania Ci newslettera. Dane będą przechowywane w bazie administratora przez czas funkcjonowania newslettera, chyba że wcześniej zrezygnujesz z otrzymywania newslettera, co spowoduje usunięcie danych z bazy.</li><li>Masz prawo do żądania od administratora dostępu do swoich danych osobowych oraz do ich sprostowania, usunięcia lub ograniczenia przetwarzania lub prawo do wniesienia sprzeciwu wobec przetwarzania, a także prawo do przenoszenia danych – na zasadach określonych w art. 16 – 21 RODO. W każdej chwili będziesz mógł wycofać zgodę na otrzymywanie newslettera.</li><li>Jeżeli uznasz, że Twoje dane są przetwarzane niezgodnie z przepisami prawa, będziesz mógł wnieść skargę do organu nadzorczego.</li><li>Przysługuje Ci prawo wglądu do wszystkich Twoich danych osobowych i możliwość ich edycji oraz usunięcia. W tym celu <a href="mailto:lukasz@coders.school">napisz emaila do administratora danych osobowych</a></li><li>Podanie danych jest dobrowolne, ale niezbędne do zapisu do newslettera lub na kurs.</li><li>Celami przetwarzania danych są w zależności od wybranych opcji: wysyłka newslettera, uczestnictwo w kursach programowania oraz wystawianie faktur.</li></ol></li></ol>        
+            <h2>Mechanizmy bezpieczeństwa</h2>      
+        <ol><li style="list-style-type: none;"><ol><li>Witryna wykorzystuje szyfrowany protokół https</li><li>Podawanie danych osobowych w naszych formularzach jest dobrowolne. Przed ich podaniem upewnij się, że połączenie jest szyfrowane (protokół https). Jeśli nie widzisz kłódeczki, to możliwe doprowadził Cię tutaj jakiś stary link. Zmień http na https w adresie witryny.</li><li>Twoje dane nie są przechowywane w formie fizycznej. Trzymamy je tylko w formie elektronicznej w systemie mailingowym (newsletter i uczestnictwo w kursach) i/lub w systemie ActiveNow (uczestnictwo w kursach).</li></ol></li></ol>     
+            <h2>Zapisy na kurs</h2>     
+        <ol><li style="list-style-type: none;"><ol><li>W przypadku zapisu na kurs programowania zbieramy imię, nazwisko, numer telefonu, adres email i adres zamieszkania.</li><li>Pośrednikiem płatności jest Dotpay Sp. z o.o. ul. Wielicka 28 b, 30-552 Kraków, Polska. Dotpay jako pośrednik płatności może mieć dostęp do Twoich danych.</li><li>Wykorzystujemy platformę <a href="https://activenow.io">ActiveNow.io</a> do obsługi zapisów. ActiveNow.io jest podmiotem, który również przetwarza Twoje dane osobowe. Przekazujemy je na potrzeby obsługi płatności i rezerwacji miejsca w grupach. Przekazane dane to: imię, nazwisko, email, adres i opcjonalnie numer telefonu. Informacje o podmiocie: ActiveNow sp. z o. o. Warszawa 00-640 ul. Mokotowska 1, KRS: 0000754602, NIP: 7010889131</li></ol></li></ol>      
+            <h2>Zapisy na newsletter</h2>       
+        <ol><li style="list-style-type: none;"><ol><li>W przypadku newslettera zbieramy jedynie Imię oraz adres email. Newsletter jest obsługiwany przez MailerLite. Polityka prywatności MailerLite jest <a href="https://www.mailerlite.com/legal/privacy-policy">tutaj</a> </li></ol></li></ol>      
+            <h2>Komentarze na www</h2>      
+        <ol><li style="list-style-type: none;"><ol><li>W przypadku pozostawienia komentarza na stronie przechowujemy nick, email, Twój adres IP oraz opcjonalnie adres Twojej strony www. </li></ol></li></ol>      
+            <h2>Mechanizmy śledzące</h2>        
+        <ol><li style="list-style-type: none;"><ol><li>Używamy plików cookies, które pamiętają, które podstrony odwiedzasz.</li><li>Wykorzystujemy Pixel Facebooka (czyt. Facebook Cię śledzi na naszej stronie)</li><li>Wykorzystujemy Google Analytics (czyt. Google Cię śledzi na naszej stronie)</li></ol></li></ol>
