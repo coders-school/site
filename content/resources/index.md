@@ -9,6 +9,7 @@ autoCollapseToc = false
 comment = true
 show_in_homepage = true
 description_as_summary = true
+aliases = ["/resources/", "/ksiazki/", "/materialy/", "/hugo/resources/"]
 +++
 
 ## Darmowe PDFy

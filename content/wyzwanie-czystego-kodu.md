@@ -2,11 +2,13 @@
 title: "Wyzwanie czystego kodu"
 date: 2020-03-18T19:25:03+00:00
 lastmod: 2020-03-18T19:25:04+00:00
-draft: true
+draft: false
 description: ""
 show_in_homepage: true
 show_description: false
 license: ''
+url: '/wyzwanie-stl/'
+aliases: ["/wyzwanie-stl/", "/wyzwanie-czystego-kodu/"]
 
 tags: ["wyzwanie", "challenge", "czysty kod", "c++", "online", "stl"]
 categories: ["Wyzwanie"]
