@@ -28,18 +28,13 @@ comment: true
 
 Oto twoje zadanie. Napisz bibliotekę nagłówkową (header-only) do konwersji liczb z arabskich na rzymskie i odwrotnie.
 
-Do zaimplementowania masz dokładnie 2 funkcje o poniżej podanych sygnaturach:
-
-```cpp
-std::string toRoman(int);
-int fromRoman(std::string);
-```
+Do zaimplementowania masz dokładnie 2 funkcje, które muszą nazywać się `toRoman()` (konwersja z arabskich na rzymskie) oraz `fromRoman()` (konwersja z rzymskich na arabskie)
 
 <!--more-->
 
 W bibliotece możesz mieć więcej funkcji pomocniczych, jeśli tak Ci będzie wygodniej. Biblioteka powinna składać się tylko z jednego pliku nagłówkowego hpp. Oczywiście do jej przetestowania utwórz sobie plik cpp, w którym ją zaincludujesz, ale nie musisz go przesyłać.
 
-Wynik działania funkcji ma być taki:
+Przykład użycia tych funkcji:
 
 ```cpp
 auto roman = toRoman(42);
@@ -74,7 +69,7 @@ Nagorda gwarantowana zostanie przyznana każdemu, kto przyśle poprawnie działa
 
 ## Regulamin
 
-1. Zniżka obowiązuje tylko na obecną edycję kursu C++ online. Aby ją wykorzystać należy kupić kurs w kwietniu 2020.
+1. Zniżka obowiązuje tylko na obecną edycję kursu C++ online. Aby ją wykorzystać należy kupić kurs w kwietniu 2020. Domyślnie przewidziana jest płatność w ratach.
 
 ### § 1 Kwestie RODO
 
@@ -91,7 +86,7 @@ Nagorda gwarantowana zostanie przyznana każdemu, kto przyśle poprawnie działa
 Rozwiązanie prześlij emailem:
 
 * adres: wyzwanie@coders.school
-* tytuł: Wyzwanie szybkiego kodu
+* tytuł: Wyzwanie wydajnego kodu
 * treść:
   * plik nagłówkowy (jako treść maila lub w załączniku) lub
   * link do repo na GitHubie lub
