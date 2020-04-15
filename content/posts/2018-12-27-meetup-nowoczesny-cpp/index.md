@@ -12,7 +12,7 @@ show_description: false
 url: /post/meetup-nowoczesny-cpp/
 
 tags: ["Post", "Meetup"]
-categories: ["c++", "meetup", "nowoczesny c++", "wrocław"]
+categories: ["meetup", "wrocław"]
 hiddenFromHomePage: false
 
 featuredImage: ""
@@ -33,7 +33,7 @@ comment: true
 <!--more-->
 
 * nullptr
-* aliasy using 
+* aliasy using
 * automatyczna dedukcja typów (auto)
 * zakresowa pętla for po kolekcji
 * nowe słowa kluczowe: default, delete, final, override
