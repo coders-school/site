@@ -1,19 +1,19 @@
 ---
-title: "Poradnik"
+title: "Poradnik nauki programowania czyli jak się uczyć C++ i innych języków"
 date: 2020-01-14T17:09:59+00:00
 lastmod: 2020-03-25T14:55:07+00:00
 draft: true
-author: Łukasz Ziobroń
+author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
 license: ""
 show_in_homepage: true
 show_description: false
-url: /poradnik
+url: "/poradnik"
 
 tags: ["nauka", "mity", "c++"]
-categories: ["Warto wiedzieć", "C++"]
+categories: ["Warto wiedzieć"]
 hiddenFromHomePage: false
 
 featuredImage: "featured-poradnik.jpg"
@@ -27,7 +27,6 @@ math: false
 
 {{< image src="/images/featured-poradnik.jpg" >}}
 
-# Poradnik nauki programowania czyli jak się uczyć C++ i innych języków
 
 **Zastanawiasz się nad karierą programisty? Myślisz czego trzeba się nauczyć i jakie są wymagania na stanowisko juniorskie? Chcesz uczyć się skutecznie i osiągnąć dobre rezultaty w niedługim czasie? Jesteś w dobrym miejscu!**
 
@@ -57,7 +56,7 @@ Niewątpliwie obecnie jest moda na programowanie. Ba, nawet nie moda, ale przymu
 
 Każdy na pewno ma kolegę programistę, który już po roku zarabiał [wykopowe 15k][programista-15k]. A programiści to ogólnie przychodzą do pracy tylko wypić kawę, posiedzieć przed Facebookiem i „piniąszki” się zgadzają. Więc o co tutaj chodzi? Dlaczego Ci ludzie z łapanek tak bardzo nie chcą mieć takiego fajnego życia?
 
-Poczytaj co ludzie piszą na wykopie odnośnie programowania. [Mirek][mirek-nie-ma-pracy] żali się, że po bootcampie nie ma pracy, a [ile-zarabiaja-programisci][ile-zarabiaja-programisci] inny dziwi się ile zarabiają programiści.
+Poczytaj co ludzie piszą na wykopie odnośnie programowania. [Mirek][mirek-nie-ma-pracy] żali się, że po bootcampie nie ma pracy, a [tutaj][ile-zarabiaja-programisci] inny dziwi się ile zarabiają programiści.
 
 O tym, jaka jest prawda na pewno wiedzą sami programiści, ale to też nie wszyscy. Dopiero tacy programiści, którzy są już na rynku przez parę lat i zmieniali sami pracę (często kilkukrotnie), wiedzą jak to wygląda. Osoby spoza branży, które chciałyby wejść do tego programistycznego raju, tylko się dziwią. Jak tak można? Gdzie te braki, gdzie te łapanki? Dlaczego mi się to w ogóle nie udaje, chociaż na studiach było dużo programowania?
 
@@ -102,7 +101,7 @@ W nauce C++ najgorszy jest fakt, że w internecie znajdziesz mnóstwo, naprawdę
 Jeszcze jedną pułapką może być przerabianie kolejnego kursu w **IDE, czyli środowisku programistycznym**, z którego rzadko się korzysta w projektach komercyjnych. Takie środowiska to np. Code::Blocks, DevC++ lub Borland C++ Builder. Owszem możesz w nich pisać ciekawe programy i od nich nie zależy w ogóle ich treść, ale nowsze i lepsze środowiska lepiej wspierają programistę i pozwalają na pisanie kodu zgodnego z najnowszymi standardami.
 
 {{< admonition info "Integrated Development Environment" false >}}
-**Integrated Development Environment** (IDE) to po prostu taki edytor tekstu, w którym piszemy kod. Kod można pisać nawet w Notatniku, ale IDE zazwyczaj pomaga poprzez podkreślanie błędów czy propon   owanie uzupełnień nazw.
+**Integrated Development Environment** (IDE) to po prostu taki edytor tekstu, w którym piszemy kod. Kod można pisać nawet w Notatniku, ale IDE zazwyczaj pomaga poprzez podkreślanie błędów czy proponowanie uzupełnień nazw.
 {{< /admonition >}}
 
 Dlatego wymienionych przeze mnie środowisk raczej komercyjnie się nie używa. To co sobie zainstalować, skoro prawie każdy kurs w internecie pokazuje właśnie te środowiska? Jeśli interesuje Cię coś nowoczesnego, to sprawdź:
@@ -491,11 +490,17 @@ Skoro udało Ci się doczytać ten artykuł prawie do końca, to pewnie jesteś 
 
 Celem tego artykułu było pokazanie Ci, jak wielką wagę przykładam nie tylko do samej tematyki zdobywanej wiedzy, ale warunków, w których jest ona zdobywana. Jeśli chcesz otrzymywać informacje na temat rozwoju kursu C++ online, ofertach jego sprzedaży oraz informacje o kursach stacjonarnych oraz od czasu do czasu jakieś darmowe materiały do nauki to najlepsze co możesz dla mnie zrobić to:
 
-1. Zapisać się na newsletter
+1. [Zapisać się na newsletter][newsletter]
 
 2. Wysłać linka do tego artykułu do kogoś, komu się on przyda
 
 3. Podzielić się tym artykułem przez media społecznościowe (Facebook, LinkedIn, Wykop, czy inne)
+
+<div class="post-info-share">
+    <span>
+        {{- partial "plugin/share.html" . -}}
+    </span>
+</div>
 
 {{< button "http://coders.school/poradnik/%23elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI0ODMiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" "Jeśli udało Ci się doczytać ten artykuł do końca, to kliknij tutaj proszę" >}}
 
@@ -514,7 +519,7 @@ Zapisz się na newsletter aby otrzymać darmowe materiały do nauki C++ 17. Otrz
  [serwis-jaxenter]: https://jaxenter.com/most-difficult-programming-languages-152590.html
  [porownanie-jezykow]: https://github.com/Dobiasd/articles/blob/master/programming_language_learning_curves.md
  [krzywa-uczenia-cpp]: https://www.slideshare.net/szborows/boostpython-domesticating-the-snake
- [newsletter]: http://coders.school/#newsletter
+ [newsletter]: https://coders.school/#newsletter
  [kurs-pana-zelenta]: https://miroslawzelent.pl/kurs-c++/
  [kurs-obiektowy-pana-zelenta]: https://miroslawzelent.pl/kurs-obiektowy-c++/
  [mail-ziobron]: mailto:lukasz@coders.school
