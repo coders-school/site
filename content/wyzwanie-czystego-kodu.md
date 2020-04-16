@@ -90,6 +90,5 @@ Aby przesłać mi rozwiązanie musisz mieć pewność, że spełnia ono wszystki
 
 Wyniki wyzwania opublikuję na WWW i Facebooku Coders School 2 kwietnia. Ze zwycięzcami skontaktuję się mailowo. Zwycięskie rozwiązania zostaną opublikowane, aby wszystkie osoby biorące udział w wyzwaniu mogły porównać swój kod ze zwycięskim.
 
- [1]: https://pl.wikipedia.org/wiki/Szyfr_Cezara
- [2]: mailto:lukasz@coders.school
- 
+[1]: https://pl.wikipedia.org/wiki/Szyfr_Cezara
+[2]: mailto:lukasz@coders.school
