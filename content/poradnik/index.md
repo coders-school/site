@@ -1,5 +1,5 @@
 ---
-title: "Poradnik nauki programowania czyli jak się uczyć C++ i innych języków"
+title: "Poradnik nauki programowania, czyli jak się uczyć C++ i innych języków"
 date: 2020-01-14T17:09:59+00:00
 lastmod: 2020-03-25T14:55:07+00:00
 draft: true
@@ -12,8 +12,8 @@ show_in_homepage: true
 show_description: false
 url: "/poradnik"
 
-tags: ["nauka", "mity", "c++"]
-categories: ["Warto wiedzieć"]
+tags: ["nauka", "mity", "c++", "poradnik"]
+categories: ["Artykuł", "Warto wiedzieć"]
 hiddenFromHomePage: false
 
 featuredImage: "featured-poradnik.jpg"
@@ -217,7 +217,7 @@ W **wersji premium** (która będzie dostępna w przedsprzedaży w cenie zwykłe
 
 Oficjalnymi recenzentami kodu będą osoby, które programują zawodowo od paru lat. Poinformują Cię one, czy Twój kod spełnia wszelkie standardy, czy też czegoś mu brakuje. *Na pewno okaże się, że wiele rzeczy można zrobić lepiej.*
 
-{{< admonition note "Mała dygresja" false >}}
+{{< admonition info "Mała dygresja" false >}}
 Ze swojej pierwszej pracy jako programista najbardziej zapamiętałem moje pierwsze poważne, samodzielne zadanie. Miałem do napisania mały kawałek kodu. W 30 liniach, które dostarczyłem, kolega, który zrobił mi przegląd kodu, wypunktował 40 rzeczy, które można zrobić lepiej. Mógłbym się tym załamać, ale wtedy stwierdziłem „wow, też chce być taki jak on”. Pozdrowienia dla Bartosza 🙂
 {{< /admonition >}}
 
@@ -488,38 +488,27 @@ Jak widzisz, tematyka naszego poradnika jest dość spora. Dotyka ona nie tylko 
 
 Skoro udało Ci się doczytać ten artykuł prawie do końca, to pewnie jesteś osobą, która jest zdecydowana na poszerzanie swojej wiedzy z języka C++. Jeśli cała ta ścieżka jest dopiero przed Tobą, to wiedz, że będzie Cię czekać dużo ciężkiej pracy. Nie wystarczy poczytanie książek czy internetu, aby nauczyć się programowania. Trzeba bardzo dużo praktykować. Jeśli nie znajdziesz na to czasu, to nawet nie zaczynaj. Tutaj potrzebny jest czas. Ale może nawet nie tak dużo, jak myślisz. Ważniejsza jest regularność. Lepiej spędzać na nauce 1 godzinę dziennie codziennie niż 10 godzin tylko w weekendy. Wiem doskonale co piszę. Przeładowywanie mózgu informacjami i komasowanie sesji zdobywania wiedzy powoduje pogorszenie efektów nauki niż ich rozłożenie w czasie na mniejsze kawałki. Poza tym im wcześniej coś zaczniesz, to potem łatwiej korygować kurs, gdyby się okazało, że za daleko odpływasz w niewłaściwą stronę. Gdy na stałe będziesz obcować z kompilatorem to zaczniesz go bardzo dobrze rozumieć :)
 
+<!-- {{< button "http://coders.school/poradnik/%23elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI0ODMiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" "Jeśli udało Ci się doczytać ten artykuł do końca, to kliknij tutaj proszę" >}} -->
+
 Celem tego artykułu było pokazanie Ci, jak wielką wagę przykładam nie tylko do samej tematyki zdobywanej wiedzy, ale warunków, w których jest ona zdobywana. Jeśli chcesz otrzymywać informacje na temat rozwoju kursu C++ online, ofertach jego sprzedaży oraz informacje o kursach stacjonarnych oraz od czasu do czasu jakieś darmowe materiały do nauki to najlepsze co możesz dla mnie zrobić to:
 
 1. [Zapisać się na newsletter][newsletter]
 
 2. Wysłać linka do tego artykułu do kogoś, komu się on przyda
 
-3. Podzielić się tym artykułem przez media społecznościowe (Facebook, LinkedIn, Wykop, czy inne)
+3. Podzielić się tym artykułem przez media społecznościowe klikając jedną z poniższych ikonek
 
-<div class="post-info-share">
-    <span>
-        {{- partial "plugin/share.html" . -}}
-    </span>
-</div>
-
-{{< button "http://coders.school/poradnik/%23elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI0ODMiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" "Jeśli udało Ci się doczytać ten artykuł do końca, to kliknij tutaj proszę" >}}
-
-Dzięki Tobie wiem, że jest chociaż jedna taka osoba :D
 Tymczasem żegnam się i życzę sukcesów w nauce programowania￼.
 
-### Pakiet promocyjny dla wytrwałych
-
-Zapisz się na newsletter aby otrzymać darmowe materiały do nauki C++ 17. Otrzymasz również świetną ofertę na zakup powstającego właśnie kursu C++ online oraz zniżki na moje przyszłe kursy na Udemy. Będziesz także otrzymywać raporty o postępach prac nad moim kursem C++ online oraz dostęp do wielu materiałów, które później będą płatne.
-
- [scarea-pl]: http://scarea.pl
- [rekrutacja-w-it]: https://www.youtube.com/watch?v=oyuH4Nm_md0
- [programista-15k]: https://www.wykop.pl/tag/programista15k/
- [mirek-nie-ma-pracy]: https://www.wykop.pl/wpis/46132657/anonimowemirkowyznania-skonczylem-bootcamp-i-zosta/
- [ile-zarabiaja-programisci]: https://www.wykop.pl/wpis/46130795/dlaczego-programisci-az-tyle-zarabiaja-ostatnio-si/
- [serwis-jaxenter]: https://jaxenter.com/most-difficult-programming-languages-152590.html
- [porownanie-jezykow]: https://github.com/Dobiasd/articles/blob/master/programming_language_learning_curves.md
- [krzywa-uczenia-cpp]: https://www.slideshare.net/szborows/boostpython-domesticating-the-snake
- [newsletter]: https://coders.school/#newsletter
- [kurs-pana-zelenta]: https://miroslawzelent.pl/kurs-c++/
- [kurs-obiektowy-pana-zelenta]: https://miroslawzelent.pl/kurs-obiektowy-c++/
- [mail-ziobron]: mailto:lukasz@coders.school
+[scarea-pl]: http://scarea.pl
+[rekrutacja-w-it]: https://www.youtube.com/watch?v=oyuH4Nm_md0
+[programista-15k]: https://www.wykop.pl/tag/programista15k/
+[mirek-nie-ma-pracy]: https://www.wykop.pl/wpis/46132657/anonimowemirkowyznania-skonczylem-bootcamp-i-zosta/
+[ile-zarabiaja-programisci]: https://www.wykop.pl/wpis/46130795/dlaczego-programisci-az-tyle-zarabiaja-ostatnio-si/
+[serwis-jaxenter]: https://jaxenter.com/most-difficult-programming-languages-152590.html
+[porownanie-jezykow]: https://github.com/Dobiasd/articles/blob/master/programming_language_learning_curves.md
+[krzywa-uczenia-cpp]: https://www.slideshare.net/szborows/boostpython-domesticating-the-snake
+[newsletter]: #newsletter
+[kurs-pana-zelenta]: https://miroslawzelent.pl/kurs-c++/
+[kurs-obiektowy-pana-zelenta]: https://miroslawzelent.pl/kurs-obiektowy-c++/
+[mail-ziobron]: mailto:lukasz@coders.school
