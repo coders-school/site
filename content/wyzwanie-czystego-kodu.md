@@ -22,7 +22,7 @@ autoCollapseToc: true
 math: false
 ---
 
-Za Tobą już quiz z C++, a to Twoje zadanie. Napisz aplikację, która szyfruje i deszyfruje tekst używając szyfru podstawieniowego. Szyfr podstawieniowy to po prostu podmiana liter tekstu na inne litery. Najprostszym przykładem jest [szyfr Cezara](2), w którym każdy znak jest przesunięty o 3 pozycje. 
+Za Tobą już quiz z C++, a to Twoje zadanie. Napisz aplikację, która szyfruje i deszyfruje tekst używając szyfru podstawieniowego. Szyfr podstawieniowy to po prostu podmiana liter tekstu na inne litery. Najprostszym przykładem jest [szyfr Cezara][1], w którym każdy znak jest przesunięty o 3 pozycje.
 
 ## Przykład szyfru Cezara
 
@@ -82,12 +82,13 @@ int main() {
 
 ## Przysyłanie rozwiązań
 
-Aby przesłać mi rozwiązanie musisz mieć pewność, że spełnia ono wszystkie wymagania obowiązkowe. Im więcej wymagań dodatkowych zostanie spełnione, tym lepsza będzie ocena Twojego rozwiązania. Rozwiązanie prześlij na adres email [lukasz@coders.school](2). Tytuł maila: "Wyzwanie czystego kodu". Treść:
+Aby przesłać mi rozwiązanie musisz mieć pewność, że spełnia ono wszystkie wymagania obowiązkowe. Im więcej wymagań dodatkowych zostanie spełnione, tym lepsza będzie ocena Twojego rozwiązania. Rozwiązanie prześlij na adres email [lukasz@coders.school][2]. Tytuł maila: "Wyzwanie czystego kodu". Treść:
+
 * Link do repozytorium na GitHubie lub
 * Link do Gista lub
 * Plik źródłowy w załączniku (nie wysyłaj skompilowanego programu!)
 
 Wyniki wyzwania opublikuję na WWW i Facebooku Coders School 2 kwietnia. Ze zwycięzcami skontaktuję się mailowo. Zwycięskie rozwiązania zostaną opublikowane, aby wszystkie osoby biorące udział w wyzwaniu mogły porównać swój kod ze zwycięskim.
 
- [1]: https://pl.wikipedia.org/wiki/Szyfr_Cezara
- [2]: mailto:lukasz@coders.school
+[1]: https://pl.wikipedia.org/wiki/Szyfr_Cezara
+[2]: mailto:lukasz@coders.school

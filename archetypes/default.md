@@ -12,6 +12,7 @@ url: ""
 
 tags: []
 categories: []
+keywords: []
 hiddenFromHomePage: false
 
 featuredImage: "featured.jpg"
