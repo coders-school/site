@@ -2,7 +2,7 @@
 title: "Poradnik nauki programowania, czyli jak się uczyć C++ i innych języków"
 date: 2020-01-14T17:09:59+00:00
 lastmod: 2020-03-25T14:55:07+00:00
-draft: true
+draft: false
 author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
@@ -10,14 +10,14 @@ summary: ""
 license: ""
 show_in_homepage: true
 show_description: false
-url: "/poradnik"
+url: "/poradnik/"
 
 tags: ["nauka", "mity", "c++", "poradnik"]
 categories: ["Artykuł", "Warto wiedzieć"]
 hiddenFromHomePage: false
 
 featuredImage: "featured-poradnik.jpg"
-featuredImagePreview: "/images/featured-poradnik.jpg"
+featuredImagePreview: "images/featured-poradnik.jpg"
 
 comment: true
 toc: true
@@ -25,8 +25,7 @@ autoCollapseToc: true
 math: false
 ---
 
-{{< image src="/images/featured-poradnik.jpg" >}}
-
+{{< image src="images/featured-poradnik.jpg" >}}
 
 **Zastanawiasz się nad karierą programisty? Myślisz czego trzeba się nauczyć i jakie są wymagania na stanowisko juniorskie? Chcesz uczyć się skutecznie i osiągnąć dobre rezultaty w niedługim czasie? Jesteś w dobrym miejscu!**
 
@@ -78,15 +77,15 @@ Odpowiedź: bo jest jednym z najtrudniejszych języków programowania. Zacząć 
 
 Według użytkowników serwisu [Jaxenter C++][serwis-jaxenter] znajduje się na podium, jeśli chodzi o języki najtrudniejsze do nauczenia się, co prezentuje poniższy wykres, zaczerpnięty z tego serwisu.
 
-{{< image src="/images/poradnik-hardest-languages.png" title="Najtrudniejsze języki programowania">}}
+{{< image src="images/poradnik-hardest-languages.png" title="Najtrudniejsze języki programowania">}}
 
 Polecam też zajrzeć pod [to][porownanie-jezykow] repozytorium na GitHubie, gdzie porównane jest uczenie się różnych języków programowania. Obrazek z C++ zamieszczam też poniżej.
 
-{{< image src="/images/poradnik-cpp.png" title="Krzywa uczenia się C++">}}
+{{< image src="images/poradnik-cpp.png" title="Krzywa uczenia się C++">}}
 
 Chociaż według mnie najbardziej trafna krzywa uczenia się C++ wygląda tak:
 
-{{< image src="/images/poradnik-cpp2.jpg" title="Rzeczywista krzywa uczenia się C++">}}
+{{< image src="images/poradnik-cpp2.jpg" title="Rzeczywista krzywa uczenia się C++">}}
 
 Krzywą tą zaprezentował mój kolega Sławek na jeden ze spotkań wrocławskiej grupy C++. [Tutaj][krzywa-uczenia-cpp] link do jego prezentacji o boost::python.
 
@@ -118,9 +117,9 @@ QtCreator jest IDE stosowanym wyłącznie pod C i C++ i jest łatwy w obsłudze,
 **Vim** jest dla świeżych osób chyba najgorszym i najbardziej nieintuicyjnym edytorem tekstu. Jego nie intuicyjność doczekała się nawet bardzo popularnego dowcipu: Jak wygenerować losowy ciąg znaków? Posadzić nowicjusza przed vimem i kazać mu wyjść z programu. Ale spokojnie, gdy człowiek przyzwyczai się do vima, to może pracować niesamowicie efektywnie i już nic nie będzie dla niego zaskoczeniem. No, chyba że Emacs, ale nie będę rozwijał tematu 🙂
 {{< /admonition >}}
 
-{{< image src="/images/poradnik-vim1.png" title="Vim w wypiasonej wersji wyświetlającej drzewo katalogów (plugin NERDTree)">}}
+{{< image src="images/poradnik-vim1.png" title="Vim w wypiasonej wersji wyświetlającej drzewo katalogów (plugin NERDTree)">}}
 
-{{< image src="/images/poradnik-vim2.png" title="Vim w wersji podstawowej">}}
+{{< image src="images/poradnik-vim2.png" title="Vim w wersji podstawowej">}}
 
 Wielu ludzi powie — zapomniałeś o Eclipsie i NetBeans. Celowo zapomniałem. To moja osobista opinia, ale uważam, że IDE powinno być szybkie i lekkie. Często, gdy ma się bardzo duży projekt, to niektóre środowiska mogą bardzo długo się ładować. A te dwa raczej właśnie takie są. Wiem, że CLion też nie jest najszybszy, bo również jest napisany w Javie ;), ale i tak jest szybszy od tych dwóch i ma wiele dodatkowych funkcji, które działają z automatu bez żadnych konfiguracji. NetBeansa używałem tylko trochę na studiach (dawno temu), a Eclipsa 3 lata temu. Być może w nowszych wersjach są szybsze albo osoby, które chcą się sprzeczać, nie pracowały w naprawdę dużych projektach 🙂
 
@@ -130,15 +129,15 @@ Wielu ludzi powie — zapomniałeś o Eclipsie i NetBeans. Celowo zapomniałem. 
 
 Ten artykuł to poradnik nauki programowania. No to jak najszybciej nauczyć się programować, w szczególności w C++? Jeśli dobrze poszperacie, to znajdziecie nawet książki dedykowane do szybkiego nauczenia się tego języka:
 
-{{< image src="/images/poradnik-book1.png" title="Sams Teach Yourself C++ in 21 days" target="https://www.amazon.com/Sams-Teach-Yourself-Days-5th/dp/0672327112">}}
+{{< image src="images/poradnik-book1.png" title="Sams Teach Yourself C++ in 21 days" target="https://www.amazon.com/Sams-Teach-Yourself-Days-5th/dp/0672327112">}}
 
 Jak ktoś ma jeszcze mniej czasu, to może nawet nabyć inną książkę tego samego autora:
 
-{{< image src="/images/poradnik-book2.png" title="Sams Teach Yourself C++ in 24 hours" target="https://www.amazon.com/Hours-Sams-Teach-Yourself-6th/dp/0672337460">}}
+{{< image src="images/poradnik-book2.png" title="Sams Teach Yourself C++ in 24 hours" target="https://www.amazon.com/Hours-Sams-Teach-Yourself-6th/dp/0672337460">}}
 
 A jak poszukacie jeszcze dokładniej, to natraficie na to.
 
-{{< image src="/images/poradnik-teach-yourself-cpp.png" title="Teach yourself C++ in 21 days">}}
+{{< image src="images/poradnik-teach-yourself-cpp.png" title="Teach yourself C++ in 21 days">}}
 
 I ten humorystyczny komiks jest bardzo prawdziwy. Niesamowite jest to, że ktoś daje się nabrać, że nauczy się programowania w miesiąc i pójdzie szukać pracy. Być może na studia do zaliczenia egzaminu to wystarczy, ale szybko wtedy zapomnisz o wszystkim. Nauka programowania wymaga czasu. Ile? Jeśli jesteś nowicjuszem i masz całe dni na naukę, bo nie pracujesz lub nie masz innych przykrych obowiązków, to pół roku może wystarczyć, aby ogarnąć bardzo mocne podstawy. Możesz uczyć się samodzielnie na podstawie materiałów z internetu, ale musisz wiedzieć, które materiały są wartościowe. Jeśli nauczysz się C++ z przestarzałych materiałów, to tak jak pisałem, stracisz swój czas, a roboty na pewno nie znajdziesz. A skąd wziąć wartościowe materiały? Jeśli nie masz znajomych, którzy mogliby Ci coś polecić, to możesz się uczyć ode mnie. **Udostępniam trochę materiałów za darmo**. Później dam ci do nich linki. Konkretnie to wystarczy, że zapiszesz się na [newsletter][newsletter], ale czytaj dalej 😉
 

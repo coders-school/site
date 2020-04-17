@@ -1,8 +1,8 @@
 ---
-title: "Poradnik"
+title: "FAQ"
 date: 2018-12-05T07:54:15+00:00
 lastmod: 2020-02-10T11:32:44+00:00
-draft: true
+draft: false
 author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
@@ -10,7 +10,7 @@ summary: "FAQ czyli często zadawane pytania"
 license: ""
 show_in_homepage: true
 show_description: false
-url: "/faq"
+url: "/faq/"
 
 tags: ["kurs", "programowanie", "mini kurs", "konsultacje", "nauka"]
 categories: ["Warto wiedzieć"]
@@ -25,15 +25,22 @@ autoCollapseToc: true
 math: false
 ---
 
+<!-- To be integrated with Kurs stacjonarny -->
+
+Poniższe pytania i odpowiedzi odnoszą się do kursu stacjonarnego C++. Jeśli interesuje Cię kurs online, to przeczytaj [FAQ na stronie kursu online][faq-online]
+
+---
+
 <details>
 <summary><b>Jak wyglądają zapisy na kurs?</b></summary>
 
-1. Wypełniasz [formularz zgłoszeniowy][formularz-zgloszeniowy]
+1. Wypełniasz formularz zgłoszeniowy na dany kurs
     * Dostaniesz na maila do wypełnienia test wstępny z C++. Przy jego wypełnianiu MOŻESZ posiłkować się Internetem.
     * Jeśli uzyskasz min. 50% to kwalifikujesz się na kurs
-3. Do 14 dni po zgłoszeniu przysyłasz swoją implementację rozwiązania prostego problemu, który otrzymasz w mailu. Przykład: konwersja liczby z systemu dziesiętnego na binarny lub wyszukiwanie ciągu znaków w tekście
-4. Do podanego terminu wpłacasz zaliczkę (przelew online)
-5. Widzimy się na pierwszych zajęciach
+2. Do 14 dni po zgłoszeniu przysyłasz swoją implementację rozwiązania prostego problemu, który otrzymasz w mailu. Przykład: konwersja liczby z systemu dziesiętnego na binarny lub wyszukiwanie ciągu znaków w tekście
+3. Do podanego terminu wpłacasz zaliczkę
+4. Widzimy się na pierwszych zajęciach
+
 </details>
 
 ---
@@ -49,7 +56,7 @@ Tak. Umowę szkoleniową dostaniesz przed pierwszymi zajęciami, abyś mógł si
 <details>
 <summary><b>W jaki sposób mogę wpłacić zaliczkę?</b></summary>
 
-Na chwilę obecną udostępniamy tylko przelew bankowy. Dane do przelewu wysyłamy po [zgłoszeniu zainteresowania][formularz-zgloszeniowy], ale znajdziesz je też w dziale [Kontakt][strona-kontakt]. W przyszłości planujemy dodać płatności online (BLIK, karta kredytowa, systemy bankowe).
+Na chwilę obecną udostępniamy tylko przelew bankowy. Dane do przelewu wysyłamy po zgłoszeniu zainteresowania, ale znajdziesz je też w dziale [Kontakt][strona-kontakt]. Oferujemy także szybkie płatności online, takie jak BLIK.
 </details>
 
 ---
@@ -57,7 +64,7 @@ Na chwilę obecną udostępniamy tylko przelew bankowy. Dane do przelewu wysyła
 <details>
 <summary><b>Czy mogę zapłacić za kurs w ratach?</b></summary>
 
-Tak. Domyślnie zakładamy 4 comiesięczne raty. Informacja o terminach wpłat oraz wysokości rat jest wysyłana w mailu po zgłoszeniu zainteresowania. Zazwyczaj jest to cena kurs / liczbę rat.
+Tak. Domyślnie zakładamy comiesięczne raty. Informacja o terminach wpłat oraz wysokości rat jest wysyłana w mailu po zgłoszeniu zainteresowania. Zazwyczaj jest to cena kurs / liczbę rat.
 </details>
 
 ---
@@ -68,7 +75,7 @@ Tak. Domyślnie zakładamy 4 comiesięczne raty. Informacja o terminach wpłat o
 To zależy od kursu. Kurs może być tańszy niż cena podana w cenniku w kilku przypadkach:
 
 1. Opłacisz cały kurs z góry (rabat 5%)
-2. Zostałeś polecony przez naszego kursanta lub absolwenta (rabat 100 zł)
+2. Zostałeś polecony przez naszego kursanta lub absolwenta
 3. Uczestniczyłeś w innym naszym kursie (rabat indywidualny w zależności od kursu)
 4. Jesteś zapisany na nasz newsletter (indywidualne promocje dla subskrybentów)
 
@@ -80,7 +87,7 @@ Szczegóły znajdziesz przy każdym kursie.
 <details>
 <summary><b>Co jeśli się rozmyślę i zrezygnuję z kursu po wpłaceniu zaliczki?</b></summary>
 
-Możesz bezproblemowo zrezygnować z kursu nawet po pierwszych zajęciach. Dostaniesz wtedy zwrot całej wpłaconej kwoty, bez jakichkolwiek potrąceń.
+Możesz bezproblemowo zrezygnować z kursu nawet po pierwszych zajęciach. Dostaniesz wtedy zwrot całej wpłaconej kwoty, bez jakichkolwiek potrąceń. W przypadku kursu online oferujemy możliwość bezpłatnej rezygnacji aż do 30 dni od rozpoczęcia kursu.
 </details>
 
 ---
@@ -96,7 +103,7 @@ Tak. W przypadku rezygnacji w późniejszym momencie dostaniesz zwrot kwoty prop
 <details>
 <summary><b>Czy po kursie dostanę certyfikat?</b></summary>
 
-Tak. Na dodatku do certyfikatu będą też widoczne wszystkie przerobione przez nas tematy, dzięki czemu potencjalni pracodawcy będą widzieć, z jakich zagadnień Cię przeszkoliliśmy.
+Tak, jeśli uzyskasz minimalną wymaganą liczbę punktów. Na dodatku do certyfikatu będą też widoczne wszystkie przerobione przez nas tematy, dzięki czemu potencjalni pracodawcy będą widzieć, z jakich zagadnień Cię przeszkoliliśmy.
 </details>
 
 ---
@@ -122,10 +129,10 @@ To co oferujemy to polecenia do ciekawych projektów we wrocławskich firmach. N
 <details>
 <summary><b>Jakie materiały (ksiażki, kursy) polecacie do samodzielnej nauki C++?</b></summary>
 
-Nie polecamy żadnych książek 🙂 Jeśli ktoś bardzo chce poznać podstawy C++, które są wymagane aby przystąpić do naszego kursu to jest książka [Symfonia C++ Jerzego Grębosza][symfonia-grebosz]. Nie jest ona nowa, a język C++ bardzo się zmienił od czasu jej napisania i uważamy, że dzisiaj w innej kolejności należałoby uczyć poszczególnych dziedzin (np. o wskaźnikach można wspomnieć zupełnie na końcu jako temat zaawansowany, bo teraz mamy inteligentne wskaźniki). Niemniej jednak jest to lektura warta polecenia.
+Nie polecamy żadnych książek 🙂 Jeśli ktoś bardzo chce poznać podstawy C++, to polecamy przejrzeć stronę [Materiały do nauki C++][materialy]. Są tam 2 pozycje godne polecenia początkującym. _Opus Magnum C++11_ Jerzego Grębosza oraz _Programowanie. Teoria i praktyka_ Bjarne Stroustrupa.
 
 Z trochę bardziej zaawansowanego C++ i dobrych praktyk polecamy wszystkie książki Scotta Meyersa: Effective C++, More Effective C++, Effective STL i [Effective Modern C++][meyers-effective-modern-cpp]. Są bardzo przystępnie napisane i można się z nich nauczyć dobrych praktyk w języku C++. Są też dostępne w języku polskim.
-Co do kursów online to każdemu zalecamy przynajmniej przejrzenie [Kursu C++ Mirosława Zelenta][kurs-pana-zelenta] i [Kursu Obiektowego C++][kurs-obiektowy-pana-zelenta] (ten jest ważniejszy) tego samego autora.
+Co do kursów online to każdemu zalecamy przynajmniej przejrzenie [Kursu C++ Mirosława Zelenta][kurs-pana-zelenta] i [Kursu Obiektowego C++][kurs-obiektowy-pana-zelenta] (ten jest ważniejszy) tego samego autora. Trzeba zaznaczyć, że te kursy nie są aktualne i miejscami prezentują złe praktyki. Ale wychodzimy z założenia, że lepsza jest ogólna znajomośc języka, którą dają niż jej brak.
 </details>
 
 ---
@@ -133,7 +140,7 @@ Co do kursów online to każdemu zalecamy przynajmniej przejrzenie [Kursu C++ Mi
 <details>
 <summary><b>Czy mogę dostać fakturę za wasz kurs?</b></summary>
 
-Za opłacenie kursu dostaniesz fakturę (zwolnioną z podatku VAT). Jeśli potrzebujesz fakturę na firmę to musisz przesłać nam dane firmy, w tym NIP.
+Tak, za opłacenie kursu dostaniesz fakturę (zwolnioną z podatku VAT).
 </details>
 
 ---
@@ -149,7 +156,7 @@ Z perspektywy trenera i doświadczonego programisty – nie. Z perspektywy stude
 <details>
 <summary><b>Czy muszę uczestniczyć we wszystkich zajęciach?</b></summary>
 
-Nie musisz. Oczywiście to Twoja strata, ale jeśli mamy akurat równolegle kilka grup, to możesz przyjść do innej grupy odrobić temat. Wszystkie zajęcia nagrywamy (do tej pory tylko głos trenera, ale od 2019 także obraz z laptopa trenera), więc możesz też później obejrzeć to, co robiliśmy na zajęciach. Piszemy też trochę na tablicach, ale zawsze robimy zdjęcia takich zapisków i udostępniamy je całej grupie. Ogólnie nie musisz się martwić o dostęp do wszelkich materiałów, bo dostaniesz je niezależnie od obecności na zajęciach.
+Nie musisz. Oczywiście to Twoja strata, ale jeśli mamy akurat równolegle kilka grup, to możesz przyjść do innej grupy odrobić temat. Wszystkie zajęcia nagrywamy (obraz z laptopa trenera + kamerka), więc możesz też później obejrzeć to, co robiliśmy na zajęciach. Piszemy też trochę na tablicach, ale zawsze robimy zdjęcia takich zapisków i udostępniamy je całej grupie. Ogólnie nie musisz się martwić o dostęp do wszelkich materiałów, bo dostaniesz je niezależnie od obecności na zajęciach.
 </details>
 
 ---
@@ -157,7 +164,7 @@ Nie musisz. Oczywiście to Twoja strata, ale jeśli mamy akurat równolegle kilk
 <details>
 <summary><b>Ile czasu muszę poświęcić na naukę programowania?</b></summary>
 
-Zakładamy, że będzie to minimum 1 godzina dziennie, CODZIENNIE podczas trwania naszego kursu. Słowo codziennie nie bez powodu jest zaakcentowane. Regularność jest ważniejsza i daje dużo lepsze efekty niż próba przerobienia całości za jednym zamachem w weekend. Zresztą nasze projekty grupowe są tak zorganizowane, że musicie pracować całą grupą ze sobą na przestrzeni całego tygodnia. Tych projektów nie można zrobić przez weekend, bo ich części są od siebie zależne i coś musi powstać najpierw, aby można było dodawać kolejne funkcjonalności.
+Zakładamy, że będzie to minimum 2 godziny dziennie, CODZIENNIE podczas trwania naszego kursu. Słowo codziennie nie bez powodu jest zaakcentowane. Regularność jest ważniejsza i daje dużo lepsze efekty niż próba przerobienia całości za jednym zamachem w weekend. Zresztą nasze projekty grupowe są tak zorganizowane, że musicie pracować całą grupą ze sobą na przestrzeni całego tygodnia. Tych projektów nie można zrobić przez weekend, bo ich części są od siebie zależne i coś musi powstać najpierw, aby można było dodawać kolejne funkcjonalności.
 </details>
 
 ---
@@ -212,15 +219,15 @@ Po zapisie na newsletter będziesz otrzymywać:
 * materiały z meetupów
 * niektóre darmowe wideo z naszych nagrań do kursów online, które będą płatne
 
-Jeśli stwierdzisz, że przysyłane przez nas treści są mało interesujące, to w każdej chwili możesz wypisać się z newslettera klikając na link, znajdujący się w stopce każdej wiadomości. 
+Jeśli stwierdzisz, że przysyłane przez nas treści są mało interesujące, to w każdej chwili możesz wypisać się z newslettera klikając na link, znajdujący się w stopce każdej wiadomości.
 </details>
 
- [formularz-zgloszeniowy]: https://coders.school/kurs-cpp/#zainteresowanie
- [strona-kontakt]: https://coders.school/o-nas/#kontakt
- [symfonia-grebosz]: https://helion.pl/view/13538w/a_006w.htm
- [meyers-effective-modern-cpp]: https://helion.pl/view/13538w/e_07we.htm
- [kurs-pana-zelenta]: https://miroslawzelent.pl/kurs-c++/
- [kurs-obiektowy-pana-zelenta]: https://miroslawzelent.pl/kurs-obiektowy-c++/
- [kurs-wymagania]: https://coders.school/kurs-cpp/#wymagania
- [scrum-org]: https://www.scrum.org/resources/what-is-scrum
- [github]: https://github.com/
+[faq-online]: /kurs-online/#faq
+[strona-kontakt]: /o-nas/#kontakt
+[materialy]: /resources/
+[meyers-effective-modern-cpp]: https://helion.pl/view/13538w/e_07we.htm
+[kurs-pana-zelenta]: https://miroslawzelent.pl/kurs-c++/
+[kurs-obiektowy-pana-zelenta]: https://miroslawzelent.pl/kurs-obiektowy-c++/
+[kurs-wymagania]: /kurs-cpp/#wymagania
+[scrum-org]: https://www.scrum.org/resources/what-is-scrum
+[github]: https://github.com/
