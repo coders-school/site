@@ -6,20 +6,20 @@ draft: true
 author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
-summary: "Sprawdź się"
+summary: "Sprawdź swoją wiedzę o nowoczesnym C++. Wypełnij nasz test."
 license: ""
 show_in_homepage: true
 show_description: false
 url: "/sprawdz-sie/"
 
 tags: ["kurs", "online", "programowanie"]
-categories: ["Stacjonarny kurs C++"]
+categories: ["Test"]
 hiddenFromHomePage: false
 
 featuredImage: ""
 featuredImagePreview: ""
 
-comment: false
+comment: true
 toc: false
 autoCollapseToc: true
 math: false
@@ -28,7 +28,7 @@ math: false
 Korzystając z okazji gorąco zachęcam do zapisania się do mojego newslettera. Jeśli **interesuje Cię nauka C++ lub dopiero chciałbyś rozpocząć swoją przygodę z programowaniem w tym języku**, znajdziesz tam mnóstwo ku temu okazji.
 Zapisując się do listy otrzymasz darmowe materiały do nauki nowoczesnego C++. Co jakiś czas przesyłam też darmowe fragmenty lekcji i webinarów, w których udowadniam, że C++ nie jest taki straszny jak go malują :)
 
-**FORM**
+{{< newsletter "Poznaj wyjaśnienia odpowiedzi do testu" >}}
 
 ---
 
