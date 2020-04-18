@@ -2,7 +2,7 @@
 title: "Sprawdź się"
 date: 2017-06-07T23:16:47+00:00
 lastmod: 2020-02-10T11:39:28+00:00
-draft: true
+draft: false
 author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
@@ -25,11 +25,8 @@ autoCollapseToc: true
 math: false
 ---
 
-Korzystając z okazji gorąco zachęcam do zapisania się do mojego newslettera. Jeśli **interesuje Cię nauka C++ lub dopiero chciałbyś rozpocząć swoją przygodę z programowaniem w tym języku**, znajdziesz tam mnóstwo ku temu okazji.
-Zapisując się do listy otrzymasz darmowe materiały do nauki nowoczesnego C++. Co jakiś czas przesyłam też darmowe fragmenty lekcji i webinarów, w których udowadniam, że C++ nie jest taki straszny jak go malują :)
-
-{{< newsletter "Poznaj wyjaśnienia odpowiedzi do testu" >}}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfuq4turIlrf4_MN6eUVT6UGY_HrACymgCUJYUX95P-0VmvsA/viewform?embedded=true" width="760" height="1050" frameborder="0"></iframe>
 
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfuq4turIlrf4_MN6eUVT6UGY_HrACymgCUJYUX95P-0VmvsA/viewform?embedded=true" width="760" height="1350" frameborder="0"></iframe>
+{{< newsletter "Poznaj wyjaśnienia odpowiedzi do testu" "Korzystając z okazji gorąco zachęcam do zapisania się do mojego newslettera. Jeśli <b>interesuje Cię nauka C++ lub dopiero chcesz rozpocząć swoją przygodę z programowaniem w tym języku</b>, znajdziesz tam mnóstwo ku temu okazji. Zapisując się do listy otrzymasz darmowe materiały do nauki nowoczesnego C++. Co jakiś czas przesyłam też darmowe fragmenty lekcji i webinarów, w których udowadniam, że C++ nie jest taki straszny jak go malują :)" >}}
