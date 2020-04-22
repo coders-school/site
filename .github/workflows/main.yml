@@ -8,4 +8,4 @@ jobs:
     - name: Check out code
       uses: actions/checkout@master
     - name: Build Hugo
-      uses: lowply/build-hugo@v0.69.0
+      uses: coders-school/site@master
