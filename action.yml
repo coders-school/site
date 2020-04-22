@@ -1,0 +1,5 @@
+name: 'Build Hugo'
+description: 'Run the hugo command to build a website with git plugin'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
