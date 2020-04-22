@@ -11,3 +11,8 @@ jobs:
       uses: textbook/git-checkout-submodule-action@master
     - name: Build Hugo
       uses: coders-school/site@master
+    - run: mkdir -p public
+    - uses: actions/upload-artifact@master
+      with:
+        name: Generated site
+        path: public
