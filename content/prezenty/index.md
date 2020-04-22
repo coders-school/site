@@ -2,22 +2,22 @@
 title: "Prezenty"
 date: 2020-03-16T15:08:51+00:00
 lastmod: 2020-03-26T21:52:59+00:00
-draft: true
+draft: false
 author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
 license: ""
-show_in_homepage: true
+show_in_homepage: false
 show_description: false
 url: "/prezenty/"
 
-tags: ["nauka"]
-categories: ["Warto wiedzieć"]
-hiddenFromHomePage: false
+tags: []
+categories: []
+hiddenFromHomePage: true
 
-featuredImage: "minions.gif"
-featuredImagePreview: "/assets/minions.gif"
+featuredImage: ""
+featuredImagePreview: ""
 
 comment: false
 toc: false
@@ -29,7 +29,7 @@ math: false
 
 <div align="center">
 
-# Łap prezenty! :(fas fa-gift):
+# :(fas fa-gift): Łap prezenty!
 
 {{< button "/assets/03_modern_cpp.pdf" "Prezentacja z nowoczesnego C++">}}
 
