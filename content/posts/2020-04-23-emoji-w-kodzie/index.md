@@ -10,9 +10,9 @@ summary: ""
 license: ""
 url: "/post/emoji-w-kodzie"
 
-tags: []
-categories: []
-keywords: []
+tags: ["c++", "emoji", "dobre praktyki", "złe praktyki", "wideo", "youtube", "nauka"]
+categories: ["Post", "Warto wiedzieć"]
+keywords: ["emoji w kodzie", "dobre praktyki", "złe praktyki"]
 hiddenFromHomePage: false
 
 featuredImage: "featured.png"
