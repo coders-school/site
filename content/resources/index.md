@@ -135,6 +135,7 @@ Tabela w trakcie opracowania
 
 1. [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 2. [ISO C++ Standards Committee](https://github.com/cplusplus)
+3. [Hello - szablon z projektem dla CMake + Travis + GoogleTest](https://github.com/adamvm/hello)
 
 ## Inne linki
 
