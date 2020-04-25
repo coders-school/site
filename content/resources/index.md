@@ -134,6 +134,7 @@ Tabela w trakcie opracowania
 ## Repozytoria
 
 1. [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
+2. [ISO C++ Standards Committee](https://github.com/cplusplus)
 
 ## Inne linki
 
