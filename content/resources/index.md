@@ -133,6 +133,8 @@ Tabela w trakcie opracowania
 
 ## Repozytoria
 
+1. [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
+
 ## Inne linki
 
 1. [Programowanie w języku C++](https://infotraining.bitbucket.io/cpp-bs)
