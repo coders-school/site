@@ -56,7 +56,9 @@ comment: false
 
 ## Komentarze na www
 
-1. W przypadku pozostawienia komentarza na stronie przechowujemy nick, email, Twój adres IP oraz opcjonalnie adres Twojej strony www. 
+1. Do komentarzy używamy aplikacji Gitalk.
+2. Aby napisać komentarz należy zalogować się swoim kontem z GitHuba.
+3. W przypadku napisania komentarza Twój nick wraz z linkiem do Twojego profilu na GitHubie będzie widoczny na stronie.
 
 ## Mechanizmy śledzące
 
