@@ -40,13 +40,13 @@ enableEmoji = true
     dateFormatToUse = "2006-01-02"
     # Menu Info
     [languages.pl.menu]
-      [[languages.pl.menu.main]]
-        identifier = "kurs-cpp"
-        pre = ""
-        name = "Kurs C++ stacjonarny"
-        url = "/kursy/"
-        title = "Szkolenia otwarte oraz firmowe"
-        weight = 1
+      #[[languages.pl.menu.main]]
+        #identifier = "kurs-cpp"
+        #pre = ""
+        #name = "Kurs C++ stacjonarny"
+        #url = "/kursy/"
+        #title = "Szkolenia otwarte oraz firmowe"
+        #weight = 1
       [[languages.pl.menu.main]]
         identifier = "kurs-online"
         name = "Kurs C++ online"
@@ -84,7 +84,7 @@ enableEmoji = true
         weight = 8
       [languages.pl.params]
         # site description
-        description = "Szkoła prawdziwego i nowoczesnego C++. Oferujemy kurs C++ online, kurs C++ stacjonarny, wielowątkowość w C++. Poziomy od początkujących, przez zaawansowanych, aż do prawdziwych ekspertów-ninja."
+        description = "Szkoła prawdziwego i nowoczesnego C++. Kursy C++ online i stacjonarne. Poziomy od początkujących, przez zaawansowanych, aż do prawdziwych ekspertów-ninja."
         # site keywords
         keywords = ["kurs c++", "kurs c++ online", "kurs c++ wrocław", "nauka c++", "książki do nauki c++", "c++", "c++ dla początkujących", "c++ dla zaawansowanych", "c++ dla ekspertów"]
         # site default theme ("light", "dark", "auto")
