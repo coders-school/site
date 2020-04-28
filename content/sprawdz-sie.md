@@ -7,9 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: "Sprawdź swoją wiedzę o nowoczesnym C++. Wypełnij nasz test."
-license: ""
-show_in_homepage: true
-show_description: false
 url: "/sprawdz-sie/"
 
 tags: ["kurs", "online", "programowanie"]
@@ -19,10 +16,16 @@ hiddenFromHomePage: false
 featuredImage: ""
 featuredImagePreview: ""
 
-comment: true
-toc: false
-autoCollapseToc: true
-math: false
+toc:
+  enable: false
+math:
+  enable: false
+lightgallery: true
+share:
+  enable: true
+comment:
+  enable: true
+license: ""
 ---
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfuq4turIlrf4_MN6eUVT6UGY_HrACymgCUJYUX95P-0VmvsA/viewform?embedded=true" width="760" height="1050" frameborder="0"></iframe>

@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: "W listopadzie planowana jest kolejna edycja kursu C++. Jest to kurs C++ dla przyszłych programistów. Kurs ten jest dedykowany wszystkim osobom, które mają akademickie doświadczenie w programowaniu, znają podstawy programowania obiektowego i chciałyby rozpocząć pracę jako programista C++."
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/kurs-c-dla-przyszlych-programistow/
 
 tags: ["c++", "git", "kurs", "wrocław"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: ""
 featuredImagePreview: ""
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 ![Coders School](ninja.png)

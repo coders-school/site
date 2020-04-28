@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: ""
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/absolwenci-kursu-cpp-gotowi-do-pracy/
 
 tags: ["absolwenci", "c++", "kurs", "praca", "wrocław", "podsumowanie"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.jpg"
 featuredImagePreview: "/post/absolwenci-kursu-cpp-gotowi-do-pracy/featured.jpg"
 
-toc: false
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: false
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 Dwie grupy kursantów właśnie ukończyły kurs programowania w języku C++ w Coders School. Rekruterzy, mam niezwykle mocnych kandydatów na stanowiska juniorskie (a nawet wyższe), którzy wiedzą i doświadczeniem przebiją studentów uczelni wyższych.

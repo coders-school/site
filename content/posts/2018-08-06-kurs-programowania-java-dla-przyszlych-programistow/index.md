@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: "W październiku planujemy pierwszą edycję kursu programowania w języku Java. Kurs ten pozwoli na poszerzenie znajomości Javy i dobrych praktyk dla przyszłych programistów. Jest on dedykowany wszystkim osobom, które mają podstawowe doświadczenie w programowaniu, znają podstawy programowania obiektowego i chciałyby w przyszłości rozpocząć pracę jako programista Java."
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/kurs-programowania-java-dla-przyszlych-programistow/
 
 tags: ["Post", "Kurs stacjonarny Java"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: ""
 featuredImagePreview: ""
 
-toc: false
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: false
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 ![Coders School](ninja.png)

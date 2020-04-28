@@ -7,7 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
-license: ""
 url: "/post/emoji-w-kodzie"
 
 tags: ["c++", "emoji", "dobre praktyki", "złe praktyki", "wideo", "youtube", "nauka"]
@@ -18,14 +17,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.png"
 featuredImagePreview: "/post/emoji-w-kodzie/featured.png"
 
-toc: false
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: false
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 Wiesz, że w kodzie C++ możesz używać emoji? Nawet nie tylko w C++, w innych językach również.
@@ -36,11 +37,11 @@ W poniższym bardzo szybkim wideo oprócz możliwości użycia emoji prezentuję
 
 Te 5 rzeczy to:
 
-0. Unikaj pustych bloków
-1. Unikaj porównań z `true`/`false`/`nullptr`
-2. Unikaj niepotrzebnych `else`
-3. Unikaj nadmiarowych zmiennych
-4. Używaj nawiasów klamrowych nawet do jednolinijkowców
+1. Unikaj pustych bloków
+2. Unikaj porównań z `true`/`false`/`nullptr`
+3. Unikaj niepotrzebnych `else`
+4. Unikaj nadmiarowych zmiennych
+5. Używaj nawiasów klamrowych nawet do jednolinijkowców
 
 {{< youtube gl1wH0_kEIs >}}
 

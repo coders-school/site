@@ -7,9 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
-license: ""
-show_in_homepage: true
-show_description: false
 url: "/co-nas-wyroznia/"
 
 tags: ["kurs", "programowanie", "mini kurs", "konsultacje", "nauka"]
@@ -19,10 +16,16 @@ hiddenFromHomePage: false
 featuredImage: ""
 featuredImagePreview: ""
 
-comment: true
-toc: true
-autoCollapseToc: true
-math: false
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
+share:
+  enable: true
+comment:
+  enable: true
+license: ""
 ---
 
 ## :(fab fa-codiepie): Język C++

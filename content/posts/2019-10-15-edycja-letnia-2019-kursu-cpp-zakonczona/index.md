@@ -7,7 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
-license: ""
 url: "/post/edycja-letnia-2019-kursu-cpp-zakonczona/"
 
 tags: ["c++", "programowanie", "kurs", "wrocław", "podsumowanie"]
@@ -17,14 +16,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.jpg"
 featuredImagePreview: "post/edycja-letnia-2019-kursu-cpp-zakonczona/featured.jpg"
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 Na początku października zakończyła się czwarta edycja kursu C++ w Coders School. Uczestniczyły w niej osoby, które mają teraz niesamowicie mocną wiedzę techniczną potwierdzoną przez realizowane wspólnie projekty, zadania domowe i testy.
 

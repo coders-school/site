@@ -7,7 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: "Ruszyło właśnie nowe wyzwanie! Wygraj 99% zniżki na profesjonalny kurs C++ online z elementami grywalizacji wart 1295 zł. Twoim zadaniem jest implementacja konwersji pomiędzy dwoma systemami liczbowymi."
 summary: ""
-license: ""
 url: "/post/wyzwanie-wydajnego-kodu/"
 
 tags: ["c++", "wyzwanie", "wydajny kod", "challenge", "online"]
@@ -17,14 +16,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.png"
 featuredImagePreview: "/post/wyzwanie-wydajnego-kodu/featured.png"
 
-toc: false
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: false
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 Ruszyło właśnie nowe wyzwanie! Tym razem jest to **wyzwanie wydajnego kodu**. Jak można się spodziewać po nazwie, rozwiązania zostaną przetestowane pod kątem ich **złożoności obliczeniowej i optymalizacji**. Nie chcę zdradzać za dużo szczegółów, ale mogę zdradzić, że do zaimplementowania jest **konwersja pomiędzy dwoma systemami liczbowymi**. Pełny opis zadania oraz lista wymagań są dostępne dla osób, które najpierw odpowiedzą na 3 pytania w quizie o C++ i zarejestrują się na wyzwanie.

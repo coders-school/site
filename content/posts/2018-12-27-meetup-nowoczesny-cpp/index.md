@@ -6,9 +6,7 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: ""
-license: ""
-show_in_homepage: true
-show_description: false
+
 url: /post/meetup-nowoczesny-cpp/
 
 tags: ["Post", "Meetup"]
@@ -18,14 +16,16 @@ hiddenFromHomePage: false
 featuredImage: ""
 featuredImagePreview: ""
 
-toc: false
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: false
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 17 grudnia poprowadziliśmy Meetup Nowoczesny C++, na którym uczestniczy mogli zdobyć i poszerzyć wiedzę na temat C++11 i C++14. Były także zadania praktyczne, dzięki którym można było od razu ugruntować nowo poznaną wiedzę. Mówiliśmy o takich rzeczach jak:

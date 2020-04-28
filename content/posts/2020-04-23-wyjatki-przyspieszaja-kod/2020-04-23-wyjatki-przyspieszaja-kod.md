@@ -1,32 +1,31 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-subtitle: ""
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: "Wyjątki przyspieszają kod"
+date: 2020-04-23T12:01:29+02:00
+lastmod: 2020-04-23T12:01:29+02:00
 draft: true
-author: ""
+author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
-url: ""
+url: "/post/wyjatki-przyspieszaja-kod"
 
 tags: []
 categories: []
 keywords: []
 hiddenFromHomePage: false
-hiddenFromSearch: false
 
 featuredImage: "featured.jpg"
 featuredImagePreview: ""
 
 toc:
-  enable: true
+  enable: false
 math:
   enable: false
 lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 license: ""
 ---
 

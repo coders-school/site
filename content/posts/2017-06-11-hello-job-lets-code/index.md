@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: ""
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/hello-job-lets-code/
 
 tags: ["rekrutacja", "ulotka"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.jpg"
 featuredImagePreview: "/post/hello-job-lets-code/featured.jpg"
 
-toc: false
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 ![Back](back.jpg)

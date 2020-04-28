@@ -10,15 +10,16 @@ summary: "Już niedługo w Coders School odbędzie się kurs wielowątkowość w
 featuredImage: "featured.png"
 featuredImagePreview: "/post/wielowatkowosc-2020/featured.png"
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
-
+comment:
+  enable: true
+license: ""
 ---
 Wszystkiego dobrego w Nowym Roku 🙂 Już niedługo w Coders School odbędzie się kurs wielowątkowość w języku C++. Oto detale:
 

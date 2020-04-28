@@ -7,7 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
-license: ""
 url: "/post/ostatnia-edycja-kursu-cpp/"
 
 tags: ["c++", "kurs", "programowanie", "wrocław"]
@@ -17,14 +16,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.jpg"
 featuredImagePreview: "/post/ostatnia-edycja-kursu-cpp/featured.jpg"
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 Organizuję **ostatnią edycję kursu C++** w Coders School. W przyszłości raczej nie planuję już organizować kolejnej edycji stacjonarnej we Wrocławiu, więc jeśli interesuje Cię ten kurs, to może być dla Ciebie ostatnia okazja.
 

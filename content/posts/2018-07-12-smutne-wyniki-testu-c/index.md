@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: "W dzisiejszym poście chciałbym przedstawić Wam wyniki testu C++, który jest od dłuższego czasu dostępny na stronie Coders School. Niestety, wyniki te są dla mnie zatrważające."
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/smutne-wyniki-testu-c/
 
 tags: ["c++", "test", "wyniki"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: ""
 featuredImagePreview: ""
 
-toc: false
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: false
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 Postanowiłem, że przedstawię wam wyniki testu C++, który jest od dłuższego czasu dostępny na [Coders School][1]. Niestety wyniki te są dla mnie zatrważające. Przygotowując ten test niecały rok temu, stwierdziłem że umieszczę w nim pytania praktyczne i przekrojowe. Takie pytania, które sam zadałbym na rozmowie rekrutacyjnej, gdybym miał zatrudnić do pracy osobę świeżo po studiach. W teście jest tylko 8 pytań i tylko jedna poprawna odpowiedź na każde pytanie. Miałem nadzieję, że rozkład punktów będzie rozkładem Gaussa i najwięcej będzie wyników w okolicach 50%. Ale rzeczywistość jest inna.

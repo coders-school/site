@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: "Nasz zimowo-wiosenny kurs C++ zakończył się 13 maja 2018. Podczas kursu uczestnicy uczyli się m. in. o gicie, make-u i CMake-u, kompilatorach, zarządzaniu pamięcią, wyjątkach, STLu, C++11, C++14, C++17, Testowaniu (TDD, Google Test), refactoringu, zasadach SOLID, szablonach, Scrumie."
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/zimowo-wiosenny-kurs-c-zakonczony/
 
 tags: ["c++", "git", "kurs", "programowanie", "wrocław", "podsumowanie"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.jpg"
 featuredImagePreview: "/post/zimowo-wiosenny-kurs-c-zakonczony/featured.jpg"
 
-toc: false
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: false
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 Nasz zimowo-wiosenny kurs C++ zakończył się 13 maja 2018.

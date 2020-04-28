@@ -7,7 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: "Na tej stronie dokonasz opłat za kursy C++"
 summary: ""
-license: ""
 url: "/platnosci-znizka-50/"
 
 tags: []
@@ -18,14 +17,16 @@ hiddenFromHomePage: true
 featuredImage: ""
 featuredImagePreview: ""
 
-toc: false
-autoCollapseToc: true
-math: false
+toc:
+  enable: false
+math:
+  enable: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: false
+comment:
+  enable: false
+license: ""
 ---
 
 <!--more-->

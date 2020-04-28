@@ -12,14 +12,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.png"
 featuredImagePreview: "post/podsumowanie-roku-2019/featured.png"
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 Minął już szał na podsumowania poprzedniego roku, bo minął już pierwszy miesiąc nowego roku. Aby nie wpaść do mainstreamu postanowiłem się wyróżnić i tak samo jak w poprzednim roku publikuję podsumowanie poprzedniego dopiero teraz 🙂
 

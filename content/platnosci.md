@@ -7,7 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: "Na tej stronie dokonasz opłat za kursy C++"
 summary: ""
-license: ""
 url: "/platnosci/"
 
 tags: []
@@ -18,14 +17,16 @@ hiddenFromHomePage: true
 featuredImage: ""
 featuredImagePreview: ""
 
-toc: false
-autoCollapseToc: true
-math: false
+toc:
+  enable: false
+math:
+  enable: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: false
+comment:
+  enable: false
+license: ""
 ---
 
 <!--more-->
@@ -157,8 +158,8 @@ h3.activenow-class-title {
 }
 </style>
 
-<div class='activenow-form-container'><center><img src='https://www.activenow.io/assets/ripple.gif' width='100px' /></center><script async src='https://app.activenow.pl/external/signup_form/load_by_js?code=1b9e87317bb60ae65f0adb6404a27cf4&proficiency_id=1272&school_id=2281&signup_form_id=810&venue_id=&zz='></script></div>
+<div class='activenow-form-container'><center><img src='https://www.activenow.io/assets/ripple.gif' width='100px' /></center><script async src='https://app.activenow.pl/external/signup_form/load_by_js?code=1b9e87317bb60ae65f0adb6404a27cf4&proficiency_id=1272&school_id=2281&signup_form_id=810&venue_id=&zz='></script></div><br><br>
 
-Jeśli liczba wolnych miejsc wynosi 0, to proszę, zgłoś zainteresowanie kursem wypełniając [formularz na tej stronie](https://coders.school/zgloszenie-na-kurs-online/). Wkrótce dorzucę więcej miejsc, ale mogą być o parę złotych droższe. Dostaniesz o tym powiadomienie na maila.
+Jeśli liczba wolnych miejsc wynosi 0 lub widzisz napis "Brak zajęć spełniających podane kryteria", to proszę, zgłoś zainteresowanie kursem wypełniając [formularz na tej stronie](https://coders.school/zgloszenie-na-kurs-online/). Wkrótce dorzucę więcej miejsc, ale mogą być o parę złotych droższe. Dostaniesz o tym powiadomienie na maila.
 
 Jeśli chcesz opłacić kurs w jednej racie napisz do mnie na [lukasz@coders.school](mailto:lukasz@coders.school).

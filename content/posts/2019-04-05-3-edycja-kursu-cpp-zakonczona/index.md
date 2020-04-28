@@ -6,7 +6,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
-license: ""
 url: "/post/3-edycja-kursu-cpp-zakonczona/"
 
 tags: ["c++", "kurs", "wrocław", "programowanie"]
@@ -16,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.jpg"
 featuredImagePreview: "/post/3-edycja-kursu-cpp-zakonczona/featured.jpg"
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: false
+license: ""
 ---
 
 Kolejna edycja kursu C++ już za nami. Kolejni absolwenci podnieśli swój poziom umiejętności programowania w języku C++ 🙂

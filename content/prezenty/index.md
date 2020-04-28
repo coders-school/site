@@ -6,10 +6,6 @@ draft: false
 author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
-summary: ""
-license: ""
-show_in_homepage: false
-show_description: false
 url: "/prezenty/"
 
 tags: []
@@ -19,10 +15,16 @@ hiddenFromHomePage: true
 featuredImage: ""
 featuredImagePreview: ""
 
-comment: false
-toc: false
-autoCollapseToc: true
-math: false
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
+share:
+  enable: true
+comment:
+  enable: false
+license: ""
 ---
 
 <div style="text-align: center">

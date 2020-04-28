@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: "Odpowiadając na potrzeby osób, które zostać programistami, a nie wiedzą: czego się uczyć, jakie są dobre praktyki oraz czy wiedza wykładana na uczelniach przygotowuje do pracy w komercyjnych projektach - oferujemy darmowe konsultacje z języka C++."
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/darmowe-konsultacje-z-cpp/
 
 tags: ["c++", "konsultacje", "programowanie"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: ""
 featuredImagePreview: ""
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 ## Dlaczego oferujemy darmowe konsultacje?

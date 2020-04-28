@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: ""
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/wystartowala-edycja-wakacyjna-kursu-c/
 
 tags: ["Post", "Stacjonarny kurs C++"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.jpg"
 featuredImagePreview: "/post/wystartowala-edycja-wakacyjna-kursu-c/featured.jpg"
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 Z początkiem lipca w Coders School wystartowała kolejna edycja Kursu C++ dedykowanego dla osób, które chcą zostać młodszymi programistami C++. O samym kursie pisaliśmy już wcześniej np. [tutaj][1].

@@ -6,9 +6,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/podsumowanie-roku-2018/
 
 tags: ["podsumowanie"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.png"
 featuredImagePreview: "/post/podsumowanie-roku-2018/featured.png"
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 Przyszedł czas na podsumowanie poprzedniego roku. Dlaczego piszę ten wpis dopiero teraz a nie na samym początku roku? Powód jest prosty - mało czasu. Ale myślę, że koniec stycznia jest lepszy na publikację podsumowania niż jego początek. Gdy mija już Blue Monday i większość ludzi łapie doła z powodu słabej realizacji noworocznych postanowień, dobrze jest przysiąść jeszcze raz nad planami na Nowy Rok i bardziej je urealnić.

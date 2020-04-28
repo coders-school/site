@@ -7,9 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: "FAQ czyli często zadawane pytania"
-license: ""
-show_in_homepage: true
-show_description: false
 url: "/faq/"
 
 tags: ["kurs", "programowanie", "mini kurs", "konsultacje", "nauka"]
@@ -19,10 +16,16 @@ hiddenFromHomePage: false
 featuredImage: ""
 featuredImagePreview: ""
 
-comment: true
-toc: false
-autoCollapseToc: true
-math: false
+toc:
+  enable: false
+math:
+  enable: false
+lightgallery: true
+share:
+  enable: true
+comment:
+  enable: true
+license: ""
 ---
 
 <!-- To be integrated with Kurs stacjonarny -->

@@ -4,9 +4,6 @@ date: 2020-03-18T19:25:03+00:00
 lastmod: 2020-03-18T19:25:04+00:00
 draft: false
 description: ""
-show_in_homepage: true
-show_description: false
-license: ''
 url: '/wyzwanie-stl/'
 aliases: ["/wyzwanie-stl/", "/wyzwanie-czystego-kodu/"]
 
@@ -16,10 +13,16 @@ categories: ["Wyzwanie"]
 featured_image: ''
 featured_image_preview: ''
 
-comment: true
-toc: true
-autoCollapseToc: true
-math: false
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: true
+share:
+  enable: true
+comment:
+  enable: true
+license: ""
 ---
 
 Za Tobą już quiz z C++, a to Twoje zadanie. Napisz aplikację, która szyfruje i deszyfruje tekst używając szyfru podstawieniowego. Szyfr podstawieniowy to po prostu podmiana liter tekstu na inne litery. Najprostszym przykładem jest [szyfr Cezara][1], w którym każdy znak jest przesunięty o 3 pozycje.

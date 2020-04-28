@@ -6,9 +6,7 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: ""
-license: ""
-show_in_homepage: true
-show_description: false
+
 url: /post/semestralny-kurs-programowania-dla-studentow/
 
 tags: ["kurs", "programowanie", "wrocław", "pizza"]
@@ -18,14 +16,16 @@ hiddenFromHomePage: false
 featuredImage: ""
 featuredImagePreview: ""
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 Z powodu dłuższego wyjazdu służbowego do USA jestem zmuszony zmienić harmonogram semestralnego kursu programowania dla studentów, który miał się rozpocząć w październiku. Kurs ten rozpocznie się 6 listopada. Za wszelkie niedogodności przepraszam.

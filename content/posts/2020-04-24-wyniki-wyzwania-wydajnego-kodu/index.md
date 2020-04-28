@@ -7,7 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: "Omówienie wyników wyzwania wydajnego kodu w C++, którym był konwerter liczb z rzymskich na arabskie i odwrotnie. Zobacz zwycięskie rozwiązania i przeczytaj o najczęściej popełnianych błędach lub obejrzyj to w formie wideo."
 summary: "Omówienie wyników wyzwania wydajnego kodu w C++, którym był konwerter liczb z rzymskich na arabskie i odwrotnie. Zobacz zwycięskie rozwiązania i przeczytaj o najczęściej popełnianych błędach lub obejrzyj to w formie wideo."
-license: ""
 url: "/post/wyniki-wyzwania-wydajnego-kodu"
 
 tags: ["c++", "wyzwanie", "wydajny kod", "challenge", "online"]
@@ -18,14 +17,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.png"
 featuredImagePreview: "/post/wyniki-wyzwania-wydajnego-kodu/featured.png"
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 Jeśli wolisz obejrzeć wideo o wynikach wyzwania, to od 1h30m możesz obejrzeć omówienie wyników. A jeśli wolisz czytać, to scrolluj :)

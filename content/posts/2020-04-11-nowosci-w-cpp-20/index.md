@@ -8,7 +8,6 @@ authorLink: ""
 description: ""
 summary: "31 marca robiłem webinar o nowościach w C++20. Zachęcam do obejrzenia. Część z tych nowości użyjemy podczas kursu online :)
 Na nagraniu omawiam: moduły, zakresy, korutyny, koncepty, operator<=>, `std::source_location`, kalendarz w `std::chrono`, stałe matematyczne"
-license: ""
 url: "/post/nowosci-w-cpp-20/"
 
 tags: ["c++", "c++20", "webinar", "youtube", "wideo"]
@@ -18,14 +17,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.png"
 featuredImagePreview: "/post/nowosci-w-cpp-20/featured.png"
 
-toc: false
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: false
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 31 marca robiłem webinar o nowościach w C++20. Zachęcam do obejrzenia. Część z tych nowości użyjemy podczas kursu online :)

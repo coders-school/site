@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: "Udostępniamy wam dzisiaj wstępne harmonogramy kursu C++, który odbywał się będzie w formie stacjonarnej we Wrocławiu. Zaczęliśmy już przyjmować zgłoszenia na kurs, nadal mamy jeszcze wolne miejsca."
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/harmonogramy-kursu-cpp-w-edycji-listopadowej/
 
 tags: ["c++", "kurs", "programowanie", "wrocław", "harmonogram"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.jpg"
 featuredImagePreview: "/post/harmonogramy-kursu-cpp-w-edycji-listopadowej/featured.jpg"
 
-toc: false
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: false
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 {{< admonition type=info title="UWAGA: Aktualizacja. Terminy przesunięte na styczeń-marzec 2019" details=false >}}

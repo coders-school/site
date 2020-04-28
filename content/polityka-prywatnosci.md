@@ -7,7 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
-license: ""
 url: "/polityka-prywatnosci/"
 
 tags: []
@@ -18,14 +17,16 @@ hiddenFromHomePage: true
 featuredImage: ""
 featuredImagePreview: ""
 
-toc: true
-autoCollapseToc: true
-math: false
+toc:
+  enable: true
+math:
+  enable: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: false
+comment:
+  enable: false
+license: ""
 ---
 
 ## Administrator danych

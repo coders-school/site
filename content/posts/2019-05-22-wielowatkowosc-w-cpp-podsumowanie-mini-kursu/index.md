@@ -6,7 +6,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
-license: ""
 url: "/post/wielowatkowosc-w-cpp-podsumowanie-mini-kursu/"
 
 tags: ["c++", "mini kurs", "wielowątkowość", "wrocław", "podsumowanie"]
@@ -15,14 +14,16 @@ categories: ["Post", "Wielowątkowość"]
 featuredImage: "featured.png"
 featuredImagePreview: "/post/wielowatkowosc-w-cpp-podsumowanie-mini-kursu/featured.png"
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 Jesteśmy już po pierwszej edycji kursu Wielowątkowość w C++. Był to zupełnie nowy kurs, przygotowany od zera w głównej mierze przeze mnie, ale nie tylko.

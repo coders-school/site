@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: ""
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/kurs-programowania-c-2018-wroclaw/
 
 tags: ["c++", "kurs", "programowanie", "wrocław"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: ""
 featuredImagePreview: ""
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 Serdecznie zapraszam na zapisy na nową edycję kursu programowania C++ we Wrocławiu. Zapraszam każdego, kto zna same podstawy tego języka, czyli potrafi napisac Hello world, wie jak działa instrukcja if oraz pętla for.

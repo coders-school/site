@@ -7,21 +7,22 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: "Napisz bibliotekę nagłówkową do konwersji liczb z arabskich na rzymskie i odwrotnie. Im wydajniejszy kod tym lepiej. Optymalizuj co się da. Możesz wygrać 99% zniżki na profesjonalny kurs C++ online."
 summary: ""
-license: ""
 url: ""
 
 tags: ["wyzwanie", "challenge", "wydajny kod", "c++", "online"]
 categories: ["Wyzwanie"]
 hiddenFromHomePage: false
 
-toc: true
-autoCollapseToc: true
-math: false
+toc:
+  enable: true
+math:
+  enable: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+toc:
+  enable: true
+license: ""
 ---
 
 ## Zadanie

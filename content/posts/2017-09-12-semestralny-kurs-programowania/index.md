@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: ""
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/semestralny-kurs-programowania/
 
 tags: ["c++", "kurs", "programowanie", "wrocław"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: ""
 featuredImagePreview: ""
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 W listopadzie startuje semestralny kurs programowania w języku C++ na poziomie zaawansowanym. Kurs jest adresowany do studentów uczelni technicznych, którzy pragną zostać programistami oraz dla osób już pracujących, ale chcących pogłębić swoją wiedzę z języka C++. Wiedza zdobyta na tym kursie pozwoli Ci także gładko przejść przez wszystkie przedmioty programistyczne na studiach.

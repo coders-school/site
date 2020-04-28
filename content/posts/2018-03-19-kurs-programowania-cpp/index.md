@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: "W lipcu planowana jest kolejna edycja kursu C++.Kurs ten jest dedykowany wszystkim osobom, które chciałyby rozpocząć pracę jako programista C++."
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/kurs-programowania-cpp/
 
 tags: ["c++", "kurs", "programowanie", "wrocław"]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.png"
 featuredImagePreview: "/post/kurs-programowania-cpp/featured.png"
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 ## Organizacja

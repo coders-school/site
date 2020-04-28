@@ -7,9 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
-license: ""
-show_in_homepage: true
-show_description: false
 url: "/poradnik/"
 
 tags: ["nauka", "mity", "c++", "poradnik"]
@@ -17,15 +14,21 @@ categories: ["Artykuł", "Warto wiedzieć"]
 hiddenFromHomePage: false
 
 featuredImage: "featured-poradnik.jpg"
-featuredImagePreview: "images/featured-poradnik.jpg"
+featuredImagePreview: "poradnik/images/featured-poradnik.jpg"
 
-comment: true
-toc: true
-autoCollapseToc: true
-math: false
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
+share:
+  enable: true
+comment:
+  enable: true
+license: ""
 ---
 
-{{< image src="images/featured-poradnik.jpg" >}}
+{{< image src="poradnik/images/featured-poradnik.jpg" >}}
 
 **Zastanawiasz się nad karierą programisty? Myślisz czego trzeba się nauczyć i jakie są wymagania na stanowisko juniorskie? Chcesz uczyć się skutecznie i osiągnąć dobre rezultaty w niedługim czasie? Jesteś w dobrym miejscu!**
 
@@ -77,15 +80,15 @@ Odpowiedź: bo jest jednym z najtrudniejszych języków programowania. Zacząć 
 
 Według użytkowników serwisu [Jaxenter C++][serwis-jaxenter] znajduje się na podium, jeśli chodzi o języki najtrudniejsze do nauczenia się, co prezentuje poniższy wykres, zaczerpnięty z tego serwisu.
 
-{{< image src="images/poradnik-hardest-languages.png" title="Najtrudniejsze języki programowania">}}
+{{< image src="poradnik/images/poradnik-hardest-languages.png" title="Najtrudniejsze języki programowania">}}
 
 Polecam też zajrzeć pod [to][porownanie-jezykow] repozytorium na GitHubie, gdzie porównane jest uczenie się różnych języków programowania. Obrazek z C++ zamieszczam też poniżej.
 
-{{< image src="images/poradnik-cpp.png" title="Krzywa uczenia się C++">}}
+{{< image src="poradnik/images/poradnik-cpp.png" title="Krzywa uczenia się C++">}}
 
 Chociaż według mnie najbardziej trafna krzywa uczenia się C++ wygląda tak:
 
-{{< image src="images/poradnik-cpp2.jpg" title="Rzeczywista krzywa uczenia się C++">}}
+{{< image src="poradnik/images/poradnik-cpp2.jpg" title="Rzeczywista krzywa uczenia się C++">}}
 
 Krzywą tą zaprezentował mój kolega Sławek na jeden ze spotkań wrocławskiej grupy C++. [Tutaj][krzywa-uczenia-cpp] link do jego prezentacji o boost::python.
 
@@ -99,7 +102,7 @@ W nauce C++ najgorszy jest fakt, że w internecie znajdziesz mnóstwo, naprawdę
 
 Jeszcze jedną pułapką może być przerabianie kolejnego kursu w **IDE, czyli środowisku programistycznym**, z którego rzadko się korzysta w projektach komercyjnych. Takie środowiska to np. Code::Blocks, DevC++ lub Borland C++ Builder. Owszem możesz w nich pisać ciekawe programy i od nich nie zależy w ogóle ich treść, ale nowsze i lepsze środowiska lepiej wspierają programistę i pozwalają na pisanie kodu zgodnego z najnowszymi standardami.
 
-{{< admonition info "Integrated Development Environment" false >}}
+{{< admonition info "Integrated Development Environment" true >}}
 **Integrated Development Environment** (IDE) to po prostu taki edytor tekstu, w którym piszemy kod. Kod można pisać nawet w Notatniku, ale IDE zazwyczaj pomaga poprzez podkreślanie błędów czy proponowanie uzupełnień nazw.
 {{< /admonition >}}
 
@@ -113,13 +116,13 @@ Dlatego wymienionych przeze mnie środowisk raczej komercyjnie się nie używa. 
 
 QtCreator jest IDE stosowanym wyłącznie pod C i C++ i jest łatwy w obsłudze, ale jednak jest rzadziej używany. Statystycznie najczęściej używany jest CLion. A tak naprawdę to polecam edytor vim. W swoim kursie uczę podstaw **Vima**, bo każdy programista, którego IDE jest w konsoli, zyskuje +5 szacunku w oczach innych programistów, którym nie udało się go ogarnąć. A poza tym wygląda on czadersko. I nie trzeba w ogóle używać w nim myszki.    
 
-{{< admonition info "Vim" false >}}
+{{< admonition info "Vim" true >}}
 **Vim** jest dla świeżych osób chyba najgorszym i najbardziej nieintuicyjnym edytorem tekstu. Jego nie intuicyjność doczekała się nawet bardzo popularnego dowcipu: Jak wygenerować losowy ciąg znaków? Posadzić nowicjusza przed vimem i kazać mu wyjść z programu. Ale spokojnie, gdy człowiek przyzwyczai się do vima, to może pracować niesamowicie efektywnie i już nic nie będzie dla niego zaskoczeniem. No, chyba że Emacs, ale nie będę rozwijał tematu 🙂
 {{< /admonition >}}
 
-{{< image src="images/poradnik-vim1.png" title="Vim w wypiasonej wersji wyświetlającej drzewo katalogów (plugin NERDTree)">}}
+{{< image src="poradnik/images/poradnik-vim1.png" title="Vim w wypiasonej wersji wyświetlającej drzewo katalogów (plugin NERDTree)">}}
 
-{{< image src="images/poradnik-vim2.png" title="Vim w wersji podstawowej">}}
+{{< image src="poradnik/images/poradnik-vim2.png" title="Vim w wersji podstawowej">}}
 
 Wielu ludzi powie — zapomniałeś o Eclipsie i NetBeans. Celowo zapomniałem. To moja osobista opinia, ale uważam, że IDE powinno być szybkie i lekkie. Często, gdy ma się bardzo duży projekt, to niektóre środowiska mogą bardzo długo się ładować. A te dwa raczej właśnie takie są. Wiem, że CLion też nie jest najszybszy, bo również jest napisany w Javie ;), ale i tak jest szybszy od tych dwóch i ma wiele dodatkowych funkcji, które działają z automatu bez żadnych konfiguracji. NetBeansa używałem tylko trochę na studiach (dawno temu), a Eclipsa 3 lata temu. Być może w nowszych wersjach są szybsze albo osoby, które chcą się sprzeczać, nie pracowały w naprawdę dużych projektach 🙂
 
@@ -129,15 +132,15 @@ Wielu ludzi powie — zapomniałeś o Eclipsie i NetBeans. Celowo zapomniałem. 
 
 Ten artykuł to poradnik nauki programowania. No to jak najszybciej nauczyć się programować, w szczególności w C++? Jeśli dobrze poszperacie, to znajdziecie nawet książki dedykowane do szybkiego nauczenia się tego języka:
 
-{{< image src="images/poradnik-book1.png" title="Sams Teach Yourself C++ in 21 days" target="https://www.amazon.com/Sams-Teach-Yourself-Days-5th/dp/0672327112">}}
+{{< image src="poradnik/images/poradnik-book1.png" title="Sams Teach Yourself C++ in 21 days" target="https://www.amazon.com/Sams-Teach-Yourself-Days-5th/dp/0672327112">}}
 
 Jak ktoś ma jeszcze mniej czasu, to może nawet nabyć inną książkę tego samego autora:
 
-{{< image src="images/poradnik-book2.png" title="Sams Teach Yourself C++ in 24 hours" target="https://www.amazon.com/Hours-Sams-Teach-Yourself-6th/dp/0672337460">}}
+{{< image src="poradnik/images/poradnik-book2.png" title="Sams Teach Yourself C++ in 24 hours" target="https://www.amazon.com/Hours-Sams-Teach-Yourself-6th/dp/0672337460">}}
 
 A jak poszukacie jeszcze dokładniej, to natraficie na to.
 
-{{< image src="images/poradnik-teach-yourself-cpp.png" title="Teach yourself C++ in 21 days">}}
+{{< image src="poradnik/images/poradnik-teach-yourself-cpp.png" title="Teach yourself C++ in 21 days">}}
 
 I ten humorystyczny komiks jest bardzo prawdziwy. Niesamowite jest to, że ktoś daje się nabrać, że nauczy się programowania w miesiąc i pójdzie szukać pracy. Być może na studia do zaliczenia egzaminu to wystarczy, ale szybko wtedy zapomnisz o wszystkim. Nauka programowania wymaga czasu. Ile? Jeśli jesteś nowicjuszem i masz całe dni na naukę, bo nie pracujesz lub nie masz innych przykrych obowiązków, to pół roku może wystarczyć, aby ogarnąć bardzo mocne podstawy. Możesz uczyć się samodzielnie na podstawie materiałów z internetu, ale musisz wiedzieć, które materiały są wartościowe. Jeśli nauczysz się C++ z przestarzałych materiałów, to tak jak pisałem, stracisz swój czas, a roboty na pewno nie znajdziesz. A skąd wziąć wartościowe materiały? Jeśli nie masz znajomych, którzy mogliby Ci coś polecić, to możesz się uczyć ode mnie. **Udostępniam trochę materiałów za darmo**. Później dam ci do nich linki. Konkretnie to wystarczy, że zapiszesz się na [newsletter][newsletter], ale czytaj dalej 😉
 
@@ -145,7 +148,7 @@ Nawet jeśli już masz skąd się uczyć, to jeszcze warto wiedzieć jak się uc
 
 Wiadomo, że każdy może mieć własne techniki uczenia się, ale ja mam własne techniki nauczania. Andragogika to moje hobby, więc tutaj mogę napisać bardzo dużo.
 
-{{< admonition info "Andragogika" false >}}
+{{< admonition info "Andragogika" true >}}
 **Andragogika** to nauczanie dorosłych, w przeciwieństwie do pedagogiki, która jest nauczaniem dzieci.
 {{< /admonition >}}
 
@@ -177,8 +180,7 @@ A więc druga opcja — zapisanie się na kurs. Na razie weźmy pod uwagę kursy
 
 Niesamowite jest, jak szkoły potrafią zepsuć myślenie ludzi o pracy grupowej. Panuje przecież przekonanie, że praca grupowa jest bezsensowna, bo tylko jedna lub dwie osoby odwalą zadanie, a reszta nic nie robiąc, otrzyma dobre stopnie. Ubolewam nad tym, że ten *pruski dryl* tak skutecznie zrył Ci myślenie o współpracy grupowej.
 
-{{< admonition info "Pruski dryl" false >}}
-**Pruski dryl**
+{{< admonition info "Pruski dryl" true >}}
 Nasz system nauczania wywodzi się z systemu pruskiego. Był on nastawiony na wykształcenie idealnych pracowników, którzy nie będą kwestionować rozkazów szefostwa. Można powiedzieć, że ten cel jest całkiem nieźle osiągany. Mamy olbrzymią wiedzę ogólną, z której pewnie 90% w ogóle w życiu nam się nie przyda. Po co mam wiedzieć jaka jest budowa ameby czy pantofelka, jeśli moja praca nie ma nic wspólnego z biologią albo dokładniej jakimiś prostymi organizmami? Samo określnenie "pruski dryl" zapożyczyłem od Radka Kotarskiego z jego książki "Włam się do mózgu", którą sedrecznie polecam, a autora bardzo gorąco pozdrawiam 🙂
 {{< /admonition >}}
 
@@ -197,18 +199,18 @@ I ostatnia forma, czyli kursy online. Jest bardzo dużo kursów na znanych platf
 Tworzę program, którego celem jest zmaksymalizowanie liczby uczestników, którzy go ukończą. Będzie więc on musiał być nie tylko interesujący, ale wciągający. Tak jak niektóre gry komputerowe :) Oprócz tego kurs musi być skuteczny. W moim odczuciu oznacza to, że liczba osób, która dzięki temu kursowi zrealizuje swoje plany, powinna być jak najwyższa. Wśród planów będę oczekiwał takich jak znalezienie pracy jako programista C++, pogłębienie swojej wiedzy, wymiatanie na studiach, sprawdzenie swojej aktualnej wiedzy albo po prostu nauka dla samej zabawy lub też sprawdzenie, czy ten kurs jest faktycznie taki dobry, jak opisuję :)
 Ciężko mi będzie oczywiście zmierzyć, ile osób faktycznie zrealizuje swoje cele, ale mogę łatwo zmierzyć, ile osób ukończy ten kurs lub też, które jego etapy będą miały największy odsetek opuszczania kursu. **Kurs C++ online w Coders School** oparty będzie na zasadach *grywalizacji*.
 
-{{< admonition info "Grywalizacja" false >}}
+{{< admonition info "Grywalizacja" true >}}
 **Grywalizacja**
 Grywalizacja to wszczepienie elementów rywalizacji oraz grupowych przygód zaczerpniętych z gier komputerowych, w szczególności z gatunku MMORPG do innych dziedzin. Więcej info w książce Pawła Tkaczyka "Grywalizacja".
 {{< /admonition >}}
 
 Nauka będzie trochę przypominała grę. Będziesz zdobywać punkty za wykonane zadania. Dzięki tym punktom będziesz odblokowywać kolejne lekcje. Za wykonywanie zadań dodatkowych będziesz dostawać monety, za które kupisz kolejne moduły kursu, zamiast płacić za nie prawdziwymi pieniędzmi. To jest bardzo motywujący czynnik, który, jeśli jesteś maniakiem ćpania wiedzy, spowoduje, że zaoszczędzisz parę złotych. W tym kursie będziemy uczyć się wszystkiego w takich warunkach, w jakich normalnie pracują programiści. Kod trzeba będzie ściągać ze zdalnych repozytoriów, a po wykonaniu zadania trzeba będzie tworzyć *Pull Requesty*. Zadania będą sprawdzane automatycznie poprzez automaty *Continuous Integration*, które będą kompilować kod i puszczać na nim testy.
 
-{{< admonition info "Pull Request" false >}}
+{{< admonition info "Pull Request" true >}}
 **Pull Request** (PR) lub Merge Request (MR) - zgłoszenie gotowości kodu do przeglądu i złączenia go z oficjalną wersją. Jest to model pracy nad kodem, w którym szybko otrzymasz informację zwrotną na temat wykonanego przez Ciebie zadania.
 {{< /admonition >}}
 
-{{< admonition info "Continuous Integration" false >}}
+{{< admonition info "Continuous Integration" true >}}
 **Continuous Integration** (CI) to automatyczne zadania, które są wykonywane po zgłoszeniu Pull Requesta lub commita. Można je dowolnie konfigurować. W ogólności każdy kod, który zostanie zgłoszony zostanie skompilowany oraz przetestowany. Jeśli coś pójdzie nie tak, to dostaniesz o tym powiadomienie. Dzięki temu można uniknąć klasycznego *Hmm..., u mnie działa...*
 {{< /admonition >}}
 
@@ -216,7 +218,7 @@ W **wersji premium** (która będzie dostępna w przedsprzedaży w cenie zwykłe
 
 Oficjalnymi recenzentami kodu będą osoby, które programują zawodowo od paru lat. Poinformują Cię one, czy Twój kod spełnia wszelkie standardy, czy też czegoś mu brakuje. *Na pewno okaże się, że wiele rzeczy można zrobić lepiej.*
 
-{{< admonition info "Mała dygresja" false >}}
+{{< admonition info "Mała dygresja" true >}}
 Ze swojej pierwszej pracy jako programista najbardziej zapamiętałem moje pierwsze poważne, samodzielne zadanie. Miałem do napisania mały kawałek kodu. W 30 liniach, które dostarczyłem, kolega, który zrobił mi przegląd kodu, wypunktował 40 rzeczy, które można zrobić lepiej. Mógłbym się tym załamać, ale wtedy stwierdziłem „wow, też chce być taki jak on”. Pozdrowienia dla Bartosza 🙂
 {{< /admonition >}}
 
@@ -226,7 +228,7 @@ Jeśli to wszystko brzmi jak magia, to nie musisz mi dziękować, za uświadomie
 
 Największym problemem tego kursu jest to, że będę musiał stworzyć do niego całą platformę, która będzie go obsługiwała. Nie ma obecnie gotowych rozwiązań, które umożliwiałyby stworzenie tego kursu w takiej formie, chyba że wykorzystam jakieś platformy do gier online. Będę tutaj zdecydowanie potrzebował pomocy programistycznej przy tworzeniu samej platformy. Na pewno zajmie to bardzo dużo czasu, ale będzie ona rozwijana zgodnie z zasadami **agile**. Podstawową działającą platformę mam nadzieję udostępnić już pod koniec 2020 roku. Prawdopodobnie sama platforma także będzie pewnym przełomem w dziedzinie nauczania online.
 
-{{< admonition info "Agile" false >}}
+{{< admonition info "Agile" true >}}
 Metodyki zwinne (**agile**) zakładają, że produkty tworzy się przyrostowo, udostępniając najpierw tylko najważniejszą, kluczową funkcjonalność, a potem dodając kolejne funkcjonalności. Przeciwieństwem tego modelu jest zrobienie całości od razu, a potem poprawianie zgodnie z oczekiwaniami klientów. Praktyka pokazuje, że projekty w metodologiach agile realizowane są szybciej i więcej z nich kończy się sukcesem.
 {{< /admonition >}}
 
@@ -260,7 +262,7 @@ A jak się uczyć programowania? Poniżej opisuję moje skromne metody, które z
 * **Warsztaty refaktoryzacji**. Długi blok zajęć, na którym wspólnie, często w formie Coding Dojo ulepszamy kod, bez zmiany jego zachowania.
 * **Narzędzia typu valgrind i sanitizery**. Narzędzia te to tak zwane dynamiczne analizatory kodu. Pozwolą Ci na wykrywanie błędów, których kompilator nie jest w stanie wykryć. Te błędy to np. wycieki pamięci, niezdefiniowane zachowanie, wyścigi.
 
-{{< admonition info "Refaktoryzacja kodu" false >}}
+{{< admonition info "Refaktoryzacja kodu" true >}}
 **Refaktoryzacja kodu** to zmiana kodu źródłowego, najczęściej w celu poprawienia jego czytelności, zastosowania odpowiednich wzorców lub umożliwienia szybszego rozszerzania tego kodu w przyszłości. Podczas zmiany kodu nie wolno zmienić jego funkcjonalności. Kod przed refaktoryzacją powinien dawać dokładnie takie same rezultaty jak po refaktoryzacji. Z tego powodu brak testów jednostkowych wyklucza możliwość użycia tej techniki, bo nie będzie można łatwo zweryfikować czy kod ciągle daje takie same rezultaty.
 {{< /admonition >}}
 
@@ -313,7 +315,7 @@ To pytanie dostaję dość często i bardzo trudno jest na nie jednoznacznie odp
 * Używanie dokumentacji języka C++ (cppreference.org)
 * Znajomość składni języka (*Czy ten kod się skompiluje?*)
 
-{{< admonition info "Czy ten kod się skompiluje?" false >}}
+{{< admonition info "Czy ten kod się skompiluje?" true >}}
 Osobiście twierdzę, że pytania typu czy kod się skompiluje są bezsensowne. Sama wiedza na ten temat oczywiście będzie wynikać z doświadczenia, ale po to jest kompilator, aby on za nas to skompilował i nam powiedział dlaczego coś mu nie pasuje. Kompilatory ciągle się zmieniają i czasami jak ktoś ma przestarzałą bazę takich pytań to odpowiedź może brzmieć: zależy od kompilatora lub jego wersji. Lepiej brzmi pytanie dlaczego dany kod się nie skompiluje lub po prostu jakie widzisz problemy z danym kodem.
 {{< /admonition >}}
 
@@ -423,7 +425,7 @@ Na pewno znajdziecie też bootcampy, które oferują trochę inne rozłożenie z
 
 Ja jestem zwolennikiem wolniejszej i trwalszej nauki. Jeśli proces nauczania rozbije się na mniejsze kawałki i dużo z tych zadań przerzuci się do wykonania samodzielnie (głównie realizowanie zadań domowych, ale też czytanie artykułów i projekty grupowe) to z racji tego, że zmienia się miejsce przyswajania wiedzy oraz kontekst zastosowań to *wiedza skuteczniej wpada do głowy*.
 
-{{< admonition info "Skuteczne przyswajanie wiedzy" false >}}
+{{< admonition info "Skuteczne przyswajanie wiedzy" true >}}
 Poczytaj o metodzie zmiany miejsca, metodzie tancerki i wielu innych ciekawych metodach nauki w książce „Włam się do mózgu”. W swoich kursach stacjonarnych świadomie stosuję prawie wszystkie z nich.
 {{< /admonition >}}
 
@@ -431,7 +433,7 @@ Z racji intensywności i napiętego grafiku projekty jakie tworzy się w ramach 
 
 Dla osób, które nie potrafią ruszyć z miejsca przewidziane są podpowiedzi w formie listy kontrolnej. Jeśli ktoś nie umie bez niej zacząć, to z taką listą oraz z możliwością bezpośredniego kontaktu ze mną poprzez czat jest dużo łatwiej. Poza tym bardzo szybko rozpoczyna się u mnie etap projektów grupowych, bo już na drugiej lekcji, to co stworzyło się samemu, należy dalej rozwinąć w parach. Na podstawie pierwszych wersji dwóch różnych osób oraz moich komentarzy można poprawić istniejące rozwiązanie (lub napisać nowe) i rozwijać je dalej. Równie szybko wprowadzane są większe grupy projektowe, ale tutaj już z pełną świadomością problemów, które na nie czekają. Nigdy nie zapobiegam problemom, pozwalam ludziom przekonać się na własnej skórze jak ciężka może być praca grupowa i dopiero po przeprowadzonej retrospektywie, wyciąga się wnioski, które mają być zastosowane w dalszej współpracy. Uczenie się na błędach jest bardzo skuteczne, pod warunkiem, że są to błędy własne. Uczenie się na cudzych błędach, wbrew powszechnej opinii nie daje aż tak spektakularnych rezultatów.
 
-{{< admonition info "Retrospektywa" false >}}
+{{< admonition info "Retrospektywa" true >}}
 **Retrospektywa**, potocznie retro, to jeden z rytuałów metodologii scrum. Wg mnie najważniejszy. Pozwala on na dialog całego zespołu i stwierdzenia, co we współpracy kuleje, co należy poprawić i w jaki sposób. Również pochwala się dobre praktyki, które były stosowane ostatnio.
 {{< /admonition >}}
 

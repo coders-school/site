@@ -6,9 +6,6 @@ author: Łukasz Ziobroń
 authorLink: ""
 description: ""
 summary: ""
-license: ""
-show_in_homepage: true
-show_description: false
 url: /post/10-rzeczy-ktore-powinienes-wiedziec-jesli-chcesz-byc-programista/
 
 tags: ["nauka", "programowanie", "mity", "10 rzeczy ..."]
@@ -18,14 +15,16 @@ hiddenFromHomePage: false
 featuredImage: "featured.jpg"
 featuredImagePreview: "/post/10-rzeczy-ktore-powinienes-wiedziec-jesli-chcesz-byc-programista/featured.jpg"
 
-toc: true
-autoCollapseToc: true
-math: false
-lightgallery: true
-linkToMarkdown: true
+toc:
+  enable: true
+math:
+  enable: false
+lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
+license: ""
 ---
 
 Wokół zawodu programisty narosło wiele mitów, które są powielane przez osoby, nie mające żadnego pojęcia o programowaniu. W tym artykule znajdziesz 10 rzeczy, które powinieneś wiedzieć, jeśli chcesz być programistą. Jeśli nigdy nie pracowałeś jako programista, to zakładam, że większości z tych rzeczy nie jesteś świadomy.
