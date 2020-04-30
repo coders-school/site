@@ -149,8 +149,8 @@ enableEmoji = true
         Medium = ""
         Gitlab = ""
         Youtubelegacy = ""
-        Youtubecustom = ""
-        Youtubechannel = "UCVazq4NfH8l4BW_qLEoJy-A"
+        Youtubecustom = "CodersSchool"
+        Youtubechannel = ""
         Tumblr = ""
         Quora = ""
         Keybase = ""
@@ -419,7 +419,7 @@ enableEmoji = true
     # Comment config
     # 评论系统设置
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
@@ -430,7 +430,7 @@ enableEmoji = true
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
-        enable = true
+        enable = false
         owner = "coders-school"
         admin = "ziobron"
         repo = "memorable-comments"
