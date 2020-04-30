@@ -16,7 +16,7 @@ featuredImage: ""
 featuredImagePreview: ""
 
 toc:
-  enable: true
+  enable: false
 math:
   enable: false
 lightgallery: false
@@ -29,9 +29,9 @@ license: ""
 
 <div style="text-align: center">
 
-{{< image src="assets/minions.gif" >}}
+{{< image src="/assets/prezenty/minions_applaud.gif" >}}
 
-# :(fas fa-gift): Łap prezenty!
+## 🎁 Łap prezenty!
 
 {{< button "/assets/prezenty/03_modern_cpp.pdf" "Prezentacja z nowoczesnego C++">}}
 
@@ -43,7 +43,7 @@ Jeśli udało Ci się już podejść do naszego Testu z C++ to poniżej znajdzie
 
 {{< button "/sprawdz-sie/" "Wypełnij nasz test z C++">}}
 
-{{< button "assets/Odpowiedzi-do-testu-C.pdf" "Zobacz wyjaśnienie odpowiedzi do naszego testu z C++">}}
+{{< button "/assets/prezenty/Odpowiedzi-do-testu-C.pdf" "Zobacz wyjaśnienie odpowiedzi do naszego testu z C++">}}
 
 Życzę wytrwałości w nauce 🙂
 

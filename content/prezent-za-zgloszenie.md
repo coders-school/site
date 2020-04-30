@@ -36,7 +36,7 @@ license: ""
 
 Masz tutaj coś extra – prezentację o C++11 / C++14 / C++17. Możesz przejrzeć jakie nowości weszły do języka C++ w tych standardach.
 
-{{< button "/prezenty/assets/03_modern_cpp.pdf" "Prezentacja z Nowoczesnego C++" >}}
+{{< button "/assets/prezenty/03_modern_cpp.pdf" "Prezentacja z Nowoczesnego C++" >}}
 
 Równolegle z przeglądaniem prezentacji polecam Ci wykonywać zadania, dzięki którym czegoś się nauczysz. Poniżej masz linka do zadań online, nie musisz nic ściągać.
 
