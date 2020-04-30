@@ -7,9 +7,6 @@ author: "Łukasz Ziobroń"
 authorLink: ""
 description: ""
 summary: ""
-license: ""
-show_in_homepage: false
-show_description: false
 url: "/prezent-za-zgloszenie/"
 
 tags: []
@@ -19,17 +16,23 @@ hiddenFromHomePage: true
 featuredImage: ""
 featuredImagePreview: ""
 
-comment: false
-toc: false
-autoCollapseToc: true
-math: false
+toc:
+  enable: false
+math:
+  enable: false
+lightgallery: false
+share:
+  enable: true
+comment:
+  enable: false
+license: ""
 ---
 
 <div style="text-align: center">
 
 # Dzięki za zgłoszenie! 🥳
 
-{{< image src="../static/assets/prezenty/minion_excited.gif" >}}
+{{< image src="/assets/prezenty/minion_excited.gif" >}}
 
 Masz tutaj coś extra – prezentację o C++11 / C++14 / C++17. Możesz przejrzeć jakie nowości weszły do języka C++ w tych standardach.
 
