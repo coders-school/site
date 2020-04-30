@@ -33,7 +33,7 @@ license: ""
 
 # :(fas fa-gift): Łap prezenty!
 
-{{< button "assets/03_modern_cpp.pdf" "Prezentacja z nowoczesnego C++">}}
+{{< button "/assets/prezenty/03_modern_cpp.pdf" "Prezentacja z nowoczesnego C++">}}
 
 Równolegle z przeglądaniem prezentacji polecam Ci wykonywać zadania, dzięki którym czegoś się nauczysz. Poniżej masz linka do zadań online, nie musisz nic ściągać.
 
