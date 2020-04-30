@@ -26,7 +26,8 @@ math:
 lightgallery: false
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 license: ""
 ---
 

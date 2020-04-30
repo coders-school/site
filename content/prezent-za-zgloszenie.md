@@ -30,7 +30,7 @@ license: ""
 
 <div style="text-align: center">
 
-# Dzięki za zgłoszenie! 🥳
+## Dzięki za zgłoszenie! 🥳
 
 {{< image src="/assets/prezenty/minion_excited.gif" >}}
 
