@@ -1,5 +1,5 @@
 ---
-title: "Sprzedaz kursu C++ online zakonczona"
+title: "Sprzedaż kursu C++ online zakonczona"
 subtitle: ""
 date: 2020-05-04T12:37:55+02:00
 lastmod: 2020-05-04T12:37:55+02:00
