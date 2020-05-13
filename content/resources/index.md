@@ -98,6 +98,8 @@ Tabela w trakcie opracowania
 | | Bjarne Stroustrup<br>[🇵🇱 Język C++. Kompendium wiedzy, Wydanie IV][stroustrup_cpppl_pl]<br>[🇬🇧 The C++ Programming Language (4th Edition)][stroustrup_cpppl_en]<br>2013 |
 | | Andrei Alexandrescu<br>[🇵🇱 Nowoczesne projektowanie w C++][alexandrescu_modern_pl]<br>[🇬🇧 Modern C++ Design][alexandrescu_modern_en]<br>Książka dla twardzieli. Nie polecam do snu, bo zaśniesz zanim przeczytasz 1 stronę. Bardzo cenna ekspercka wiedza, ale jej trawienie wymaga ogromnego skupienia. |
 | | David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor<br>C++ Templates: The Complete Guide Sep 14<br>2017 |
+| [![eckel_pl](/resources/cpp_books/thicpp.jpg)][eckel_pl] | Bruce Eckel<br>[🇵🇱  Thinking in C++. Edycja polska][eckel_pl] |
+| [![eckel2_pl](/resources/cpp_books/thicp2.jpg)][eckel2_pl] | Bruce Eckel, Chuck Allison<br>[🇵🇱  Thinking in C++. Edycja polska. Tom 2][eckel2_pl] |
 
 [opus_magnum17]: https://helion.pl/view/13538w/opc144.htm
 [williams_en]: https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition
@@ -106,6 +108,8 @@ Tabela w trakcie opracowania
 [stroustrup_cpppl_pl]: https://helion.pl/view/13538w/jcppkw.htm
 [alexandrescu_modern_en]: http://erdani.com/index.php/books/modern-c-design/
 [alexandrescu_modern_pl]: https://helion.pl/view/13538w/nowopc.htm
+[eckel_pl]: https://helion.pl/ksiazki/thinking-in-c-edycja-polska-bruce-eckel,thicpp.htm#format/d
+[eckel2_pl]: https://helion.pl/ksiazki/thinking-in-c-edycja-polska-tom-2-bruce-eckel-chuck-allison,thicp2.htm#format/d
 
 ## Książki o programowaniu ogólnie
 
@@ -151,7 +155,8 @@ Tabela w trakcie opracowania
 8. [Wzorce projektowe w języku C++](https://infotraining.bitbucket.io/cpp-dp)
 9. [Programowanie generyczne w języku C++](https://infotraining.bitbucket.io/cpp-templates)
 10. [Programowanie wielowątkowe w C++](https://infotraining.bitbucket.io/cpp-thd)
-
+11. [Prograowanie w C++, dokument dla studentów](http://edu.pjwstk.edu.pl/wyklady/pro/scb/PRG2CPP_files/PRG2CPP.html)
+12. [Tutorial C++, w języku angielski](https://www.learncpp.com/)
 ---
 
 [Tutaj możesz zobaczyć aktualne promocje wydawnictwa Helion](https://helion.pl/page/13538w/promocje). Może znajdziesz coś dla siebie poza C++.
