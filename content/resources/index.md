@@ -75,6 +75,8 @@ Tabela w trakcie opracowania
 | | *Herb Sutter*<br>More Exceptional C++  |
 | | H*erb Sutter*<br>Exceptional C++ Style |
 | | *Stanley B. Lippman*<br>Inside the C++ Object Model |
+| [![Thinking in C++](/resources/cpp_books/thicpp.jpg)][eckel_pl] | Bruce Eckel<br>[🇵🇱  Thinking in C++. Edycja polska][eckel_pl] |
+| [![Thinking in C++. Tom 2](/resources/cpp_books/thicp2.jpg)][eckel2_pl] | Bruce Eckel, Chuck Allison<br>[🇵🇱  Thinking in C++. Edycja polska. Tom 2][eckel2_pl] |
 
 [opus_magnum17]: https://helion.pl/view/13538w/opc144.htm
 [effective_cpp_eng]: #
@@ -87,6 +89,8 @@ Tabela w trakcie opracowania
 [stroustrup_tour_en]: http://www.stroustrup.com/tour2.html
 [alexandrescu_coding_pl]: https://helion.pl/view/13538w/cpskod.htm
 [alexandrescu_coding_en]: http://erdani.com/index.php/books/ccs/
+[eckel_pl]: https://helion.pl/view/13538w/thicpp.htm
+[eckel2_pl]: https://helion.pl/view/13538w/thicp2.htm
 
 ### Dla zaawansowanych
 
@@ -98,18 +102,14 @@ Tabela w trakcie opracowania
 | | Bjarne Stroustrup<br>[🇵🇱 Język C++. Kompendium wiedzy, Wydanie IV][stroustrup_cpppl_pl]<br>[🇬🇧 The C++ Programming Language (4th Edition)][stroustrup_cpppl_en]<br>2013 |
 | | Andrei Alexandrescu<br>[🇵🇱 Nowoczesne projektowanie w C++][alexandrescu_modern_pl]<br>[🇬🇧 Modern C++ Design][alexandrescu_modern_en]<br>Książka dla twardzieli. Nie polecam do snu, bo zaśniesz zanim przeczytasz 1 stronę. Bardzo cenna ekspercka wiedza, ale jej trawienie wymaga ogromnego skupienia. |
 | | David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor<br>C++ Templates: The Complete Guide Sep 14<br>2017 |
-| [![eckel_pl](/resources/cpp_books/thicpp.jpg)][eckel_pl] | Bruce Eckel<br>[🇵🇱  Thinking in C++. Edycja polska][eckel_pl] |
-| [![eckel2_pl](/resources/cpp_books/thicp2.jpg)][eckel2_pl] | Bruce Eckel, Chuck Allison<br>[🇵🇱  Thinking in C++. Edycja polska. Tom 2][eckel2_pl] |
 
-[opus_magnum17]: https://helion.pl/view/13538w/opc144.htm
 [williams_en]: https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition
 [williams_pl]: https://helion.pl/view/13538w/jcpppw.htm
 [stroustrup_cpppl_en]: http://www.stroustrup.com/4th.html
 [stroustrup_cpppl_pl]: https://helion.pl/view/13538w/jcppkw.htm
 [alexandrescu_modern_en]: http://erdani.com/index.php/books/modern-c-design/
 [alexandrescu_modern_pl]: https://helion.pl/view/13538w/nowopc.htm
-[eckel_pl]: https://helion.pl/ksiazki/thinking-in-c-edycja-polska-bruce-eckel,thicpp.htm#format/d
-[eckel2_pl]: https://helion.pl/ksiazki/thinking-in-c-edycja-polska-tom-2-bruce-eckel-chuck-allison,thicp2.htm#format/d
+
 
 ## Książki o programowaniu ogólnie
 
@@ -129,7 +129,7 @@ Tabela w trakcie opracowania
 1. Mirosław Zelent - [Kurs C++](https://miroslawzelent.pl/kurs-c++/)
 2. Mirosław Zelent - [Kurs Obiektowy C++](https://miroslawzelent.pl/kurs-obiektowy-c++/)
 3. Tomasz Jaśniewski - [KURS C++ od podstaw. Szkoła średnia, studia](https://www.youtube.com/watch?v=Z_DPVKlk2nA&list=PLKmH7u1gA9hpkNGJJFA5fB8MfPXWDQ1Fy)
-4. [Coders School](https://www.youtube.com/channel/UCVazq4NfH8l4BW_qLEoJy-A) - Jaśniejąca gwiazda na polskim YouTube :) Mój kanał o tematyce C++, który chcę rozwijać.
+4. [Coders School](https://www.youtube.com/c/CodersSchool) - Jaśniejąca gwiazda na polskim YouTube :) Mój kanał o tematyce C++, który chcę rozwijać.
 
 ### Po angielsku
 
