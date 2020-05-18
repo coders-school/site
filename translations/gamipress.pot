@@ -156,7 +156,7 @@ msgstr ""
 #: includes/admin/achievements.php:38 includes/admin/ranks.php:61
 #: includes/custom-tables/user-earnings.php:346
 msgid "Name"
-msgstr ""
+msgstr "Użytkownik"
 
 #: includes/admin/achievements.php:55
 #: includes/admin/meta-boxes/achievements.php:45
@@ -1293,7 +1293,7 @@ msgstr ""
 #: includes/admin/ranks.php:230
 #, php-format
 msgid "Previous %s"
-msgstr ""
+msgstr "Poprzedni %s"
 
 #: includes/admin/requirements-ui.php:22
 msgid "Automatic Points Awards"
@@ -1305,7 +1305,7 @@ msgstr ""
 
 #: includes/admin/requirements-ui.php:29
 msgid "Required Steps"
-msgstr ""
+msgstr "rzecz(y) brakuje Ci do zdobycia tego osiągnięcia"
 
 #: includes/admin/requirements-ui.php:63
 msgid "The rank with the lowest priority is set as default rank for all users so this rank should be created without requirements."
@@ -3953,21 +3953,21 @@ msgstr ""
 #: includes/filters.php:993
 #, php-format
 msgid "You have earned this %s!"
-msgstr ""
+msgstr "Zdobyłeś nowe osiągnięcie!"
 
 #: includes/filters.php:1155
 msgid "Next Post"
-msgstr ""
+msgstr "Następny wpis"
 
 #: includes/filters.php:1157
 msgid "Previous Post"
-msgstr ""
+msgstr "Poprzedni wpis"
 
 #: includes/filters.php:1262 includes/filters.php:1563
 msgid "Requirement"
 msgid_plural "Requirements"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Wymaganie"
+msgstr[1] "Wymagania"
 
 #: includes/filters.php:1378
 #, php-format
@@ -4008,7 +4008,7 @@ msgstr ""
 
 #: includes/functions/achievements.php:881
 msgid "People who have earned this:"
-msgstr ""
+msgstr "Użytkownicy, którzy zdobyli to osiągnięcie:"
 
 #: includes/functions/achievements.php:1248
 msgid "Achievement Type saved successfully."
@@ -5846,12 +5846,12 @@ msgstr ""
 #: templates/achievement.php:168 templates/points-types.php:120
 #: templates/points-types.php:158 templates/rank.php:142
 msgid "Show Details"
-msgstr ""
+msgstr "Pokaż szczegóły"
 
 #: templates/achievement.php:168 templates/points-types.php:120
 #: templates/points-types.php:158 templates/rank.php:142
 msgid "Hide Details"
-msgstr ""
+msgstr "Ukryj szczegóły"
 
 #: templates/achievements.php:49
 msgid "Filter:"
