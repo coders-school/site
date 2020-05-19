@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Plugins - Tutor LMS &#8211; eLearning and online course solution - Stable (latest release)\n"
 
 #: classes/Options.php:361
-msgid "Enabling this feature will be load next course content automatically after finishing current video."
+msgid "Enabling this feature will load next course content automatically after finishing current video."
 msgstr "Włączenie tej funkcji spowoduje automatyczne załadowanie następnych treści kursu po zakończeniu bieżącego wideo."
 
 #: classes/Options.php:360
@@ -201,11 +201,11 @@ msgid "Page visibility is not public"
 msgstr "Widoczność strony nie jest publiczna"
 
 #: views/pages/tools/tutor_pages.php:53
-msgid " Page deleted, please set new one"
+msgid "Page deleted, please set new one"
 msgstr "Strona usunięta, proszę ustawić nową"
 
 #: views/pages/tools/tutor_pages.php:47
-msgid " Page not set"
+msgid "Page not set"
 msgstr "Strona nie ustawiona"
 
 #: views/pages/tools/tutor_pages.php:12
@@ -277,7 +277,7 @@ msgid "Error:"
 msgstr "Błąd:"
 
 #: classes/Email.php:60
-msgid " %s Get Tutor LMS Pro %s to extend email functionality and send email notifications for certain events. You can easily choose the events for which you wish to send emails."
+msgid "%s Get Tutor LMS Pro %s to extend email functionality and send email notifications for certain events. You can easily choose the events for which you wish to send emails."
 msgstr "%s Uzyskaj Tutora LMS Pro %s, aby rozszerzyć funkcjonalność poczty e-mail i wysyłać powiadomienia e-mail o określonych zdarzeniach. Możesz łatwo wybrać wydarzenia, o których chcesz wysyłać e-maile."
 
 #: classes/Email.php:46
@@ -998,7 +998,7 @@ msgstr "Szukaj"
 #: views/pages/enable_disable_addons.php:84 views/pages/addons.php:79
 #: views/pages/tutor-pro-addons.php:56
 msgid "Version"
-msgstr "Wersja "
+msgstr "Wersja"
 
 #: views/pages/enable_disable_addons.php:74
 msgid "Required Plugin(s)"
@@ -1685,7 +1685,7 @@ msgstr "Włączenie tej funkcji doda sekcję Pytania i odpowiedzi na każdym kur
 
 #: classes/Options.php:230
 msgid "Question and Answer"
-msgstr "Pytania i odpowiedzi "
+msgstr "Pytania i odpowiedzi"
 
 #: classes/Options.php:226
 msgid "Show instructor bio on each page"
@@ -1797,7 +1797,7 @@ msgstr "Wypłata się powiodła"
 
 #: classes/Withdraw.php:222
 msgid "Insufficient balance to withdraw, your balance is %s %s %s "
-msgstr "Niewystarczające saldo do wypłaty, saldo wynosi %s %s %s"
+msgstr "Niewystarczające saldo do wypłaty, saldo wynosi %s %s %s "
 
 #: classes/Withdraw.php:217
 msgid "Minimum withdraw amount is %s %s %s "
@@ -1805,7 +1805,7 @@ msgstr "Minimalna kwota wypłaty %s %s %s "
 
 #: classes/Withdraw.php:212
 msgid "Please save withdraw method "
-msgstr "Zapisz metodę wypłaty"
+msgstr "Zapisz metodę wypłaty "
 
 #: classes/Withdraw.php:185
 msgid "Withdraw account has been set successfully"
@@ -2312,7 +2312,7 @@ msgid "This notice will disappear after activating <strong>EDD</strong>"
 msgstr "To powiadomienie zniknie po aktywacji <strong> EDD </strong>"
 
 #: classes/TutorEDD.php:51
-msgid " Seems like you don’t have <strong>Easy Digital Downloads</strong> plugin installed on your site. In order to use this functionality, you need to have the  <strong>Easy Digital Downloads</strong> plugin installed. Get back on this page after installing the plugin and enable the following feature to start selling courses with Tutor."
+msgid "Seems like you don’t have <strong>Easy Digital Downloads</strong> plugin installed on your site. In order to use this functionality, you need to have the  <strong>Easy Digital Downloads</strong> plugin installed. Get back on this page after installing the plugin and enable the following feature to start selling courses with Tutor."
 msgstr "Wygląda na to, że nie masz zainstalowanej wtyczki <strong> Easy Digital Downloads </strong>. Aby skorzystać z tej funkcji, musisz mieć zainstalowaną wtyczkę <strong> Easy Digital Downloads </strong>. Wróć na tę stronę po zainstalowaniu wtyczki i włącz następującą funkcję, aby rozpocząć sprzedaż kursów z Tutorem."
 
 #: classes/Instructor.php:205
@@ -2777,7 +2777,7 @@ msgstr "To powiadomienie zniknie po aktywacji <strong> WooCommerce </strong>"
 
 #: classes/WooCommerce.php:79
 msgid ""
-" Seems like you don’t have WooCommerce plugin installed on your site. In order to use this functionality, you need to have the \n"
+"Seems like you don’t have WooCommerce plugin installed on your site. In order to use this functionality, you need to have the \n"
 "                WooCommerce plugin installed. Get back on this page after installing the plugin and enable the following feature to start selling \n"
 "                courses with Tutor."
 msgstr ""
@@ -3074,7 +3074,7 @@ msgid "Login"
 msgstr "Zaloguj się"
 
 #: templates/single/course/course-topics.php:39
-msgid " Lessons"
+msgid "Lessons"
 msgstr "Lekcje"
 
 #: templates/single/course/course-topics.php:30
@@ -3191,7 +3191,7 @@ msgid "Course level:"
 msgstr "Poziom kursu:"
 
 #: templates/single/course/enrolled/completing-progress.php:24
-msgid " Complete"
+msgid "Complete"
 msgstr "Zakończone"
 
 #: templates/single/course/enrolled/completing-progress.php:19
@@ -3351,12 +3351,12 @@ msgid "Assignment answer form"
 msgstr "Formularz odpowiedzi na zadanie"
 
 #: templates/single/assignment/content.php:55
-msgid "Minimum Pass Points : "
-msgstr "Minimalna liczba punktów do zaliczenia"
+msgid "Minimum Pass Points: "
+msgstr "Minimalna liczba punktów do zaliczenia: "
 
 #: templates/single/assignment/content.php:51
-msgid "Total Points : "
-msgstr "Punktów razem:"
+msgid "Total Points: "
+msgstr "Punktów razem: "
 
 #: templates/single/assignment/content.php:44 templates/single/quiz/top.php:58
 #: templates/single/quiz/top.php:73
@@ -3364,8 +3364,8 @@ msgid "No limit"
 msgstr "Bez limitu"
 
 #: templates/single/assignment/content.php:43
-msgid "Time Duration : "
-msgstr "Czas trwania :"
+msgid "Time Duration: "
+msgstr "Czas trwania: "
 
 #: templates/student-public-profile.php:74
 msgid "Follow me"
@@ -3421,7 +3421,7 @@ msgstr "W zeszłym roku"
 
 #: templates/dashboard/earning/statements.php:159
 msgid "Price: "
-msgstr "Cena:"
+msgstr "Cena: "
 
 #: templates/dashboard/earning/statements.php:127
 msgid "Showing results %d to %d of %d"
@@ -3981,7 +3981,7 @@ msgstr "Podgląd quizu"
 #: templates/dashboard/quiz-attempts/quiz-reviews.php:176
 #: views/pages/view_attempt.php:163
 msgid "Manually reviewed at: "
-msgstr "Ręcznie sprawdzone w:"
+msgstr "Ręcznie sprawdzone w: "
 
 #: templates/dashboard/quiz-attempts/quiz-reviews.php:134
 #: views/pages/view_attempt.php:50 views/pages/view_attempt.php:121
@@ -4046,7 +4046,7 @@ msgstr "Kurs:"
 
 #: templates/dashboard/quiz-attempts.php:47 classes/Quiz_Attempts_List.php:43
 msgid " ago"
-msgstr "temu"
+msgstr " temu"
 
 #: templates/dashboard/quiz-attempts.php:43
 #: templates/dashboard/quiz-attempts/quiz-reviews.php:52
@@ -4159,7 +4159,7 @@ msgstr "Dodaj swoją %s preferencję wypłaty %s, aby dokonać wypłaty"
 
 #: templates/dashboard/withdraw.php:56
 msgid ", You can change your %s withdraw preference %s "
-msgstr "Możesz zmienić swoją %s preferencję wypłaty %s"
+msgstr "Możesz zmienić swoją %s preferencję wypłaty %s "
 
 #: templates/dashboard/withdraw.php:53
 msgid "You will get paid by"
@@ -4290,7 +4290,7 @@ msgstr "Zamierzasz usunąć ten kurs, nie można tego cofnąć"
 
 #: templates/dashboard/my-courses.php:97
 msgid "Delete This Course?"
-msgstr "Usunąć ten kurs? "
+msgstr "Usunąć ten kurs?"
 
 #: templates/dashboard/my-courses.php:58
 msgid "Students:"
@@ -4321,7 +4321,7 @@ msgstr "Edytuj opinię"
 #: templates/dashboard/reviews/received-reviews.php:56
 #: templates/dashboard/assignments.php:47
 msgid "Course: "
-msgstr "Kurs:"
+msgstr "Kurs: "
 
 #: templates/dashboard/reviews.php:25
 #: templates/dashboard/reviews/received-reviews.php:30
@@ -4339,7 +4339,7 @@ msgstr "Oceny pozytywne"
 
 #: templates/dashboard/my-quiz-attempts.php:51
 msgid ", Updated: "
-msgstr "Zaktualizowane:"
+msgstr "Zaktualizowane: "
 
 #: templates/dashboard/my-quiz-attempts.php:41
 #: templates/dashboard/quiz-attempts.php:45
@@ -4442,7 +4442,7 @@ msgstr "Bio"
 #: templates/dashboard/settings/profile.php:55
 #: views/pages/add_new_instructor.php:82 views/pages/add_new_instructor.php:88
 msgid "Phone Number"
-msgstr "Numer Telefonu"
+msgstr "Numer telefonu"
 
 #: templates/dashboard/my-profile.php:58
 msgid "Email"
@@ -4493,7 +4493,7 @@ msgstr "W"
 #: templates/loop/meta.php:36 templates/single/course/enrolled/lead-info.php:62
 #: templates/single/course/lead-info.php:62
 msgid "by"
-msgstr "Przez"
+msgstr "przez"
 
 #: templates/loop/course-price.php:19
 #: templates/loop/course-price-woocommerce.php:19
@@ -4567,7 +4567,7 @@ msgstr "%s Zostań instruktorem"
 
 #: templates/dashboard.php:74 templates/dashboard/index.php:73
 msgid "%s Add A New Course "
-msgstr "%s Dodaj nowy kurs"
+msgstr "%s Dodaj nowy kurs "
 
 #: templates/dashboard.php:59 templates/dashboard/index.php:58
 #: templates/student-public-profile.php:54
@@ -4604,7 +4604,7 @@ msgstr "%s temu"
 
 #: templates/profile/reviews_wrote.php:34
 msgid "Reviews wrote by %s "
-msgstr "Recenzje napisane przez %s"
+msgstr "Recenzje napisane przez %s "
 
 #: templates/profile/reviews_wrote.php:25
 #: templates/profile/enrolled_course.php:48

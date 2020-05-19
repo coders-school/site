@@ -117,11 +117,11 @@ msgstr "Testowe pole tekstowe dla kodu"
 
 #: example-functions.php:280
 msgid "Test Title Weeeee"
-msgstr ""
+msgstr "Testowy tytuł"
 
 #: example-functions.php:281
 msgid "This is a title description"
-msgstr ""
+msgstr "To jest opis tytułu"
 
 #: example-functions.php:287
 msgid "Test Select"
@@ -130,17 +130,17 @@ msgstr ""
 #: example-functions.php:293 example-functions.php:306
 #: example-functions.php:318
 msgid "Option One"
-msgstr ""
+msgstr "Opcja pierwsza"
 
 #: example-functions.php:294 example-functions.php:307
 #: example-functions.php:319
 msgid "Option Two"
-msgstr ""
+msgstr "Opcja druga"
 
 #: example-functions.php:295 example-functions.php:308
 #: example-functions.php:320
 msgid "Option Three"
-msgstr ""
+msgstr "Opcja trzecia"
 
 #: example-functions.php:300
 msgid "Test Radio inline"
@@ -184,7 +184,7 @@ msgstr ""
 
 #: example-functions.php:372
 msgid "Test wysiwyg"
-msgstr ""
+msgstr "Test trybu WYSIWYG"
 
 #: example-functions.php:380
 msgid "Test Image"
@@ -192,15 +192,15 @@ msgstr "Testowy obraz"
 
 #: example-functions.php:381
 msgid "Upload an image or enter a URL."
-msgstr ""
+msgstr "Wgraj zdjęcie lub wprowadź ścieżkę"
 
 #: example-functions.php:387
 msgid "Multiple Files"
-msgstr ""
+msgstr "Wiele plików"
 
 #: example-functions.php:388
 msgid "Upload or add multiple images/attachments."
-msgstr ""
+msgstr "Wgraj lub dodaj więcej plików."
 
 #: example-functions.php:395
 msgid "oEmbed"
@@ -210,7 +210,9 @@ msgstr ""
 msgid ""
 "Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
 "href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a>."
-msgstr ""
+msgstr "Wprowadź link do YouTube'a lub Instagram'a. Lista wspieranych serwisów "
+"jest dostępna pod adresem <a "href=\"http://codex.wordpress.org/Embeds\">
+"http://codex.wordpress.org/Embeds</a>."
 
 #: example-functions.php:427
 msgid "About Page Metabox"
@@ -226,19 +228,19 @@ msgstr ""
 
 #: example-functions.php:466
 msgid "Entry {#}"
-msgstr ""
+msgstr "Wpis {#}"
 
 #: example-functions.php:467
 msgid "Add Another Entry"
-msgstr ""
+msgstr "Dodaj kolejny wpis"
 
 #: example-functions.php:468
 msgid "Remove Entry"
-msgstr ""
+msgstr "Usuń wpis"
 
 #: example-functions.php:481
 msgid "Entry Title"
-msgstr ""
+msgstr "Tytuł wpisu"
 
 #: example-functions.php:488
 msgid "Description"
@@ -246,11 +248,11 @@ msgstr "Opis"
 
 #: example-functions.php:489
 msgid "Write a short description for this entry"
-msgstr ""
+msgstr "Wprowadź krótki opis dla tego wpisu"
 
 #: example-functions.php:495
 msgid "Entry Image"
-msgstr ""
+msgstr "Obrazek wyróżniający"
 
 #: example-functions.php:501
 msgid "Image Caption"
@@ -369,25 +371,26 @@ msgstr "Bieżący kolor"
 
 #: includes/CMB2_JS.php:110
 msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
-msgstr ""
+msgstr "Niedziela, Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota"
 
 #: includes/CMB2_JS.php:111
 msgid "Su, Mo, Tu, We, Th, Fr, Sa"
-msgstr ""
+msgstr "Ndz, Pon, Wt, Śr, Czw, Pt, Sb"
 
 #: includes/CMB2_JS.php:112
 msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
-msgstr ""
+msgstr "Ndz, Pon, Wt, Śr, Czw, Pt, Sb"
 
 #: includes/CMB2_JS.php:113
 msgid ""
 "January, February, March, April, May, June, July, August, September, "
 "October, November, December"
-msgstr ""
+msgstr "Styczeń, Luty, Marzec, Kwiecień, Maj, Czerwiec, Lipiec, Sierpień, "
+"Wrzesień, Październik, Listopad, Grudzień"
 
 #: includes/CMB2_JS.php:114
 msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
-msgstr ""
+msgstr "Sty, Lut, Mar, Kwi, Maj, Cze, Lip, Sie, Wrz, Paź, Lis, Gru"
 
 #: includes/CMB2_JS.php:115
 msgid "Next"
@@ -465,7 +468,7 @@ msgstr "Dodaj wiersz"
 msgid ""
 "Term Metadata is a WordPress > 4.4 feature. Please upgrade your WordPress "
 "install."
-msgstr ""
+msgstr "Metadata wymaga Wordpress w wersji 4.4 lub wyższej. Zaktualizację WordPress."
 
 #: includes/CMB2_Hookup.php:149
 msgid "Term metaboxes configuration requires a 'taxonomies' parameter"
@@ -482,12 +485,12 @@ msgstr "Zapisz"
 #: includes/types/CMB2_Type_File.php:36 tests/test-cmb-types.php:683
 #: tests/test-cmb-types.php:701
 msgid "Add or Upload File"
-msgstr ""
+msgstr "Dodaj lub wgraj plik"
 
 #: includes/types/CMB2_Type_File_List.php:36 tests/test-cmb-types.php:639
 #: tests/test-cmb-types.php:663
 msgid "Add or Upload Files"
-msgstr ""
+msgstr "Dodaj lub wgraj pliki"
 
 #: includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
 #: includes/types/CMB2_Type_Taxonomy_Radio.php:25
