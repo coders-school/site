@@ -3074,8 +3074,8 @@ msgid "Login"
 msgstr "Zaloguj się"
 
 #: templates/single/course/course-topics.php:39
-msgid "Lessons"
-msgstr "Lekcje"
+msgid " Lessons"
+msgstr " Lekcje"
 
 #: templates/single/course/course-topics.php:30
 msgid "Topics for this course"

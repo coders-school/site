@@ -211,7 +211,7 @@ msgid ""
 "Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
 "href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a>."
 msgstr "Wprowadź link do YouTube'a lub Instagram'a. Lista wspieranych serwisów "
-"jest dostępna pod adresem <a "href=\"http://codex.wordpress.org/Embeds\">
+"jest dostępna pod adresem <a href=\"http://codex.wordpress.org/Embeds\">"
 "http://codex.wordpress.org/Embeds</a>."
 
 #: example-functions.php:427
