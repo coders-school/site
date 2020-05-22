@@ -98,13 +98,13 @@ Tabela w trakcie opracowania
 
 | Książka | Opis |
 | :-----: | :--- |
-| | Anthony Williams<br>[🇵🇱 Język C++ i przetwarzanie współbieżne w akcji][williams_pl]<br>[🇬🇧 C++ Concurrency in Action][williams_en]<br>2019<br>Książka o wielowątkowości w języki C++ w najnowszym obecnie standardzie C++17 (wydanie 2) |
+| [![C++ Concurrency in Action](/resources/cpp_books/williams_concurrency_pl.jpg)][williams_pl] | Anthony Williams<br>[🇵🇱 Język C++ i przetwarzanie współbieżne w akcji. Wydanie II][williams_pl]<br>[🇬🇧 C++ Concurrency in Action][williams_en]<br>2019<br>Książka o wielowątkowości w języku C++ w standardzie C++17 (wydanie 2). Zawiera wiele informacji o dobrych praktykach. |
 | | Bjarne Stroustrup<br>[🇵🇱 Język C++. Kompendium wiedzy, Wydanie IV][stroustrup_cpppl_pl]<br>[🇬🇧 The C++ Programming Language (4th Edition)][stroustrup_cpppl_en]<br>2013 |
 | | Andrei Alexandrescu<br>[🇵🇱 Nowoczesne projektowanie w C++][alexandrescu_modern_pl]<br>[🇬🇧 Modern C++ Design][alexandrescu_modern_en]<br>Książka dla twardzieli. Nie polecam do snu, bo zaśniesz zanim przeczytasz 1 stronę. Bardzo cenna ekspercka wiedza, ale jej trawienie wymaga ogromnego skupienia. |
 | | David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor<br>C++ Templates: The Complete Guide Sep 14<br>2017 |
 
 [williams_en]: https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition
-[williams_pl]: https://helion.pl/view/13538w/jcpppw.htm
+[williams_pl]: https://helion.pl/view/13538w/jcppw2.htm
 [stroustrup_cpppl_en]: http://www.stroustrup.com/4th.html
 [stroustrup_cpppl_pl]: https://helion.pl/view/13538w/jcppkw.htm
 [alexandrescu_modern_en]: http://erdani.com/index.php/books/modern-c-design/
