@@ -66,6 +66,7 @@ license: ""
 1. Używamy plików cookies, które pamiętają, które podstrony odwiedzasz.
 2. Wykorzystujemy Pixel Facebooka (czyt. Facebook Cię śledzi na naszej stronie).
 3. Wykorzystujemy Google Analytics (czyt. Google Cię śledzi na naszej stronie).
+4. Wszelkie mechanizmy śledzące używane są jedynie w celu lepszego dotarcia do grupy odbiorców oraz polepszania jakości stron, które odwiedzasz. Dzięki nim wiem, które treści są bardziej interesujące i mogę dopasowywać je do ogólnych potrzeb. Jednocześnie każda sesja jest zanonimizowana, w więc nie mam pojęcia kto miał jakie interakcje na stronie.
 
  [mail-Lukasz]: mailto:lukasz@coders.school
  [active-now-io]: https://activenow.io/
