@@ -1305,7 +1305,7 @@ msgstr ""
 
 #: includes/admin/requirements-ui.php:29
 msgid "Required Steps"
-msgstr "rzecz(y) brakuje Ci do zdobycia tego osiągnięcia"
+msgstr "Wymagane rzeczy"
 
 #: includes/admin/requirements-ui.php:63
 msgid "The rank with the lowest priority is set as default rank for all users so this rank should be created without requirements."
@@ -3953,7 +3953,7 @@ msgstr ""
 #: includes/filters.php:993
 #, php-format
 msgid "You have earned this %s!"
-msgstr "Zdobyłeś nowe osiągnięcie!"
+msgstr "Udało Ci się zdobyć to %s!"
 
 #: includes/filters.php:1155
 msgid "Next Post"
@@ -4560,7 +4560,7 @@ msgstr ""
 #: includes/privacy/exporters/user-earnings.php:173
 #, php-format
 msgid "%s Requirement"
-msgstr ""
+msgstr "%s wymagania"
 
 #: includes/rules-engine.php:40
 msgid "User hasn't access to this achievement."

@@ -2654,6 +2654,10 @@ msgstr "Dodatkowe dane"
 msgid "Course Builder"
 msgstr "Kreator kursów"
 
+#: classes/Course.php:1064
+msgid "complete all lessons to mark this course as complete"
+msgstr "Ukończ wszystkie lekcje, aby oznaczyć ten moduł jako ukończony"
+
 #: classes/Taxonomies.php:193
 msgid "Image"
 msgstr "Obrazek"
@@ -3099,11 +3103,11 @@ msgstr "Edytuj recenzję"
 
 #: templates/single/course/course-enrolled-box.php:67
 msgid "You have been enrolled on %s."
-msgstr "Dołączyłeś do %s"
+msgstr "Rozpoczęto %s"
 
 #: templates/single/course/course-enrolled-box.php:45
 msgid "Start Course"
-msgstr "Rozpocznij kurs"
+msgstr "Przejdź do modułu"
 
 #: templates/single/course/course-enrolled-box.php:43
 msgid "Continue to lesson"
@@ -3173,7 +3177,7 @@ msgstr "Ostatnia aktualizacja"
 #: templates/single/course/enrolled/lead-info.php:119
 #: templates/single/course/lead-info.php:118
 msgid "Total Enrolled"
-msgstr "Suma zarejestrowanych"
+msgstr "Zarejestrowanych osób"
 
 #: templates/single/course/enrolled/lead-info.php:93
 #: templates/single/course/lead-info.php:92 classes/Admin.php:54
@@ -3196,7 +3200,7 @@ msgstr "Zakończone"
 
 #: templates/single/course/enrolled/completing-progress.php:19
 msgid "Course Status"
-msgstr "Szczegóły kursu"
+msgstr "Szczegóły moduły"
 
 #: templates/single/course/enrolled/announcements.php:46
 msgid "The instructor hasn’t added any announcements to this course yet. Announcements are used to inform you of updates or additions to the course."
@@ -4208,25 +4212,25 @@ msgstr "Zostaw ocenę"
 #: templates/dashboard/enrolled-courses/completed-courses.php:18
 #: templates/dashboard/enrolled-courses/active-courses.php:18
 msgid "Completed Courses"
-msgstr "Zakończone kursy"
+msgstr "Ukończone moduły"
 
 #: templates/dashboard/enrolled-courses.php:17
 #: templates/dashboard/dashboard.php:34
 #: templates/dashboard/enrolled-courses/completed-courses.php:16
 #: templates/dashboard/enrolled-courses/active-courses.php:16
 msgid "Active Courses"
-msgstr "Aktywne kursy"
+msgstr "Aktywne moduły"
 
 #: templates/dashboard/enrolled-courses.php:16
 #: templates/dashboard/enrolled-courses/completed-courses.php:15
 #: templates/dashboard/enrolled-courses/active-courses.php:15
 msgid "All Courses"
-msgstr "Wszystkie kursy"
+msgstr "Wszystkie moduły"
 
 #: templates/dashboard/enrolled-courses.php:9
 #: templates/dashboard/dashboard.php:28 classes/Utils.php:2103
 msgid "Enrolled Courses"
-msgstr "Zapisane kursy"
+msgstr "Moje moduły"
 
 #: templates/dashboard/settings/reset-password.php:83
 msgid "Confirm New Password"
@@ -4626,7 +4630,7 @@ msgstr "Nie znaleziono"
 #: templates/single/quiz/single_quiz_contents.php:14
 #: templates/single/lesson/content.php:37
 msgid "Go to Course Home"
-msgstr "Przejdź do strony głównej kursu"
+msgstr "Przejdź do strony głównej modułu"
 
 #: tutor.php:52 classes/Tutor.php:399
 msgid "Tutor Instructor"
