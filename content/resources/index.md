@@ -160,6 +160,7 @@ Tabela w trakcie opracowania
 12. [LearnCpp.com - tutorial C++ w języku angielskim](https://www.learncpp.com/)
 13. [cpp0x.pl - Strona z dokumentacją C++ i bibliotekami](http://cpp0x.pl/dokumentacja/)
 14. [Sololearn.com - tutorial C++ online od podstaw](https://www.sololearn.com/Course/CPlusPlus/)
+15. [SPOJ - zadania algorytmiczne](https://www.spoj.com/WSDOCPP/problems/a_wstep)
 
 ---
 
