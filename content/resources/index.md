@@ -157,6 +157,8 @@ Tabela w trakcie opracowania
 10. [Programowanie wielowątkowe w C++](https://infotraining.bitbucket.io/cpp-thd)
 11. [Programowanie w C++, Tomasz R. Werner, dokument dla studentów PJWSTK](http://edu.pjwstk.edu.pl/wyklady/pro/scb/PRG2CPP_files/PRG2CPP.html)
 12. [LearnCpp.com - tutorial C++ w języku angielskim](https://www.learncpp.com/)
+13. [SPOJ - zadania algorytmiczne](https://www.spoj.com/WSDOCPP/problems/a_wstep)
+
 ---
 
 [Tutaj możesz zobaczyć aktualne promocje wydawnictwa Helion](https://helion.pl/page/13538w/promocje). Może znajdziesz coś dla siebie poza C++.
