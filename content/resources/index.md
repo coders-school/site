@@ -159,6 +159,7 @@ Tabela w trakcie opracowania
 11. [Programowanie w C++, Tomasz R. Werner, dokument dla studentów PJWSTK](http://edu.pjwstk.edu.pl/wyklady/pro/scb/PRG2CPP_files/PRG2CPP.html)
 12. [LearnCpp.com - tutorial C++ w języku angielskim](https://www.learncpp.com/)
 13. [cpp0x.pl - Strona z dokumentacją C++ i bibliotekami](http://cpp0x.pl/dokumentacja/)
+14. [Sololearn.com - tutorial C++ online od podstaw](https://www.sololearn.com/Course/CPlusPlus/)
 
 ---
 
