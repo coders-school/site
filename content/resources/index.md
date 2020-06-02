@@ -130,6 +130,7 @@ Tabela w trakcie opracowania
 2. Mirosław Zelent - [Kurs Obiektowy C++](https://miroslawzelent.pl/kurs-obiektowy-c++/)
 3. Tomasz Jaśniewski - [KURS C++ od podstaw. Szkoła średnia, studia](https://www.youtube.com/watch?v=Z_DPVKlk2nA&list=PLKmH7u1gA9hpkNGJJFA5fB8MfPXWDQ1Fy)
 4. [Coders School](https://www.youtube.com/c/CodersSchool) - Jaśniejąca gwiazda na polskim YouTube :) Mój kanał o tematyce C++, który chcę rozwijać.
+5. [Poradnik Gita - Overment](https://www.youtube.com/playlist?list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH)
 
 ### Po angielsku
 
@@ -157,7 +158,9 @@ Tabela w trakcie opracowania
 10. [Programowanie wielowątkowe w C++](https://infotraining.bitbucket.io/cpp-thd)
 11. [Programowanie w C++, Tomasz R. Werner, dokument dla studentów PJWSTK](http://edu.pjwstk.edu.pl/wyklady/pro/scb/PRG2CPP_files/PRG2CPP.html)
 12. [LearnCpp.com - tutorial C++ w języku angielskim](https://www.learncpp.com/)
-13. [Sololearn.com - tutorial c++ online od podstaw](https://www.sololearn.com/Course/CPlusPlus/)
+13. [cpp0x.pl - Strona z dokumentacją C++ i bibliotekami](http://cpp0x.pl/dokumentacja/)
+14. [Sololearn.com - tutorial C++ online od podstaw](https://www.sololearn.com/Course/CPlusPlus/)
+
 ---
 
 [Tutaj możesz zobaczyć aktualne promocje wydawnictwa Helion](https://helion.pl/page/13538w/promocje). Może znajdziesz coś dla siebie poza C++.
