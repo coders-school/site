@@ -137,6 +137,7 @@ Tabela w trakcie opracowania
 1. [The Cherno](https://www.youtube.com/user/TheChernoProject/featured) - Kanał o C++, gamedevie i grafice komputerowej.
 2. [One Lone Coder](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/featured) - Kanał o C++, gamedevie i emulatorach.
 3. [Bo Qian](https://www.youtube.com/user/BoQianTheProgrammer/featured) - Kanał o C++. Głównie STL, Boost, Google Test, algorytmy.
+4. [Jason Turner](https://www.youtube.com/user/lefticus1/featured) - Kanał edukacyjny o C++ 11 / 17 / 20.
 
 ## Repozytoria
 
