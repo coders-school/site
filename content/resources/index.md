@@ -145,6 +145,9 @@ Tabela w trakcie opracowania
 2. [ISO C++ Standards Committee](https://github.com/cplusplus)
 3. [Hello - szablon z projektem dla CMake + Travis + GoogleTest](https://github.com/adamvm/hello)
 
+## Ciekawe promocje
+1. [Fanatical C++ bundle - 11 e-booków za 10 euro](https://www.fanatical.com/en/bundle/C++)
+
 ## Inne linki
 
 1. [Programowanie w języku C++](https://infotraining.bitbucket.io/cpp-bs)
