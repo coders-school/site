@@ -165,6 +165,7 @@ Tabela w trakcie opracowania
 13. [cpp0x.pl - Strona z dokumentacją C++ i bibliotekami](http://cpp0x.pl/dokumentacja/)
 14. [Sololearn.com - tutorial C++ online od podstaw](https://www.sololearn.com/Course/CPlusPlus/)
 15. [SPOJ - zadania algorytmiczne](https://www.spoj.com/WSDOCPP/problems/a_wstep)
+16. [cpp-polska.pl - polski blog o nowoczesnym C++](https://cpp-polska.pl)
 
 ---
 
