@@ -2421,7 +2421,7 @@ msgstr "Ekspert"
 
 #: classes/Utils.php:3822
 msgid "Intermediate"
-msgstr "średnio zaawansowany"
+msgstr "Średnio zaawansowany"
 
 #: classes/Utils.php:3821
 msgid "Beginner"
