@@ -150,7 +150,19 @@ Tabela w trakcie opracowania
 3. [Hello - szablon z projektem dla CMake + Travis + GoogleTest](https://github.com/adamvm/hello)
 
 ## Ciekawe promocje
+
 1. [Fanatical C++ bundle - 11 e-booków za 10 euro](https://www.fanatical.com/en/bundle/C++)
+
+## Platformy do nauki
+
+1. [LearnCpp.com - tutorial C++ w języku angielskim](https://www.learncpp.com/)
+2. [cpp0x.pl - Strona z dokumentacją C++ i bibliotekami](http://cpp0x.pl/dokumentacja/)
+3. [Sololearn.com - tutorial C++ online od podstaw](https://www.sololearn.com/Course/CPlusPlus/)
+4. [SPOJ - zadania algorytmiczne](https://www.spoj.com/WSDOCPP/problems/a_wstep)
+
+## Blogi
+
+1. [cpp-polska.pl - polski blog o nowoczesnym C++](https://cpp-polska.pl)
 
 ## Inne linki
 
@@ -165,11 +177,6 @@ Tabela w trakcie opracowania
 9. [Programowanie generyczne w języku C++](https://infotraining.bitbucket.io/cpp-templates)
 10. [Programowanie wielowątkowe w C++](https://infotraining.bitbucket.io/cpp-thd)
 11. [Programowanie w C++, Tomasz R. Werner, dokument dla studentów PJWSTK](http://edu.pjwstk.edu.pl/wyklady/pro/scb/PRG2CPP_files/PRG2CPP.html)
-12. [LearnCpp.com - tutorial C++ w języku angielskim](https://www.learncpp.com/)
-13. [cpp0x.pl - Strona z dokumentacją C++ i bibliotekami](http://cpp0x.pl/dokumentacja/)
-14. [Sololearn.com - tutorial C++ online od podstaw](https://www.sololearn.com/Course/CPlusPlus/)
-15. [SPOJ - zadania algorytmiczne](https://www.spoj.com/WSDOCPP/problems/a_wstep)
-16. [cpp-polska.pl - polski blog o nowoczesnym C++](https://cpp-polska.pl)
 
 ---
 
