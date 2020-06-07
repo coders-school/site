@@ -65,7 +65,6 @@ Tabela w trakcie opracowania
 | [![Opus Magnum C++17](/resources/cpp_books/opus_magnum_cpp17.jpg)][opus_magnum17] | *Jerzy Grębosz*<br>[🇵🇱 Opus magnum C++. Misja w nadprzestrzeń C++14/17. Tom 4][opus_magnum17]<br><br><ul><li>280 stron</li><li>kontynuacja Opus Magnum C++11</li><li>dla osób znających C++11</li><li>standard C++14 i C++17</li><li>:man: dla średnio-zaawansowanych</li><li>🇵🇱 książka polskiego autora</li></ul> Jeszcze nie mogę polecić lub odradzić, bo książka jeszcze nie jest dostępna w sprzedaży (piszę to w lutym 2020). |
 | ![Pasja C++](/resources/cpp_books/pasja.jpg) | *Jerzy Grębosz*<br>🇵🇱 Pasja C++<br><br><ul><li>2 tomy, 600 stron</li><li>kontynuacja Symfonii C++</li><li>szablony, kontenery STL, wyjątki</li><li>standard C++03</li><li>:man: dla średnio-zaawansowanych</li><li>🇵🇱 książka polskiego autora</li><li>👎 odradzam ze względu na przestarzały standard</li></ul> |
 | [![Skuteczny nowoczesny C++](/resources/cpp_books/meyers_effective_modern_cpp_pl.jpg)][effective_modern_cpp_pl] | *Scott Meyers*<br>[🇵🇱 Skuteczny nowoczesny C++. 42 sposoby lepszego posługiwania się językami C++11 i C++14][effective_modern_cpp_pl]<br>[🇬🇧 Effective Modern C++. 42 Specific Ways to Improve Your Use of C++11 and C++14][effective_modern_cpp_eng]<br><br><ul><li>🇵🇱 390 stron / 🇬🇧 330 stron</li><li>standard C++14</li><li>dedukcja typów i auto</li><li>smart pointery</li><li>semantyka przenoszenia</li><li>lambdy</li><li>współbieżność</li><li>🇵🇱🇬🇧 pozycja dostępna w języku polskim i angielskim</li><li>:man: dla średnio-zaawansowanych</li><li>👍 bardzo polecam</li></ul> Scott Meyers ma bardzo łatwy w odbiorze styl pisania. Polecamy wszystkie jego książki. Rozdziały są dość krótkie, zazwyczaj do 10 stron i zagłębiają się maksymalnie w dane zagadnienie. Polskie wersje są dobrze przetumaczone. |
-| Czysty kod. Podręcznik dobrego programisty | *Robert C. Martin*<br>[🇵🇱 Czysty kod. Podręcznik dobrego programisty][opus_magnum17]<br><br><ul><li>424 strony</li><li>Poznaj najlepsze metody tworzenia doskonałego kodu</li><li>Jak pisać dobry kod, a zły przekształcić w dobry?</li><li>Jak formatować kod, aby osiągnąć maksymalną czytelność?</li><li>Jak implementować pełną obsługę błędów bez zaśmiecania logiki kodu?</li><li>:man: dla średnio-zaawansowanych</li><li>🇵🇱 książka dostępna w języku polskim</li></ul> język programowania nie jest tu najważniejszy, główny nacisk kładziony jest na poprawność pisanego kodu |
 | [![Efektywny C++](/resources/cpp_books/meyers_effective_cpp_pl.jpg)][effective_cpp_pl] | *Scott Meyers*<br>Effective C++<br><br>🇵🇱🇬🇧👍 |
 | | *Scott Meyers*<br>More Effective C++<br><br>🇵🇱🇬🇧👍 |
 | | *Scott Meyers*<br>Effective STL<br><br>🇵🇱🇬🇧👍 |
@@ -114,14 +113,18 @@ Tabela w trakcie opracowania
 
 ## Książki o programowaniu ogólnie
 
-1. :baby: Maciej Aniserowicz, [Zawód: programista][aniserowicz_zawod]
-2. :man: Maciej Aniserowicz, Programista. i co dalej?
-3. :man: Andrew Hunt, Pragmatyczny programista
-4. :man: Gynvael Coldwind, Zrozumieć programowanie
-5. :man: Robert C. Martin, Clean Code
-6. :man: Michael Feathers, Working Effectively With Legacy Code. Tylko proszę, nie kupuj jej po polsku. No chyba, że lubisz określenia jarzmo testowe i spoina testowa.
+| Książka | Opis |
+| :-----: | :--- |
+| | :baby: Maciej Aniserowicz, [Zawód: programista][aniserowicz_zawod] |
+| | :man: Maciej Aniserowicz, Programista. i co dalej? |
+| | :man: Andrew Hunt, Pragmatyczny programista |
+| | :man: Gynvael Coldwind, Zrozumieć programowanie |
+| | :man: Robert C. Martin, Clean Code |
+| | :man: Michael Feathers, Working Effectively With Legacy Code. Tylko proszę, nie kupuj jej po polsku. No chyba, że lubisz określenia jarzmo testowe i spoina testowa. |
+| | Robert C. Martin<br>[🇵🇱 Czysty kod. Podręcznik dobrego programisty][clean_code]<br><br><ul><li>424 strony</li><li>Poznaj najlepsze metody tworzenia doskonałego kodu</li><li>Jak pisać dobry kod, a zły przekształcić w dobry?</li><li>Jak formatować kod, aby osiągnąć maksymalną czytelność?</li><li>Jak implementować pełną obsługę błędów bez zaśmiecania logiki kodu?</li><li>:man: dla średnio-zaawansowanych</li><li>🇵🇱 książka dostępna w języku polskim</li></ul> język programowania nie jest tu najważniejszy, główny nacisk kładziony jest na poprawność pisanego kodu |
 
 [aniserowicz_zawod]: https://zawodprogramista.pl
+[clean_code]: https://helion.pl/view/13538w/czykov.htm
 
 ## Materiały wideo
 
