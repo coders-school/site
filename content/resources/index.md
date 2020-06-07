@@ -113,14 +113,18 @@ Tabela w trakcie opracowania
 
 ## Książki o programowaniu ogólnie
 
-1. :baby: Maciej Aniserowicz, [Zawód: programista][aniserowicz_zawod]
-2. :man: Maciej Aniserowicz, Programista. i co dalej?
-3. :man: Andrew Hunt, Pragmatyczny programista
-4. :man: Gynvael Coldwind, Zrozumieć programowanie
-5. :man: Robert C. Martin, Clean Code
-6. :man: Michael Feathers, Working Effectively With Legacy Code. Tylko proszę, nie kupuj jej po polsku. No chyba, że lubisz określenia jarzmo testowe i spoina testowa.
+| Książka | Opis |
+| :-----: | :--- |
+| | :baby: Maciej Aniserowicz, [Zawód: programista][aniserowicz_zawod] |
+| | :man: Maciej Aniserowicz, Programista. i co dalej? |
+| | :man: Andrew Hunt, Pragmatyczny programista |
+| | :man: Gynvael Coldwind, Zrozumieć programowanie |
+| | :man: Robert C. Martin, Clean Code |
+| | :man: Michael Feathers, Working Effectively With Legacy Code. Tylko proszę, nie kupuj jej po polsku. No chyba, że lubisz określenia jarzmo testowe i spoina testowa. |
+| | Robert C. Martin<br>[🇵🇱 Czysty kod. Podręcznik dobrego programisty][clean_code]<br><br><ul><li>424 strony</li><li>Poznaj najlepsze metody tworzenia doskonałego kodu</li><li>Jak pisać dobry kod, a zły przekształcić w dobry?</li><li>Jak formatować kod, aby osiągnąć maksymalną czytelność?</li><li>Jak implementować pełną obsługę błędów bez zaśmiecania logiki kodu?</li><li>:man: dla średnio-zaawansowanych</li><li>🇵🇱 książka dostępna w języku polskim</li></ul> język programowania nie jest tu najważniejszy, główny nacisk kładziony jest na poprawność pisanego kodu |
 
 [aniserowicz_zawod]: https://zawodprogramista.pl
+[clean_code]: https://helion.pl/view/13538w/czykov.htm
 
 ## Materiały wideo
 
