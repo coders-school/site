@@ -32,7 +32,7 @@ license: ""
 
 | Promocja |
 | :-----: |
-| [![Fanatical C++ bundle - 11 e-booków za 10 euro](/resources/cpp_books/fanatical.jpeg)][fanatical] [Fanatical C++ bundle - 11 e-booków za 10 Euro (-98%)][fanatical] |
+| [![Fanatical C++ bundle - 11 e-booków za 10 euro](/resources/cpp_books/fanatical.jpeg)][fanatical]<br>[Fanatical C++ bundle - 11 e-booków za 10 Euro (-98%)][fanatical] |
 
 [fanatical]: https://www.fanatical.com/en/bundle/C++
 
