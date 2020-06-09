@@ -20,11 +20,21 @@ license: ""
 
 ## Darmowe PDFy
 
-| Książka | Opis |
+| Pozycja | Opis |
 | :-----: | :--- |
 | [![C++ Notes for Professionals](/resources/cpp_books/goalkicker.png)][goalkicker] | *goalkicker.com* praca zbiorowa wielu autorów<br>[C++ Notes for Professionals][goalkicker]<br><br><ul><li>ponad 700 stron</li><li>👍 standard C++17</li><li>przekrój całego języka C++</li><li>kompilowanie, debugowanie, profilowanie</li><li>narzędzia: CMake, make, ninja, nmake</li><li>OpenMP, Google Test, Catch</li><li>🇬🇧 pozycja w języku angielskim</li><li>:old_man: polecana dla zaawansowanych</li></ul> zobacz również inne języki programowania na [books.goalkicker.com](https://books.goalkicker.com) |
+| [![Learning C++](/resources/cpp_books/riptutorial.png)][riptutorial] | *riptutorial.com* praca zbiorowa wielu autorów ze StackOverflow.com<br>[Learning C++. Free unaffiliated eBook created from Stack Overflow contributors.][riptutorial]<br><br><ul><li>854 strony</li><li>👍 standard C++17</li><li>przekrój całego języka C++</li><li>🇬🇧 pozycja w języku angielskim</li><li>:old_man: polecana dla zaawansowanych</li></ul><br>Co prawda każdy może tutaj znaleźć coś dla siebie, ale to jest raczej taka encyklopedia niż podręcznik do nauki, bo bardzo szybko wgłębia się w szczegóły, które na początku nauki są odradzane, aby się nie zniechęcić. |
 
+[riptutorial]: https://riptutorial.com/Download/cplusplus.pdf
 [goalkicker]: https://books.goalkicker.com/CPlusPlusBook/
+
+## Ciekawe promocje
+
+| Promocja |
+| :-----: |
+| [![Fanatical C++ bundle - 11 e-booków za 10 euro](/resources/cpp_books/fanatical.jpeg)][fanatical] [Fanatical C++ bundle - 11 e-booków za 10 Euro (-98%)][fanatical] |
+
+[fanatical]: https://www.fanatical.com/en/bundle/C++
 
 ## Książki o C++
 
@@ -62,13 +72,13 @@ Tabela w trakcie opracowania
 
 | Książka&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Opis |
 | :-----: | :--- |
-| [![Opus Magnum C++17](/resources/cpp_books/opus_magnum_cpp17.jpg)][opus_magnum17] | *Jerzy Grębosz*<br>[🇵🇱 Opus magnum C++. Misja w nadprzestrzeń C++14/17. Tom 4][opus_magnum17]<br><br><ul><li>280 stron</li><li>kontynuacja Opus Magnum C++11</li><li>dla osób znających C++11</li><li>standard C++14 i C++17</li><li>:man: dla średnio-zaawansowanych</li><li>🇵🇱 książka polskiego autora</li></ul> Jeszcze nie mogę polecić lub odradzić, bo książka jeszcze nie jest dostępna w sprzedaży (piszę to w lutym 2020). |
+| [![Opus Magnum C++17](/resources/cpp_books/opus_magnum_cpp17.jpg)][opus_magnum17] | *Jerzy Grębosz*<br>[🇵🇱 Opus magnum C++. Misja w nadprzestrzeń C++14/17. Tom 4][opus_magnum17]<br><br><ul><li>280 stron</li><li>kontynuacja Opus Magnum C++11</li><li>dla osób znających C++11</li><li>standard C++14 i C++17</li><li>:man: dla średnio-zaawansowanych</li><li>🇵🇱 książka polskiego autora</li><li>👍 polecam</li></ul> Zachowany styl Opus Magnum C++. Polecana jako kontynuacja po przeczytaniu tamtej. |
 | ![Pasja C++](/resources/cpp_books/pasja.jpg) | *Jerzy Grębosz*<br>🇵🇱 Pasja C++<br><br><ul><li>2 tomy, 600 stron</li><li>kontynuacja Symfonii C++</li><li>szablony, kontenery STL, wyjątki</li><li>standard C++03</li><li>:man: dla średnio-zaawansowanych</li><li>🇵🇱 książka polskiego autora</li><li>👎 odradzam ze względu na przestarzały standard</li></ul> |
 | [![Skuteczny nowoczesny C++](/resources/cpp_books/meyers_effective_modern_cpp_pl.jpg)][effective_modern_cpp_pl] | *Scott Meyers*<br>[🇵🇱 Skuteczny nowoczesny C++. 42 sposoby lepszego posługiwania się językami C++11 i C++14][effective_modern_cpp_pl]<br>[🇬🇧 Effective Modern C++. 42 Specific Ways to Improve Your Use of C++11 and C++14][effective_modern_cpp_eng]<br><br><ul><li>🇵🇱 390 stron / 🇬🇧 330 stron</li><li>standard C++14</li><li>dedukcja typów i auto</li><li>smart pointery</li><li>semantyka przenoszenia</li><li>lambdy</li><li>współbieżność</li><li>🇵🇱🇬🇧 pozycja dostępna w języku polskim i angielskim</li><li>:man: dla średnio-zaawansowanych</li><li>👍 bardzo polecam</li></ul> Scott Meyers ma bardzo łatwy w odbiorze styl pisania. Polecamy wszystkie jego książki. Rozdziały są dość krótkie, zazwyczaj do 10 stron i zagłębiają się maksymalnie w dane zagadnienie. Polskie wersje są dobrze przetumaczone. |
-| [![Efektywny C++](/resources/cpp_books/meyers_effective_cpp_pl.jpg)][effective_cpp_pl] | *Scott Meyers*<br>Effective C++<br><br>🇵🇱🇬🇧👍 |
+| [![Efektywny C++](/resources/cpp_books/meyers_effective_cpp_pl.jpg)][effective_cpp_pl] | *Scott Meyers*<br>[🇵🇱 C++. 50 efektywnych sposobów na udoskonalenie Twoich programów][effective_cpp_pl]<br>[🇬🇧 Effective C++: 55 Specific Ways to Improve Your Programs and Designs ][effective_cpp_eng]<br><br><ul><li>248 stron</li><li>👍 bardzo polecam</li></ul> |
 | | *Scott Meyers*<br>More Effective C++<br><br>🇵🇱🇬🇧👍 |
 | | *Scott Meyers*<br>Effective STL<br><br>🇵🇱🇬🇧👍 |
-| | *Jacek Galowicz*<br>[🇵🇱 C++17 STL. Receptury][galowicz_pl]<br>[🇬🇧 C++17 STL Cookbook][galowicz_en] |
+| [![C++17 STL. Receptury](/resources/cpp_books/galowicz_receptury_pl.jpg)][galowicz_pl] | *Jacek Galowicz*<br>[🇵🇱 C++17 STL. Receptury][galowicz_pl]<br>[🇬🇧 C++17 STL Cookbook][galowicz_en] |
 | | *Bjarne Stroustrup*<br>[🇵🇱 Projektowanie i rozwój języka C+][stroustrup_tour_pl]<br>[🇬🇧 A Tour of C++][stroustrup_tour_en], 2018 |
 | | *Andrei Alexandrescu, Herb Sutter*<br>[🇵🇱 Język C++. Standardy kodowania][alexandrescu_coding_pl]<br>[🇬🇧 C++ Coding Standards][alexandrescu_coding_en] |
 | | *Herb Sutter*<br>Exceptional C++ |
@@ -79,8 +89,8 @@ Tabela w trakcie opracowania
 | [![Thinking in C++. Tom 2](/resources/cpp_books/thicp2.jpg)][eckel2_pl] | Bruce Eckel, Chuck Allison<br>[🇵🇱  Thinking in C++. Edycja polska. Tom 2][eckel2_pl] |
 
 [opus_magnum17]: https://helion.pl/view/13538w/opc144.htm
-[effective_cpp_eng]: #
-[effective_cpp_pl]: #
+[effective_cpp_eng]: https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876
+[effective_cpp_pl]: https://helion.pl/view/13538w/cp50sp.htm
 [effective_modern_cpp_pl]: https://helion.pl/view/13538w/e_07we.htm
 [effective_modern_cpp_eng]: https://helion.pl/view/13538w/e_2gt8.htm
 [galowicz_en]: https://helion.pl/view/13538w/e_15l9.htm
@@ -99,7 +109,7 @@ Tabela w trakcie opracowania
 | Książka | Opis |
 | :-----: | :--- |
 | [![C++ Concurrency in Action](/resources/cpp_books/williams_concurrency_pl.jpg)][williams_pl] | Anthony Williams<br>[🇵🇱 Język C++ i przetwarzanie współbieżne w akcji. Wydanie II][williams_pl]<br>[🇬🇧 C++ Concurrency in Action][williams_en]<br>2019<br>Książka o wielowątkowości w języku C++ w standardzie C++17 (wydanie 2). Zawiera wiele informacji o dobrych praktykach. |
-| | Bjarne Stroustrup<br>[🇵🇱 Język C++. Kompendium wiedzy, Wydanie IV][stroustrup_cpppl_pl]<br>[🇬🇧 The C++ Programming Language (4th Edition)][stroustrup_cpppl_en]<br>2013 |
+| [![Język C++. Kompendium wiedzy, Wydanie IV](/resources/cpp_books/stroustrup_kompendium_pl.jpg)][stroustrup_cpppl_pl] | Bjarne Stroustrup<br>[🇵🇱 Język C++. Kompendium wiedzy, Wydanie IV][stroustrup_cpppl_pl]<br>[🇬🇧 The C++ Programming Language (4th Edition)][stroustrup_cpppl_en]<br>2013 |
 | | Andrei Alexandrescu<br>[🇵🇱 Nowoczesne projektowanie w C++][alexandrescu_modern_pl]<br>[🇬🇧 Modern C++ Design][alexandrescu_modern_en]<br>Książka dla twardzieli. Nie polecam do snu, bo zaśniesz zanim przeczytasz 1 stronę. Bardzo cenna ekspercka wiedza, ale jej trawienie wymaga ogromnego skupienia. |
 | | David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor<br>C++ Templates: The Complete Guide Sep 14<br>2017 |
 
@@ -115,16 +125,16 @@ Tabela w trakcie opracowania
 
 | Książka | Opis |
 | :-----: | :--- |
-| | :baby: Maciej Aniserowicz, [Zawód: programista][aniserowicz_zawod] |
+| [![Zawód: programista](/resources/cpp_books/aniserowicz_zawod.png)][aniserowicz_zawod] | :baby: Maciej Aniserowicz, [Zawód: programista][aniserowicz_zawod] |
 | | :man: Maciej Aniserowicz, Programista. i co dalej? |
 | | :man: Andrew Hunt, Pragmatyczny programista |
 | | :man: Gynvael Coldwind, Zrozumieć programowanie |
-| | :man: Robert C. Martin, Clean Code |
 | | :man: Michael Feathers, Working Effectively With Legacy Code. Tylko proszę, nie kupuj jej po polsku. No chyba, że lubisz określenia jarzmo testowe i spoina testowa. |
-| | Robert C. Martin<br>[🇵🇱 Czysty kod. Podręcznik dobrego programisty][clean_code]<br><br><ul><li>424 strony</li><li>Poznaj najlepsze metody tworzenia doskonałego kodu</li><li>Jak pisać dobry kod, a zły przekształcić w dobry?</li><li>Jak formatować kod, aby osiągnąć maksymalną czytelność?</li><li>Jak implementować pełną obsługę błędów bez zaśmiecania logiki kodu?</li><li>:man: dla średnio-zaawansowanych</li><li>🇵🇱 książka dostępna w języku polskim</li></ul> język programowania nie jest tu najważniejszy, główny nacisk kładziony jest na poprawność pisanego kodu |
+| [![Czysty kod. Podręcznik dobrego programisty](/resources/cpp_books/martin_clean_code.jpg)][clean_code] | Robert C. Martin<br>[🇵🇱 Czysty kod. Podręcznik dobrego programisty][clean_code]<br>[🇬🇧 Clean Code: A Handbook of Agile Software Craftsmanship][clean_code_en]<br><br><ul><li>424 strony</li><li>Poznaj najlepsze metody tworzenia doskonałego kodu</li><li>Jak pisać dobry kod, a zły przekształcić w dobry?</li><li>Jak formatować kod, aby osiągnąć maksymalną czytelność?</li><li>Jak implementować pełną obsługę błędów bez zaśmiecania logiki kodu?</li><li>:man: dla średnio-zaawansowanych</li><li>🇵🇱 książka dostępna w języku polskim</li></ul> Język programowania nie jest tu najważniejszy, główny nacisk kładziony jest na poprawność pisanego kodu. |
 
 [aniserowicz_zawod]: https://zawodprogramista.pl
 [clean_code]: https://helion.pl/view/13538w/czykov.htm
+[clean_code_en]: https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1
 
 ## Materiały wideo
 
@@ -148,10 +158,6 @@ Tabela w trakcie opracowania
 1. [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 2. [ISO C++ Standards Committee](https://github.com/cplusplus)
 3. [Hello - szablon z projektem dla CMake + Travis + GoogleTest](https://github.com/adamvm/hello)
-
-## Ciekawe promocje
-
-1. [Fanatical C++ bundle - 11 e-booków za 10 euro](https://www.fanatical.com/en/bundle/C++)
 
 ## Platformy do nauki
 

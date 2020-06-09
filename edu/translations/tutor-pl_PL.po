@@ -2289,7 +2289,7 @@ msgstr "Szczegóły kursu"
 
 #: classes/TutorEDD.php:99
 msgid "Easy Digital Downloads"
-msgstr "Łatwe pobieranie cyfrowe"
+msgstr "Easy Digital Downloads"
 
 #: classes/TutorEDD.php:78
 msgid "This will enable sell your product via EDD"
@@ -4310,7 +4310,7 @@ msgstr "Stan:"
 
 #: templates/dashboard/my-courses.php:9 classes/Utils.php:2108
 msgid "My Courses"
-msgstr "Moje kursy"
+msgstr "Moje moduły"
 
 #: templates/dashboard/reviews.php:83
 msgid "Edit Review"

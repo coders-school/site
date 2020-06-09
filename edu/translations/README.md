@@ -6,8 +6,8 @@
 
 ## Upload to server (ssh)
 
-| File      | Path                                                                  |
-| --------- | --------------------------------------------------------------------- |
-| gamipress | public_html/edu/wp-content/plugins/gamipress/languages                |
-| tutor     | public_html/edu/wp-content/languages/plugins                          |
-| cmb2      | public_html/edu/wp-content/plugins/gamipress/libraries/cmb2/languages |
+| File      | Path                                                  |
+| --------- | ----------------------------------------------------- |
+| gamipress | wp-content/plugins/gamipress/languages                |
+| tutor     | wp-content/languages/plugins                          |
+| cmb2      | wp-content/plugins/gamipress/libraries/cmb2/languages |

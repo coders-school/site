@@ -473,7 +473,7 @@ msgstr ""
 
 #: includes/admin/log-extra-data-ui.php:70
 msgid "Visibility:"
-msgstr ""
+msgstr "Widoczność:"
 
 #: includes/admin/log-extra-data-ui.php:70 includes/custom-tables/logs.php:318
 #: includes/shortcodes/gamipress_logs.php:58
@@ -495,16 +495,16 @@ msgstr ""
 
 #: includes/admin/log-extra-data-ui.php:91
 msgid "Delete permanently"
-msgstr ""
+msgstr "Usuń na stałe"
 
 #: includes/admin/log-extra-data-ui.php:92
 msgid "Delete Permanently"
-msgstr ""
+msgstr "Usuń na stałe"
 
 #: includes/admin/log-extra-data-ui.php:99
 #: includes/admin/pages/licenses.php:206
 msgid "Save Changes"
-msgstr ""
+msgstr "Zapisz zmiany"
 
 #: includes/admin/log-extra-data-ui.php:143
 #: includes/compatibility/1.2.8.php:964
@@ -3294,12 +3294,12 @@ msgstr ""
 #: includes/ajax-functions.php:688 includes/ajax-functions.php:791
 #, php-format
 msgid "Insufficient %s."
-msgstr ""
+msgstr "Niewystarczająca liczba %s."
 
 #: includes/ajax-functions.php:702
 #, php-format
 msgid "Congratulations! You unlocked the %s %s."
-msgstr ""
+msgstr "Gratulacje! Zdobywasz %s."
 
 #: includes/ajax-functions.php:742
 msgid "Rank not found."
@@ -3935,20 +3935,20 @@ msgstr ""
 #: includes/filters.php:799 includes/filters.php:908
 #, php-format
 msgid "Unlock using %s"
-msgstr ""
+msgstr "Zdobądź za %s"
 
 #: includes/filters.php:802 includes/filters.php:911
 #, php-format
 msgid "Do you want to unlock %s using %s?"
-msgstr ""
+msgstr "Czy chcesz zdobyć %s płacąc %s?"
 
 #: includes/filters.php:803 includes/filters.php:912
 msgid "Yes"
-msgstr ""
+msgstr "Tak"
 
 #: includes/filters.php:804 includes/filters.php:913
 msgid "No"
-msgstr ""
+msgstr "Nie"
 
 #: includes/filters.php:993
 #, php-format
