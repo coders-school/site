@@ -42,8 +42,6 @@ Obecnie C++ jest jednym z najpopularniejszych języków programowania używanym 
 Misją Coders School jest kształcenie kompetencji w aspirujących programistach, aby zapewnić im wszechstronny rozwój, w stopniu lepszym, niż jest to prowadzone na uczelniach czy bootcampach. Po naszych kursach o wiele łatwiej będzie Ci wykazać się w trakcie rozmowy o pracę. Nie skupiamy się jedynie na umiejętnościach twardych, ale również przykładamy uwagę do umiejętności miękkich, które są równie ważne w IT.
 Nauka u nas odbywa się nie w sposób znany z uczelni, a na zasadzie grywalizacji. Za wykonywane zadania zdobywasz punkty doświadczenia, wbijasz kolejne poziomy, odblokowujesz osiągnięcia i otrzymujesz nagrody jak w grze. Przy okazji zdobywasz przydatną wiedzę i łączysz przyjemne z pożytecznym.
 Na naszej stronie dostępny jest test, w którym możesz sprawdzić swoją wiedzę z C++. Rozwiązać go może każdy, niezależnie od poziomu wiedzy i umiejętności.  
-W dalszej części artykułu przedstawię i omówię wyniki tego testu oraz porównam go z wynikami zebranymi przed dwoma laty.
-Zapraszam zatem do dalszej lektury.
 
 ## „A komu to potrzebne? A dlaczego?”
 
