@@ -1,6 +1,6 @@
 ---
-title: "Smutne wyniki testu C++"
-subtitle: "Dwa lata później"
+title: "Smutne wyniki testu C++ dwa lata później"
+subtitle: ""
 date: 2020-09-07T12:00:00+02:00
 lastmod: 2020-09-07T12:00:00+02:00
 draft: false
@@ -8,11 +8,11 @@ author: ""
 authorLink: ""
 description: ""
 summary: ""
-url: "/post/analiza-wyników"
+url: "/post/analiza-wyników-testu-cpp"
 
-tags: ["c++", "kurs", "online", "programowanie"]
+tags: ["c++", "test", "wyniki"]
 categories: ["Post", "Raport"]
-keywords: ["Kurs C++", "wyniki testu c++", "analiza wyników"]
+keywords: ["test c++", "wyniki testu c++", "c++ trudny"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
@@ -31,21 +31,7 @@ comment:
 license: ""
 ---
 
-W latach 80-tych duńczyk Bjarne Stroustrup stworzył rozszerzenie obiektowe do języka C. Jako że była to kolejna iteracja języka, ostatecznie nazwano ją C++.
-<!-- Na chwilę obecną nie mam lepszego pomysłu co wpisać w tym tekście. Nie mam również pomysłu na featuredImage -->
-
-<!--more-->
-
-## Wstęp
-
-Obecnie C++ jest jednym z najpopularniejszych języków programowania używanym w branży IT. Jego znajomość jest czynnikiem istotnym przy szukaniu zatrudnienia jako programista.
-Misją Coders School jest kształcenie kompetencji w aspirujących programistach, aby zapewnić im wszechstronny rozwój, w stopniu lepszym, niż jest to prowadzone na uczelniach czy bootcampach. Po naszych kursach o wiele łatwiej będzie Ci wykazać się w trakcie rozmowy o pracę. Nie skupiamy się jedynie na umiejętnościach twardych, ale również przykładamy uwagę do umiejętności miękkich, które są równie ważne w IT.
-Nauka u nas odbywa się nie w sposób znany z uczelni, a na zasadzie grywalizacji. Za wykonywane zadania zdobywasz punkty doświadczenia, wbijasz kolejne poziomy, odblokowujesz osiągnięcia i otrzymujesz nagrody jak w grze. Przy okazji zdobywasz przydatną wiedzę i łączysz przyjemne z pożytecznym.
-Na naszej stronie dostępny jest test, w którym możesz sprawdzić swoją wiedzę z C++. Rozwiązać go może każdy, niezależnie od poziomu wiedzy i umiejętności.  
-
-## „A komu to potrzebne? A dlaczego?”
-
-Test składa się z ośmiu zamkniętych pytań o zróżnicowanym poziomie trudności. Pytania dotyczą wiedzy w zakresie znajomości C++. Odpowiedzi w teście można udzielać wielokrotnie, a sam test jest anonimowy. Możesz więc potraktować go jako sprawdzenie swojej wiedzy i umiejętności, które powinno Ci zająć około 10 minut.
+Na naszej stronie dostępny jest test, w którym możesz sprawdzić swoją wiedzę z C++. Rozwiązać go może każdy, niezależnie od poziomu wiedzy i umiejętności. Test składa się z ośmiu zamkniętych pytań o zróżnicowanym poziomie trudności. Pytania dotyczą wiedzy w zakresie znajomości C++. Odpowiedzi można udzielać wielokrotnie, a sam test jest anonimowy. Możesz więc potraktować go jako sprawdzenie swojej wiedzy i umiejętności, które powinno Ci zająć około 10 minut.
 
 ## Omówienie i porównanie wyników ogólnych
 
