@@ -13,7 +13,7 @@ categories: ["Post", "Wyzwanie"]
 hiddenFromHomePage: false
 
 featuredImage: "featured.png"
-featuredImagePreview: "post/wyniki-wyzwania-czystego-kodu/featured.png"
+featuredImagePreview: "/post/wyniki-wyzwania-czystego-kodu/featured.png"
 
 toc:
   enable: true

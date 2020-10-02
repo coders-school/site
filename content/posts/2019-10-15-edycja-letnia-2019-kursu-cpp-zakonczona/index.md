@@ -14,7 +14,7 @@ categories: ["Post","Stacjonarny Kurs C++"]
 hiddenFromHomePage: false
 
 featuredImage: "featured.jpg"
-featuredImagePreview: "post/edycja-letnia-2019-kursu-cpp-zakonczona/featured.jpg"
+featuredImagePreview: "/post/edycja-letnia-2019-kursu-cpp-zakonczona/featured.jpg"
 
 toc:
   enable: true
