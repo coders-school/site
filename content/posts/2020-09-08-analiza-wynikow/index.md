@@ -1,8 +1,8 @@
 ---
 title: "Smutne wyniki testu C++ dwa lata później"
 subtitle: ""
-date: 2020-09-07T12:00:00+02:00
-lastmod: 2020-09-07T12:00:00+02:00
+date: 2020-10-02T12:00:00+02:00
+lastmod: 2020-10-02T12:00:00+02:00
 draft: false
 author: "Mateusz Stacewicz"
 authorLink: "https://www.linkedin.com/in/mateusz-stacewicz-329159154/"
@@ -17,7 +17,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 
 featuredImage: "featured.png"
-featuredImagePreview: "/posts/2020-09-08-analiza-wynikow/featured.png"
+featuredImagePreview: "/post/analiza-wyników-testu-cpp/featured.png"
 
 toc:
   enable: false
@@ -40,7 +40,7 @@ Poniżej przedstawiam wyniki na dzień sporządzania wpisu:
 
 {{<figure src="featured.png" title="Wykres 1. Rozkład wyników testu z dnia 22.08.2020 (ilość odpowiedzi – 1110).">}}
 
-Jak widać na zaprezentowanym wykresie, najczęściej uzyskiwany wynik przez ankietowanych to zaledwie dwa punkty. Następnym w kolejności uzyskiwanym wynikiem jest otrzymanie tylko jednego punktu. 
+Jak widać na zaprezentowanym wykresie, najczęściej uzyskiwany wynik przez ankietowanych to zaledwie dwa punkty. Następnym w kolejności uzyskiwanym wynikiem jest otrzymanie tylko jednego punktu.
 Jest to bardzo niepokojące, zwłaszcza, jeśli zauważy się, że 85 razy uzyskaliście 0 punktów w porównaniu z wynikami 7 i 8 punktów, które łącznie zostały przez was uzyskane 83-krotnie.
 Na 50% pytań poprawnie odpowiedzieliście 165 razy. 676 (czyli prawie 60,9% wyników) odpowiedzi było poniżej połowy możliwej do zdobycia punktacji, natomiast zaledwie 269 (czyli około 24,2%) udzielonych odpowiedzi miało punktację wyższą niż połowa skali.
 Pocieszającym może być fakt poprawy wyników w porównaniu z danymi sprzed 2 lat, jednak trzeba zauważyć, że poprawa jest niewielka. Wynik uśredniony podniósł się o zaledwie 0,2 punktu, zgodnie z wykresem poniżej:
