@@ -10,7 +10,7 @@ tags: ["podsumowanie"]
 hiddenFromHomePage: false
 
 featuredImage: "featured.png"
-featuredImagePreview: "post/podsumowanie-roku-2019/featured.png"
+featuredImagePreview: "/post/podsumowanie-roku-2019/featured.png"
 
 toc:
   enable: true
