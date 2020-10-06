@@ -1,6 +1,7 @@
 /* Main Body */
-@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=VT323&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=VT323&display=swap'); */
 
 @page {
     margin-top: 0;
@@ -53,8 +54,8 @@ a {
 }
 #watermark {
     position: fixed;
-    top: -50px;
-    left:     -50px;
+    top: 0;
+    left:     0;
     width:    21cm;
     height:   29.7cm;
     z-index:  -1000;
@@ -69,14 +70,14 @@ Certificate Content
 .certificate-wrap {
     border: 0px solid red;
     width: 560px;
-    margin-top: 60px;
-    margin-left: 65px;
+    margin-top: 110px;
+    margin-left: 115px;
 }
 .certificate-content h1{
     text-align: center;
     font-size: 65px;
     font-weight: normal;
-    margin-top: 70px;
+    margin-top: 80px;
     margin-bottom: 60px;
     color: #8B3536;
     font-family: VT323, Rajdhani, Nunito;
@@ -85,9 +86,9 @@ Certificate Content
     text-align: center;
     font-size: 62px;
     font-weight: normal;
-    margin-top: 70px;
+    margin-top: 80px;
     margin-bottom: 50px;
-    line-height: 30px;
+    line-height: 0.9em;
     color: #8B3536;
     font-family: VT323, Rajdhani, Nunito;
 }
@@ -96,6 +97,7 @@ Certificate Content
     font-size: 52px;
     font-weight: normal;
     margin-top: 40px;
+    padding-top: 40px;
     margin-bottom: 40px;
     line-height: 30px;
     font-family: VT323, Rajdhani, Nunito;
@@ -106,8 +108,9 @@ Certificate Content
     line-height: 42px;
 }
 .certificate-footer{
-    font-family: Rajdhani, Nunito;
-    margin-top: 75px;
+    font-family: Nunito;
+    position: relative;
+    bottom: 0px;
 }
 .certificate-footer p{
     font-size: 18px;
@@ -132,11 +135,12 @@ table td.last-col{
 }
 .logo {
     text-align: center;
+    border: 0px solid #333333;
 }
 .logo img {
     max-width: 400px;
     height: auto;
-    margin: 50px;
+    margin: 50px 50px 70px 50px;
 }
 /* page numbers */
 .pagenum:before {
