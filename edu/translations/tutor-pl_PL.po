@@ -3200,7 +3200,7 @@ msgstr "Zakończone"
 
 #: templates/single/course/enrolled/completing-progress.php:19
 msgid "Course Status"
-msgstr "Szczegóły moduły"
+msgstr "Szczegóły modułu"
 
 #: templates/single/course/enrolled/announcements.php:46
 msgid "The instructor hasn’t added any announcements to this course yet. Announcements are used to inform you of updates or additions to the course."

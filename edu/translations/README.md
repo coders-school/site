@@ -10,4 +10,5 @@
 | --------- | ----------------------------------------------------- |
 | gamipress | wp-content/plugins/gamipress/languages                |
 | tutor     | wp-content/languages/plugins                          |
+| tutor-pro | wp-content/plugins/tutor-pro/languages                |
 | cmb2      | wp-content/plugins/gamipress/libraries/cmb2/languages |
