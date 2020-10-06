@@ -3931,7 +3931,7 @@ msgstr "Oznacz jako poprawne"
 #: templates/dashboard/quiz-attempts/quiz-reviews.php:322
 #: views/pages/view_attempt.php:310
 msgid "Incorrect"
-msgstr "Źle"
+msgstr "Niepoprawne"
 
 #: templates/dashboard/quiz-attempts/quiz-reviews.php:320
 #: views/pages/view_attempt.php:308
@@ -3941,7 +3941,7 @@ msgstr "Wymagany przegląd"
 #: templates/dashboard/quiz-attempts/quiz-reviews.php:317
 #: views/pages/view_attempt.php:305
 msgid "Correct"
-msgstr "Popraw"
+msgstr "Poprawne"
 
 #: templates/dashboard/quiz-attempts/quiz-reviews.php:201
 #: views/pages/view_attempt.php:189
@@ -4351,7 +4351,7 @@ msgstr "Zaktualizowane: "
 #: templates/single/quiz/previous-attempts.php:78
 #: classes/Quiz_Attempts_List.php:90 views/pages/view_attempt.php:96
 msgid "Fail"
-msgstr "Oblane"
+msgstr "Nie zaliczone"
 
 #: templates/dashboard/my-quiz-attempts.php:41
 #: templates/dashboard/quiz-attempts.php:45
