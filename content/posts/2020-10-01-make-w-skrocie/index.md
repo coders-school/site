@@ -31,7 +31,7 @@ comment:
 license: ""
 ---
 
-# Make - narzędzia programisty
+## Make - narzędzia programisty
 
 Obecnie nikt nie wyobraża sobie kompilowania dużych projektów programistycznych bez systemu budowania.
 
