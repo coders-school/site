@@ -46,6 +46,7 @@ function fix_date($course_id, $original_date) {
         <h3>Certificate of completion</h3>
         <p>This is to certify that </p>
         <h1><?php echo $user->first_name, ' ', $user->last_name ?></h1>
+        <!-- TODO: if $user->first_name.empty() or $user->last_name.empty() then echo "Hello there! Please set your first and last name in your profile first!" -->
         <p> has successfully completed the course</p>
         <h2><?php echo $course->post_title; ?></h2>
 
