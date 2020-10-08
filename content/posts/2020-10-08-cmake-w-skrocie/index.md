@@ -31,12 +31,13 @@ comment:
 license: ""
 ---
 
-# Make - narzędzia programisty
+# CMake - narzędzia programisty
 
-Obecnie nikt nie wyobraża sobie kompilowania dużych projektów programistycznych bez systemu budowania.
+Zapewne słyszałeś już o CMake. To wieloplatformowe narzędzie pozwala na automatyzację budowania projektów w różnych środowiskach. Jego popularność oraz uniwersalność sprawiają, że ciężko obecnie wyobrazić sobie pracę bez niego.
 
-Dzięki Make możemy zautomatyzować proces kompilacji plików źródłowych i ich zależności. Możemy dzięki temu przyspieszyć kompilację, bo nie musimy przebudowywać plików obiektowych, które nie są zależne od naszych zmian. Aby jednak to osiągnąć, należy wiedzieć czym są pliki Makefile i jak ich używać.
+Nie każdy jednak wie, jak CMake'a używać.
 
-Jeśli nie wiesz jak tworzyć pliki Makefile, usiądź wygodnie i obejrzyj ten krótki film o Make podczas swojej przerwy na kawę ☕.
+W naszym kursie C++ dobrze wiemy jak ważny jest CMake i zapoznajemy go z naszymi studentami. W tym filmie znajduje się ekstrakt z takiej lekcji.
+
 
 {{< youtube j3N-xZlOc98 >}}
