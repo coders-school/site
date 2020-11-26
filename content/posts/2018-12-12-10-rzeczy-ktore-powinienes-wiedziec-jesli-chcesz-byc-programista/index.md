@@ -1,4 +1,4 @@
----
+﻿---
 title: "10 rzeczy, które powinieneś wiedzieć, jeśli chcesz być programistą"
 date: 2018-12-12T01:02:05+00:00
 draft: false
