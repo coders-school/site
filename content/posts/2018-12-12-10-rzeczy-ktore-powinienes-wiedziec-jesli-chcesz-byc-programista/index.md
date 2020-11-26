@@ -1,4 +1,4 @@
----
+﻿---
 title: "10 rzeczy, które powinieneś wiedzieć, jeśli chcesz być programistą"
 date: 2018-12-12T01:02:05+00:00
 draft: false
@@ -8,7 +8,7 @@ description: ""
 summary: ""
 url: /post/10-rzeczy-ktore-powinienes-wiedziec-jesli-chcesz-byc-programista/
 
-tags: ["nauka", "programowanie", "mity", "10 rzeczy ..."]
+tags: ["nauka", "programowanie", "mity"]
 categories: ["Post", "Warto wiedzieć"]
 hiddenFromHomePage: false
 
