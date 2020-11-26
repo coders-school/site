@@ -8,7 +8,7 @@ description: ""
 summary: ""
 url: /post/10-rzeczy-ktore-powinienes-wiedziec-jesli-chcesz-byc-programista/
 
-tags: ["nauka", "programowanie", "mity", "10 rzeczy ..."]
+tags: ["nauka", "programowanie", "mity"]
 categories: ["Post", "Warto wiedzieć"]
 hiddenFromHomePage: false
 
