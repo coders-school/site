@@ -35,7 +35,7 @@ license: ""
 
 Debugger to kolejne narzędzie potrzebne każdemu programiście, które pozwala zaoszczędzić godziny, dni lub tygodnie szukania błędu w naszym kodzie.
 
-Dają one możliwość kontrolowania wykonywanych programów - zatrzymywania go, wykonywania instrukcji krok po kroku i śledzenia wartości poszczególnych zmiennych.
+Dają one możliwość kontrolowania wykonywanego programu - zatrzymywania go, wykonywania instrukcji krok po kroku i śledzenia wartości poszczególnych zmiennych.
 
 W tym skrócie z naszej edycji kursu C++ znajdziesz informacje jak poruszać się w debuggerach GDB i LLDB.
 
