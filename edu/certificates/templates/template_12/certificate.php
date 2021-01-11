@@ -15,7 +15,27 @@ function fix_date($course_id, $original_date) {
     if ($course_id == 4043) {
         return "6th August 2020";
     }
+    if ($course_id == 4656) {
+        return "9th November 2020";
+    }
     return date('jS F Y', strtotime($original_date));
+}
+
+function get_min_points($course_id) {
+    if ($course_id == 4043) {
+        return 256;
+    }
+    if ($course_id == 4656) {
+        return 512;
+    }
+    return 0;
+}
+
+function is_distincted($course_id, $points) {
+    if ($course_id == 4656 and $points >= 1152) {
+        return True;
+    }
+    return False;
 }
 
 ?>
@@ -36,8 +56,10 @@ function fix_date($course_id, $original_date) {
 
         <?php
         $points = fetch_gamipress_points($user->ID);
-        $min_points = 292;
-        if ($points < $min_points) {
+        $min_points = get_min_points($course_id);
+        if (empty($user->first_name) or empty($user->last_name)) {
+            echo "<p>Hello there! Please set your first and last name in your profile first!";
+        } elseif ($points < $min_points) {
             echo "<p>Sorry $user->first_name, you don't have enough points to earn this certificate.</p>";
             echo "<p>You need at least ".$min_points." points but you have only ".$points.". Keep working!</p>";
         } else {
@@ -46,11 +68,16 @@ function fix_date($course_id, $original_date) {
         <h3>Certificate of completion</h3>
         <p>This is to certify that </p>
         <h1><?php echo $user->first_name, ' ', $user->last_name ?></h1>
-        <!-- TODO: if $user->first_name.empty() or $user->last_name.empty() then echo "Hello there! Please set your first and last name in your profile first!" -->
         <p> has successfully completed the course</p>
         <h2><?php echo $course->post_title; ?></h2>
 
-        <?php } ?>
+        <?php
+            if (is_distincted($course_id, $points)) {
+                echo "<h4>with distinction</h4>";
+                echo '<img class="distinction" src="'.$this->template['url'].'achievement.png'.'" />';
+            }
+        }
+        ?>
     </div>
 
     <div class="logo">
@@ -62,7 +89,7 @@ function fix_date($course_id, $original_date) {
         <table>
             <tr>
                 <td class="first-col"><p>Wrocław, <?php echo fix_date($course_id, $completed->completion_date); ?></p></td>
-                <!-- <td class="first-col"><p>Wrocław, 1st October 2020</p></td> -->
+                <!-- <td class="first-col"><p>Wrocław, 23rd October 2020</p></td> -->
                 <td class="last-col">
                     <div class="signature-wrap">
                         <img src="<?php echo $signature_image_url; ?>" />
@@ -80,10 +107,10 @@ function fix_date($course_id, $original_date) {
             </tr>
             <tr>
                 <td class="first-col"><p><?php echo $completed->completed_hash; ?></p></td>
-                <!--td class="first-col"> <p>
-                    99/2020
+                <!-- <td class="first-col"> <p>
+                    122/2020
 
-                </p> </td-->
+                </p> </td> -->
                 <td class="last-col"><?php echo tutor_utils()->get_option('tutor_cert_authorised_company_name'); ?></td>
             </tr>
         </table>
