@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=VT323&display=swap');
+
+@font-face {
+    font-family: Nunito;
+    src: url(./fonts/Nunito-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: LobStar;
+    src: url(./fonts/Lob-Star.woff2);
+}
+
+@font-face {
+    font-family: VT323;
+    src: url(./fonts/VT323-Regular.ttf);
+}

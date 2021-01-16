@@ -1,0 +1,151 @@
+/* Main Body */
+/* @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=VT323&display=swap'); */
+
+@page {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+body {
+    color: #333333;
+    margin: 0;
+    font-family: VT323, Rajdhani, Nunito;
+    font-weight: normal;
+    font-size: 9pt;
+    line-height: 100%;
+}
+h1, h2, h3, h4 {
+    font-weight: bold;
+    margin: 0;
+}
+h1 {
+    font-size: 16pt;
+    margin: 5mm 0;
+}
+h2 {
+    font-size: 14pt;
+}
+h3, h4 {
+    font-size: 9pt;
+}
+ol,
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li,
+ul {
+    margin-bottom: 0.75em;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
+p + p {
+    margin-top: 1.25em;
+}
+a {
+    border-bottom: 1px solid;
+    text-decoration: none;
+}
+#watermark {
+    position: fixed;
+    top: 0;
+    left:     0;
+    width:    21cm;
+    height:   29.7cm;
+    z-index:  -1000;
+}
+
+/**
+Certificate Content
+ */
+.certificate-content{
+    font-size: 32px;
+}
+.certificate-wrap {
+    border: 0px solid red;
+    width: 560px;
+    margin-top: 110px;
+    margin-left: 115px;
+}
+.certificate-content h1{
+    text-align: center;
+    font-size: 65px;
+    font-weight: normal;
+    margin-top: 80px;
+    margin-bottom: 60px;
+    color: #8B3536;
+    font-family: VT323, Rajdhani, Nunito;
+}
+.certificate-content h2 {
+    text-align: center;
+    font-size: 62px;
+    font-weight: normal;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    line-height: 0.9em;
+    color: #8B3536;
+    font-family: VT323, Rajdhani, Nunito;
+}
+.certificate-content h3 {
+    text-align: center;
+    font-size: 52px;
+    font-weight: normal;
+    margin-top: 40px;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    line-height: 30px;
+    font-family: VT323, Rajdhani, Nunito;
+    text-transform: uppercase;
+}
+.certificate-content p{
+    text-align: center;
+    line-height: 42px;
+}
+.certificate-footer{
+    font-family: Nunito;
+    position: relative;
+    bottom: 0px;
+}
+.certificate-footer p{
+    font-size: 18px;
+}
+table td.first-col{
+    border: 0px solid blue;
+    width: 400px;
+}
+table td.last-col{
+    border: 0px solid green;
+    text-align: right;
+    /* width: 175px; */
+}
+.certificate-author-name{
+    border-top: 1px solid #333333;
+    padding-top: 10px;
+}
+.signature-wrap img{
+    max-width: 150px;
+    max-height: 65px;
+    height: auto;
+}
+.logo {
+    text-align: center;
+    border: 0px solid #333333;
+}
+.logo img {
+    max-width: 400px;
+    height: auto;
+    margin: 50px 50px 70px 50px;
+}
+/* page numbers */
+.pagenum:before {
+    content: counter(page);
+}
+.pagenum,.pagecount {
+    font-family: sans-serif;
+}
