@@ -86,7 +86,7 @@ Certificate Content
     text-align: center;
     font-size: 62px;
     font-weight: normal;
-    margin-top: 80px;
+    margin-top: 70px;
     margin-bottom: 50px;
     line-height: 0.9em;
     color: #8B3536;
@@ -103,14 +103,29 @@ Certificate Content
     font-family: VT323, Rajdhani, Nunito;
     text-transform: uppercase;
 }
+.certificate-content h4{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 32px;
+    font-size: 32px;
+}
+img.distinction {
+    width: 360px;
+    position: relative;
+    left: -50px;
+    top: -30px;
+}
 .certificate-content p{
     text-align: center;
     line-height: 42px;
 }
 .certificate-footer{
     font-family: Nunito;
-    position: relative;
-    bottom: 0px;
+    position: absolute;
+    top: 925px;
+    left: 115px;
+    width: 600px;
 }
 .certificate-footer p{
     font-size: 18px;
@@ -136,6 +151,9 @@ table td.last-col{
 .logo {
     text-align: center;
     border: 0px solid #333333;
+    position: absolute;
+    top: 720px;
+    left: 150px;
 }
 .logo img {
     max-width: 400px;

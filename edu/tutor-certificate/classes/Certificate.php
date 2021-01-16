@@ -78,14 +78,16 @@ class Certificate {
 
 	public function send_certificate_html() {
 		$id = $_GET['course_id'] ?? '';
+		$cert_hash = isset($_GET['certificate_hash']) ? $_GET['certificate_hash'] : null;
 		$action = $_GET['tutor_action'] ?? '';
 
 		if (is_numeric($id) && $action == 'generate_course_certificate') {
 
 			$this->prepare_template_data();
-
+			$completed = $cert_hash ? $this->completed_course($cert_hash) : false;
+			
 			// Get certificate html
-			$content = $this->generate_certificate($id);
+			$content = $this->generate_certificate($id, $completed);
 			exit($content);
 		}
 	}
@@ -192,8 +194,6 @@ class Certificate {
 		}
 
 		$course = get_post($completed->course_id);
-
-		$course_id = $completed->course_id;
 		$upload_dir = wp_upload_dir();
 		
 		$certificate_dir = $upload_dir['baseurl'] . '/' . $this->certificates_dir_name;
@@ -203,9 +203,8 @@ class Certificate {
 		$this->certificate_header_content($course->post_title, $cert_img);
 
 		ob_start();
-		include TUTOR_CERT()->path . 'views/certificate.php';
-		$content = ob_get_clean();
-		echo $content;
+		tutor_load_template('single-certificate', compact('course', 'cert_img', 'cert_hash'), true);
+		echo ob_get_clean();
 		die();
 	}
 
@@ -230,8 +229,8 @@ class Certificate {
 		$durationHours      = (int) tutor_utils()->avalue_dot('hours', $duration);
 		$durationMinutes    = (int) tutor_utils()->avalue_dot('minutes', $duration);
 		$course             = get_post($course_id);
-		$completed          = ($completed) ? $completed : tutor_utils()->is_completed_course($course_id);
-		$user 				= ($completed) ? get_userdata($completed->completed_user_id) : wp_get_current_user();
+		$completed          = $completed ? $completed : tutor_utils()->is_completed_course($course_id);
+		$user 				= $completed ? get_userdata($completed->completed_user_id) : wp_get_current_user();
 		$completed_date		= '';
 		if ($completed) {
 			$wp_date_format		= get_option('date_format');

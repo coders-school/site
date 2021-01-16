@@ -28,23 +28,18 @@ jQuery(document).ready(function ($) {
                     reader.onloadend = () => {
                         //console.log(css)
                         //(5)replace font url by binary string.
-                        console.log("reader.onloadend")
                         css = css.replace(new RegExp(url), reader.result);
                         loaded++;
                         //check all fonts are replaced.
                         if(loaded == fontURLs.length){
-                            console.log("LLLL")
+                        console.log("L")
                             $('#tutor_svg_font_id').prepend(`<style>${css}</style>`);
-                            console.log("Prepended")
                             callback();
-                            console.log("Callback called")
                         }
                     };
                     reader.readAsDataURL(request.response);
-                    console.log("reader.readAsDataURL")
                 };
                 request.send();
-                console.log("request.send")
             });
         };
     }
@@ -124,10 +119,10 @@ jQuery(document).ready(function ($) {
 
             // Now capture the iframe using library
             var container = iframe_document.getElementsByTagName('body')[0];
-            html2canvas(container).then(canvas => {
+            html2canvas(container, {scale:2}).then(canvas => {
                 // var re_canvas = this.re_scale_canvas(canvas, 852, ((height/width)*852));
                 var re_canvas = this.re_scale_canvas(canvas, width, height);
-                var data_url = re_canvas.toDataURL('image/jpeg', 1.0);
+                var data_url = re_canvas.toDataURL('image/jpeg');
 
                 // Store the blob on server
                 this.store_certificate(data_url, (success, already_stored) => {
@@ -149,7 +144,8 @@ jQuery(document).ready(function ($) {
         // Fetch certificate html from server
         // and initialize converters
         this.init_render_certificate = (action, callback) => {
-            var certificate_url = '?tutor_action=generate_course_certificate&course_id=' + course_id;
+            var hash = cert_hash ? '&certificate_hash='+cert_hash : '';
+            var certificate_url = '?tutor_action=generate_course_certificate&course_id=' + course_id + hash;
 
             // Get the HTML from server
             $.get(certificate_url, html => {
@@ -165,11 +161,15 @@ jQuery(document).ready(function ($) {
 
                 loadFont(()=> {
                     // Render the html in iframe
+                    console.log("Render the html in iframe - open")
                     iframe_document.open();
+                    console.log("Render the html in iframe - write")
                     iframe_document.write(html);
                     iframe_document.write($('<div></div>').append($('#tutor_svg_font_id').clone()).html());
+                    console.log("Render the html in iframe - close")
                     iframe_document.close();
 
+                    console.log("Render the html in iframe - dispatch_conversion_methods")
                     iframe.onload = () => this.dispatch_conversion_methods(action, iframe_document, callback);
                 });
             });

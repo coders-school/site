@@ -56,8 +56,8 @@ class Instructor_Signature {
                             <br/>
                             <br/>
                             <p>
-                                <?php _e('Guidelines', 'tutor-pro'); ?>: <b>700x430 pixels;</b><br/>
-                                <?php _e('File Support', 'tutor-pro'); ?>: <b>jpg, jpeg, gif, or png.</b> no text on the image.
+                                <?php _e('Guidelines', 'tutor-pro'); ?>: <b>700x430 <?php _e('pixels', 'tutor-pro'); ?>;</b><br/>
+                                <?php _e('File Support', 'tutor-pro'); ?>: <b>jpg, jpeg, gif, or png.</b> <?php _e('no text on the image', 'tutor-pro'); ?>.
                             </p>
                         </div>
                     </div>

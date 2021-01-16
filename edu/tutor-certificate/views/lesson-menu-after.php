@@ -7,6 +7,7 @@ $show_certificate = (bool) tutils()->get_option('tutor_course_certificate_view')
 $cert_show_url = add_query_arg(array('cert_hash' => $is_completed->completed_hash));
 
 $disable_certificate = get_post_meta($course_id_num, '_tutor_disable_certificate', true);
+
 if ($disable_certificate == 'yes') {
 	// No need to load html if certificate disabled for this course
 	return;
