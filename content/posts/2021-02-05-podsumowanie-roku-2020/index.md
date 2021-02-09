@@ -37,7 +37,7 @@ Dzięki temu czymś się wyróżniamy. Ale tym razem oprócz suchego tekstu nagr
 
 <!--more-->
 
-{{< youtube _nCaJMjHIJY >}}
+{{< youtube 8Ea3YME_BdY >}}
 
 ## Rok 2020 był rokiem niezwykłym
 
