@@ -89,7 +89,6 @@ function is_distincted($course_id, $points) {
         <table>
             <tr>
                 <td class="first-col"><p>Wrocław, <?php echo fix_date($course_id, $completed->completion_date); ?></p></td>
-                <!-- <td class="first-col"><p>Wrocław, 23rd October 2020</p></td> -->
                 <td class="last-col">
                     <div class="signature-wrap">
                         <img src="<?php echo $signature_image_url; ?>" />
@@ -107,10 +106,6 @@ function is_distincted($course_id, $points) {
             </tr>
             <tr>
                 <td class="first-col"><p><?php echo $completed->completed_hash; ?></p></td>
-                <!-- <td class="first-col"> <p>
-                    122/2020
-
-                </p> </td> -->
                 <td class="last-col"><?php echo tutor_utils()->get_option('tutor_cert_authorised_company_name'); ?></td>
             </tr>
         </table>
