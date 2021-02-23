@@ -57,6 +57,7 @@ Dlaczego Helion? To raczej jedyny wydawca poniższych książek w języku polski
 | [![Język C++, szkoła programowania.](/resources/cpp_books/prata_pl.jpg)][prata_pl] | *Stephan Prata*<br>[🇵🇱 Język C++, szkoła programowania.][prata_pl]<br>[🇬🇧 C++ Primer Plus][prata_eng]<br><br><ul><li>1200 stron</li><li>standard C++11</li><li>programowanie obiektowe</li><li>biblioteka STL</li><li>przekrój całego języka C++</li><li>🇵🇱🇬🇧 pozycja dostępna w języku polskim i angielskim</li><li>:baby: dla początkujących</li><li>👎 nie polecam na start</li></ul> Wiele osób uczy się z tej książki C++, ale do końca jej nie polecam na start ze względu na niekonsekwencję w stosowaniu wcześniej wprowadzonych elementów. Dużo tych elementów później się zapomina, gdy nie są używane. |
 | [![C++ Primer](/resources/cpp_books/cpp_primer.jpg)][primer] | *Stanley B. Lippman, Josée Lajoie*<br>[🇬🇧 C++ Primer (5th Edition)][primer]<br><br><ul><li>900 stron</li><li>standard C++11</li><li>programowanie obiektowe</li><li>biblioteka STL</li><li>🇬🇧 pozycja dostępna w języku angielskim</li><li>:baby: dla początkujących</li><li>👍 polecam</li></ul> Książka ta jest lepsza dla początkujących od książki *C++ Primer Plus*, której polska wersja to *Język C++, szkoła programowania* pana Praty (powyżej). Ma trochę bardziej przemawiający styl, ale nie ma aktualnego wydania w języku polskim. |
 | [![Programowanie. Teoria i praktyka z wykorzystaniem C++](/resources/cpp_books/stroustrup_programming_pl.jpg)][stroustrup_programming_pl] | *Bjarne Stroustrup*<br>[🇵🇱 Programowanie. Teoria i praktyka z wykorzystaniem C++][stroustrup_programming_pl]<br>[🇬🇧 Programming. Principles and Practice Using C++][stroustrup_programming_eng]<br><br><ul><li>1100 stron</li><li>standard C++14</li><li>programowanie obiektowe</li><li>biblioteka STL</li><li>tworzenie GUI</li><li>🇵🇱🇬🇧 pozycja dostępna w języku polskim i angielskim</li><li>:baby: :man: dla początkujących oraz średnio-zaawansowanych</li><li>👍 polecam</li></ul> Bjarne Stroustrup to twórca języka C++. Niektórzy polecają przeczytać ją dopiero po Opus Magnum, ale nie jest to konieczne. Prowadzi ona trochę dalej w głąb języka C++ niż Opus Magnum, więc osoby średnio-zaawansowane również znajdą coś dla siebie.<br><br><blockquote cite="Alicja"> Ja zaczynałam od książki *Bjarne Stroustrup* "Programming: Principles and Practice C++" i bardzo ją sobie chwalę. Jest bardzo rzeczowa bez zbędnych informacji. Dobrze jest mieć ją w wersji papierowej, bo jest tak napisana, że tekst i kod są na dwóch sąsiadujących stronach, nie trzeba wertować. Symfonia Grębosza była dla mnie trochę męcząca. Jest w niej dużo dygresji, które miały na celu wyjaśnić pewne zagadnienia, ale niestety tylko bardziej mnie rozpraszały. Stroustrup jest dla tych co lubią krótko i na temat 😉 no może nie tak krotko, bo jest grubaśna.</blockquote> |
+| [![Zaprzyjaźnij się z algorytmami](resources/cpp_books/algorytmy_tomasiewicz.jpg)][zaprzyjaznij_algorytmami] |  *Jacek Tomasiewicz*<br><br><ul><li>164 stron</li><li>🇵🇱 pozycja dostępna w języku polskim</li><li>:baby: :man: dla początkujących oraz średnio-zaawansowanych</li></ul>Dobra książka tak na start z algorytmami, jak i C++ (implementacje ćwiczeń są realizowane właśnie tym językiem, a jego składnia wprowadzana jest stopniowo). Autor zbierał swoje doświadczenia zawodowe między innymi jako szef zespołu tworzącego zadania w Codility, lubi uczyć i stale prowadzi [zajęcia z programowania dla licealistów i młodzieży ze szkół podstawowych](https://www.jacektomasiewicz.pl/), występował także w roli jurora w trakcie olimpiad informatycznych. Każdy z osiemnastu rodziałów tematycznych w książce ma przygotowane zadania z podziałem na poziom trudności. |  
 
 [opus_magnum]: https://helion.pl/view/13538w/ocpp11.htm
 [symfonia]: https://helion.pl/view/13538w/a_006w.htm
@@ -65,6 +66,7 @@ Dlaczego Helion? To raczej jedyny wydawca poniższych książek w języku polski
 [primer]: https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/
 [stroustrup_programming_pl]: https://helion.pl/view/13538w/pcpptp.htm
 [stroustrup_programming_eng]: http://www.stroustrup.com/programming.html
+[zaprzyjaznij_algorytmami]: https://ksiegarnia.pwn.pl/Zaprzyjaznij-sie-z-algorytmami,256933944,p.html
 
 ### Dla średnio-zaawansowanych
 
@@ -152,6 +154,7 @@ Tabela w trakcie opracowania
 2. [One Lone Coder](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/featured) - Kanał o C++, gamedevie i emulatorach.
 3. [Bo Qian](https://www.youtube.com/user/BoQianTheProgrammer/featured) - Kanał o C++. Głównie STL, Boost, Google Test, algorytmy.
 4. [Jason Turner](https://www.youtube.com/user/lefticus1/featured) - Kanał edukacyjny o C++ 11 / 17 / 20.
+5. [Saldina Nurak](https://www.freecodecamp.org/news/learn-object-oriented-programming-oop-in-c-full-video-course/) - Krótki, półtora godzinny kurs video obiektowego C++ polecany na FreeCodeCamp (2021). Saldina Nurak, na YouTube'ie znana też jako CodeBeauty.
 
 ## Repozytoria
 
@@ -165,10 +168,15 @@ Tabela w trakcie opracowania
 2. [cpp0x.pl - Strona z dokumentacją C++ i bibliotekami](http://cpp0x.pl/dokumentacja/)
 3. [Sololearn.com - tutorial C++ online od podstaw](https://www.sololearn.com/Course/CPlusPlus/)
 4. [SPOJ - zadania algorytmiczne](https://www.spoj.com/WSDOCPP/problems/a_wstep)
+5. [Codecademy.com - podobny do Sololearn interaktywny tutorial C++ od podstaw](https://www.codecademy.com/learn/learn-c-plus-plus)
 
 ## Blogi
 
 1. [cpp-polska.pl - polski blog o nowoczesnym C++](https://cpp-polska.pl)
+
+## Grupy  
+
+1. [Wro.cpp](https://www.meetup.com/pl-PL/Wro-cpp/) - wrocławska grupa C++
 
 ## Inne linki
 
