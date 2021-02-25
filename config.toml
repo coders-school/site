@@ -11,7 +11,7 @@ theme = "LoveIt"
 
 # website title
 # 网站标题
-title = "Coders Shool - szkoła prawdziwego C++"
+title = "Coders School - szkoła prawdziwego C++"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -511,7 +511,7 @@ enableEmoji = true
   # Analytics config
   # 网站分析配置
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
       id = "UA-9751224-3"
@@ -520,7 +520,7 @@ enableEmoji = true
       anonymizeIP = true
       # whether to use cookie
       # 是否使用 cookie
-      cookie = false
+      cookie = true
     # Fathom Analytics
     [params.analytics.fathom]
       id = ""
