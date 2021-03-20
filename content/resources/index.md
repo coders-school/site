@@ -155,6 +155,7 @@ Tabela w trakcie opracowania
 3. [Bo Qian](https://www.youtube.com/user/BoQianTheProgrammer/featured) - Kanał o C++. Głównie STL, Boost, Google Test, algorytmy.
 4. [Jason Turner](https://www.youtube.com/user/lefticus1/featured) - Kanał edukacyjny o C++ 11 / 17 / 20.
 5. [Saldina Nurak](https://www.freecodecamp.org/news/learn-object-oriented-programming-oop-in-c-full-video-course/) - Krótki, półtora godzinny kurs video obiektowego C++ polecany na FreeCodeCamp (2021). Saldina Nurak, na YouTube'ie znana też jako CodeBeauty.
+6. [Bisqwit](https://www.youtube.com/user/Bisqwit) <blockquote cite="Konrad">Owy Pan prowadzi kanał o tematyce edukacyjno-rozrywkowej, programując w nowych standardach (jest nawet C++20 w kilku filmach), przedstawia w jaki sposób grafika jest renderowana na ekranie, można u niego znaleźć wszelkiego rodzaju content związany z IT. Jest to geek-linuksowiec, wiele ciekawych rzeczy potrafi zawrzeć w swoich filmikach, jak na przykład działanie mikroprocesora czy crackowanie starych gier na NESa. Szczególnie polecam jego ostatnią serię o grafice 3D, gdzie od podstaw tworzy algorytmy na malowanie trójkątów, projekcje trójwymiarowe, mapowanie UV, aż po samo oświetlenie. Co prawda, nie zawsze jest to perfekcyjny kod produkcyjny, ale w naprawdę fascynujący sposób realizuje swoją pasję, takie moje osobiste zdanie. Gorąco polecam jegomościa :) . Bardzo przyjemnie się go ogląda w wolnych chwilach - uczta wizualna dla oczu i wysiłek intelektualny dla szarych komórek - takie moje osobiste zdanie.</blockquote>
 
 ## Repozytoria
 
