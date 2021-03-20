@@ -63,25 +63,30 @@ enableEmoji = true
         url = "poradnik/"
         weight = 4
       [[languages.pl.menu.main]]
+        identifier = "artykuly"
+        name = "Artykuły"
+        url = "artykuly/"
+        weight = 5
+      [[languages.pl.menu.main]]
         identifier = "materialy"
         name = "Książki"
         url = "resources/"
-        weight = 5
+        weight = 6
       [[languages.pl.menu.main]]
         identifier = "o-nas"
         name = "O nas"
         url = "o-nas/"
-        weight = 6
+        weight = 7
       [[languages.pl.menu.main]]
         identifier = "faq"
         name = "FAQ"
         url = "faq/"
-        weight = 7
+        weight = 8
       [[languages.pl.menu.main]]
         identifier = "kontakt"
         name = "Kontakt"
         url = "o-nas/#kontakt"
-        weight = 8
+        weight = 9
     [languages.pl.params]
       # site description
       description = "Szkoła prawdziwego i nowoczesnego C++. Kursy C++ online i stacjonarne. Poziomy od początkujących, przez zaawansowanych, aż do prawdziwych ekspertów-ninja."
